@@ -1,6 +1,6 @@
-﻿cohort,n_test_patients,ref_transformer_author_code_pooled,ref_transformer_author_code_fold_mean_sd,ref_graph_author_code_pooled,ref_graph_author_code_fold_mean_sd,ensembled_streams_ours_pooled,ensembled_streams_ours_fold_mean_sd
-BRCA,564,0.7677,0.7678 ± 0.0373,0.8138,0.8139 ± 0.0482,0.8688,0.8688 ± 0.0169
-LGG,502,0.8625,0.8625 ± 0.1277,0.8904,0.8901 ± 0.1283,0.9801,0.9801 ± 0.0123
-KIPAN,512,0.8574,0.8575 ± 0.0475,0.9453,0.9453 ± 0.0130,0.9570,0.9571 ± 0.0146
-COADREAD,322,0.6988,0.6984 ± 0.0752,0.6957,0.6959 ± 0.0524,0.7578,0.7577 ± 0.0393
-STAD,343,0.7085,0.7085 ± 0.0362,0.8367,0.8368 ± 0.0402,0.8542,0.8539 ± 0.0397
+﻿cohort,n_test_patients,transformer_stream_author_code,graph_stream_author_code,ensembled_streams_ours_fold_mean_sd
+BRCA,564,0.7678 ± 0.0373,0.8139 ± 0.0482,0.8688 ± 0.0169
+LGG,502,0.8625 ± 0.1277,0.8901 ± 0.1283,0.9801 ± 0.0123
+KIPAN,512,0.8575 ± 0.0475,0.9453 ± 0.0130,0.9571 ± 0.0146
+COADREAD,322,0.6984 ± 0.0752,0.6959 ± 0.0524,0.7577 ± 0.0393
+STAD,343,0.7085 ± 0.0362,0.8368 ± 0.0402,0.8539 ± 0.0397
