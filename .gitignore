@@ -27,6 +27,14 @@ results/final_ensembled_streams/figures/main/fig1_classification_vs_papers.*
 # our own research paper (LaTeX)
 paper/
 
+# results: only results/comparison_author_code/ is pushed (owner decision 2026-11-10);
+# nothing from the authors' baseline runs
+results/README.md
+results/final_ensembled_streams/
+results/baselines_author_code/
+external/
+src/export_for_author_code.py
+
 # logs and the archive from before the one-sample-per-patient fix
 logs/
 results/*/logs/

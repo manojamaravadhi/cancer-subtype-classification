@@ -16,7 +16,18 @@ Two published methods are used unchanged as streams and joined by a bilateral cr
 BRCA and COADREAD re-trained 2026-11-10 with one sample per patient - 5 metastatic samples of patients who also have a
 primary sample removed; old files in `results/archive_with_duplicate_samples/`).
 
-### Not included in the GitHub repository
+### GitHub repository
+
+The repository holds only our model's code (`src/`, without the stream models - see below), its small input files
+(`configs/cohorts.json`, `data/labels/`, `data/biological_priors/`) and the accuracy comparison
+(`results/comparison_author_code/`). Folders and files mentioned below that are not in the repository are kept
+locally by the authors.
+
+Not included in the GitHub repository:
+
+- `results/final_ensembled_streams/` (our model's predictions, report and figures), `results/baselines_author_code/`
+  (outputs of the reference methods' code), `external/CHANGES.md` and `src/export_for_author_code.py`
+  (data export for the reference methods' code).
 
 - `src/models/exact_streams.py` - the two stream models, reproduced from the reference methods' released code;
   get that code from the authors' repositories linked in the two papers (Int. J. Mol. Sci. 2026, 27, 4237;
