@@ -26,6 +26,8 @@ primary sample removed; old files in `results/archive_with_duplicate_samples/`).
 - The Illumina 450K manifest (GEO GPL13534, 64 MB) - only the source of the included
   `data/biological_priors/hm450_tss1500_probe_to_gene.tsv`; download it from GEO if needed.
 - `papers/` (reference PDFs), all log files and `results/archive_with_duplicate_samples/`.
+- `paper/` (our manuscript), `configs/base_paper_results.json` (numbers published in the reference papers) and the figure
+  `fig1_classification_vs_papers` made from it; `src/report_exact.py` and `src/plot_exact.py` read that file.
 
 ## Cohorts (configs/cohorts.json)
 

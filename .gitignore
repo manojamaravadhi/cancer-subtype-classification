@@ -19,8 +19,13 @@ external/ref_graph_run/
 external/ref_transformer_original/
 external/ref_transformer_run/
 
-# reference papers (PDFs)
+# reference papers (PDFs) and the numbers / figure taken from them
 papers/
+configs/base_paper_results.json
+results/final_ensembled_streams/figures/main/fig1_classification_vs_papers.*
+
+# our own research paper (LaTeX)
+paper/
 
 # logs and the archive from before the one-sample-per-patient fix
 logs/
