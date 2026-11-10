@@ -1,0 +1,29 @@
+# Not pushed to GitHub (owner decision 2026-11-10)
+
+# Python environment and compiled files
+.venv/
+__pycache__/
+*.pyc
+
+# data: raw downloads and processed matrices (rebuilt with src/download_tcga.py and src/preprocess_exact.py)
+data/raw/
+data/processed_exact/
+data/processed_exact_archive_with_duplicate_samples/
+data/biological_priors/GPL13534_HumanMethylation450_15017482_v.1.1.csv.gz
+data/biological_priors/raw_downloads/
+
+# code of the two reference methods (authors' code, not ours), incl. our copy of their stream models
+src/models/exact_streams.py
+external/ref_graph_original/
+external/ref_graph_run/
+external/ref_transformer_original/
+external/ref_transformer_run/
+
+# reference papers (PDFs)
+papers/
+
+# logs and the archive from before the one-sample-per-patient fix
+logs/
+results/*/logs/
+results/archive_with_duplicate_samples/
+*.log

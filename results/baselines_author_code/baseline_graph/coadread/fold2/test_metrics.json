@@ -1,0 +1,24 @@
+{
+ "cancer": "coadread",
+ "omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "train_accuracy_per_omics": [
+  0.7713178294573644,
+  0.937984496124031,
+  0.9341085271317829
+ ],
+ "selected_omics": [
+  "mrna",
+  "mirna"
+ ],
+ "reported_model": "selected omics",
+ "n_train": 258,
+ "n_test": 64,
+ "accuracy": 0.75,
+ "macro_f1": 0.391812865497076,
+ "weighted_f1": 0.6853070175438596,
+ "training_seconds": 18.960526943206787
+}

@@ -1,0 +1,30 @@
+{
+ "cancer": "kipan",
+ "fold": 2,
+ "best_epoch": 23,
+ "best_validation_accuracy": 0.8780487804878049,
+ "n_train": 368,
+ "n_validation": 41,
+ "n_test": 103,
+ "accuracy": 0.8349514563106796,
+ "macro_f1": 0.6438356164383561,
+ "weighted_f1": 0.7929815894970836,
+ "macro_precision": 0.9011781011781013,
+ "macro_recall": 0.6552706552706552,
+ "settings": {
+  "cancertype": "kipan",
+  "fold": 2,
+  "epochs": 50,
+  "pretrain_epochs": 50,
+  "head": 1,
+  "dp": 0.1,
+  "batch_size": 64,
+  "lr_e": 0.0001,
+  "lr_c": 0.0001,
+  "dim_feedforward": 512,
+  "d_model": 512,
+  "seed": 42,
+  "data_dir": "data/author_format/trans/kipan/fold2",
+  "out_dir": "results/baselines_author_code/baseline_transformer/kipan/fold2"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "cancer": "lgg",
+ "fold": 4,
+ "best_epoch": 12,
+ "best_validation_accuracy": 0.675,
+ "n_train": 362,
+ "n_validation": 40,
+ "n_test": 100,
+ "accuracy": 0.67,
+ "macro_f1": 0.5880075112190878,
+ "weighted_f1": 0.5825588007511219,
+ "macro_precision": 0.6721876297218762,
+ "macro_recall": 0.6549375332270069,
+ "settings": {
+  "cancertype": "lgg",
+  "fold": 4,
+  "epochs": 50,
+  "pretrain_epochs": 50,
+  "head": 1,
+  "dp": 0.1,
+  "batch_size": 64,
+  "lr_e": 0.0001,
+  "lr_c": 0.0001,
+  "dim_feedforward": 512,
+  "d_model": 512,
+  "seed": 42,
+  "data_dir": "data/author_format/trans/lgg/fold4",
+  "out_dir": "results/baselines_author_code/baseline_transformer/lgg/fold4"
+ }
+}

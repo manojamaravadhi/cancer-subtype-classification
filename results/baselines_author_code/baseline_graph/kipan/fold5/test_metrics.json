@@ -1,0 +1,25 @@
+{
+ "cancer": "kipan",
+ "omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "train_accuracy_per_omics": [
+  0.9658536585365853,
+  0.9829268292682927,
+  0.9951219512195122
+ ],
+ "selected_omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "reported_model": "all the omics",
+ "n_train": 410,
+ "n_test": 102,
+ "accuracy": 0.9607843137254902,
+ "macro_f1": 0.9397426534515736,
+ "weighted_f1": 0.960403203534935,
+ "training_seconds": 22.083017587661743
+}

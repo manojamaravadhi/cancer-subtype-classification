@@ -1,0 +1,30 @@
+{
+ "cancer": "stad",
+ "fold": 4,
+ "best_epoch": 47,
+ "best_validation_accuracy": 0.7857142857142857,
+ "n_train": 247,
+ "n_validation": 28,
+ "n_test": 68,
+ "accuracy": 0.7058823529411765,
+ "macro_f1": 0.3476190476190476,
+ "weighted_f1": 0.6351540616246498,
+ "macro_precision": 0.4095238095238095,
+ "macro_recall": 0.34444444444444444,
+ "settings": {
+  "cancertype": "stad",
+  "fold": 4,
+  "epochs": 50,
+  "pretrain_epochs": 50,
+  "head": 1,
+  "dp": 0.1,
+  "batch_size": 64,
+  "lr_e": 0.0001,
+  "lr_c": 0.0001,
+  "dim_feedforward": 512,
+  "d_model": 512,
+  "seed": 42,
+  "data_dir": "data/author_format/trans/stad/fold4",
+  "out_dir": "results/baselines_author_code/baseline_transformer/stad/fold4"
+ }
+}

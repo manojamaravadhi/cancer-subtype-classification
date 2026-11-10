@@ -1,0 +1,59 @@
+{
+  "_note": "Cohort registry read by src/download_tcga.py, src/build_cancer_drivers.py, src/preprocess_exact.py, src/train_exact.py, src/report_exact.py and src/plot_exact.py. The BRCA / LGG / KIPAN entries reproduce the settings used before this file existed. To add a cohort: add an entry with its TCGA project(s), raw-data folder per project, label source, class order, transformer-stream attention heads and driver-list rule. Label types: 'xena_clinical' (column of the Xena <PROJECT>_clinicalMatrix.tsv), 'file' (table of patient id -> subtype), 'project' (class = TCGA project; for merged cohorts such as KIPAN). The 5 cohorts below are the ones used in the final results (results/final_ensembled_streams); the earlier entries brca, brca_pancan and ucec were removed on 2026-11-03.",
+  "kipan": {
+    "name": "TCGA-KIPAN",
+    "projects": {"KIRC": "data/raw/tcga_kipan/tcga_kirc", "KIRP": "data/raw/tcga_kipan/tcga_kirp",
+                 "KICH": "data/raw/tcga_kipan/tcga_kich"},
+    "labels": {"type": "project", "classes": ["KIRC", "KIRP", "KICH"],
+               "source": "TCGA project (KIRC/KIRP/KICH)"},
+    "trans_heads": 2,
+    "drivers": {"ncg_screen_contains": ["renal"], "ncg_screen_excludes": ["angiomyolipoma"],
+                "oncomir_codes": ["KIRC", "KIRP", "KICH"]}
+  },
+  "lgg": {
+    "name": "TCGA-LGG",
+    "projects": {"LGG": "data/raw/tcga_lgg"},
+    "labels": {"type": "file", "path": "data/labels/lgg_pancanatlas_subtype.tsv",
+               "id_column": "patientId", "label_column": "SUBTYPE", "id_length": 12,
+               "classes": ["LGG_IDHmut-codel", "LGG_IDHmut-non-codel", "LGG_IDHwt"],
+               "source": "cBioPortal lgg_tcga_pan_can_atlas_2018 SUBTYPE (as the reference graph method)"},
+    "trans_heads": 4,
+    "drivers": {"ncg_screen_exact": ["low grade glioma", "oligodendroglioma", "pan-glioma", "glioma"],
+                "oncomir_codes": null,
+                "oncomir_note": "all (pan-cancer list; no LGG normals in OncomiR)"}
+  },
+  "brca_combined": {
+    "name": "TCGA-BRCA (combined PAM50 labels)",
+    "projects": {"BRCA": "data/raw/tcga_brca"},
+    "labels": {"type": "file", "path": "data/labels/brca_combined_subtype.tsv",
+               "id_column": "patientId", "label_column": "SUBTYPE", "id_length": 12,
+               "classes": ["BRCA_LumA", "BRCA_LumB", "BRCA_Basal", "BRCA_Her2", "BRCA_Normal"],
+               "source": "PAM50: cBioPortal brca_tcga_pan_can_atlas_2018 SUBTYPE; patients without it take Xena BRCA_clinicalMatrix PAM50Call_RNAseq (column 'source' in the label file)"},
+    "paper_key": "brca",
+    "trans_heads": 4,
+    "drivers": {"ncg_screen_contains": ["breast"], "ncg_screen_excludes": ["fibro"],
+                "oncomir_codes": ["BRCA"]}
+  },
+  "coadread": {
+    "name": "TCGA-COADREAD",
+    "projects": {"COAD": "data/raw/tcga_coadread/tcga_coad", "READ": "data/raw/tcga_coadread/tcga_read"},
+    "labels": {"type": "file", "path": "data/labels/coadread_subtype.tsv",
+               "id_column": "patientId", "label_column": "SUBTYPE", "id_length": 12,
+               "classes": ["COAD_CIN", "READ_CIN", "COAD_MSI", "COAD_GS", "READ_GS", "COAD_POLE", "READ_POLE", "READ_MSI"],
+               "source": "cBioPortal coadread_tcga_pan_can_atlas_2018 SUBTYPE, all 8 values as separate classes (as the reference graph method, Table 1: 8 classes)"},
+    "trans_heads": 4,
+    "drivers": {"ncg_screen_contains": ["colorectal"],
+                "oncomir_codes": ["COAD", "READ"]}
+  },
+  "stad": {
+    "name": "TCGA-STAD",
+    "projects": {"STAD": "data/raw/tcga_stad"},
+    "labels": {"type": "file", "path": "data/labels/stad_subtype.tsv",
+               "id_column": "patientId", "label_column": "SUBTYPE", "id_length": 12,
+               "classes": ["STAD_CIN", "STAD_MSI", "STAD_GS", "STAD_EBV", "STAD_POLE"],
+               "source": "cBioPortal stad_tcga_pan_can_atlas_2018 SUBTYPE, 5 classes (as the reference graph method, Table 1: 5 classes)"},
+    "trans_heads": 4,
+    "drivers": {"ncg_screen_contains": ["gastric"],
+                "oncomir_codes": ["STAD"]}
+  }
+}

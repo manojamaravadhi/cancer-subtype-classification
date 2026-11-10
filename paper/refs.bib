@@ -1,0 +1,371 @@
+% References for the Ensembled Transformer-Graph Streams paper.
+% Entries marked "% CHECK" need a detail confirmed (volume, pages or DOI) before submission.
+% Nothing here is invented: the five papers in papers/ were read from their PDFs; the others are standard references.
+
+% ---------------- methods used as streams and compared methods (papers/) ----------------
+@article{meng2026motcs,
+  author  = {Meng, Ping and Wang, Guohua and Zhang, Tianjiao},
+  title   = {{MOTCS}: A Cancer Subtype Classification and Key Biomarker Recognition Model Based on Multi-Omics Data Integration of Transformer},
+  journal = {International Journal of Molecular Sciences},
+  year    = {2026},
+  volume  = {27},
+  pages   = {4237}
+}
+
+@article{dou2025mogcan,
+  author  = {Dou, Yifan and Mirzaei, Golrokh},
+  title   = {{MO-GCAN}: multi-omics integration based on graph convolutional and attention networks},
+  journal = {Bioinformatics},
+  year    = {2025},
+  volume  = {41},
+  number  = {8},
+  pages   = {btaf405},
+  doi     = {10.1093/bioinformatics/btaf405}
+}
+
+@article{fu2026fastmi,
+  author  = {Fu, Xufeng and Lai, Bipeng and He, Rongling and Huang, Xiuji and Jiang, Qin and Li, Hui},
+  title   = {{FastMI-HGNet}: A Two-Stream Heterogeneous Graph Neural Network for Multi-Omics Disease Classification},
+  journal = {Genes},
+  year    = {2026},
+  volume  = {17},
+  pages   = {865}
+}
+
+@article{wu2024deepmoic,
+  author  = {Wu, Jiecheng and Chen, Zhaoliang and Xiao, Shunxin and Liu, Genggeng and Wu, Wenjie and Wang, Shiping},
+  title   = {{DeepMoIC}: multiomics data integration via deep graph convolutional networks for cancer subtype classification},
+  journal = {BMC Genomics},
+  year    = {2024},
+  volume  = {25},
+  pages   = {1209},
+  doi     = {10.1186/s12864-024-11112-5}
+}
+
+% Checked 2026-11-09: not in PubMed; the arXiv record (2207.14639, 28 Jul 2022) has no journal reference.
+% The PDF in papers/ is a journal-template submission version, so the preprint is cited.
+@article{yang2022subtypeformer,
+  author  = {Yang, Hai and Sheng, Yuhang and Jiang, Yi and Fang, Xiaoyang and Li, Dongdong and Zhang, Jing and Wang, Zhe},
+  title   = {Subtype-Former: a deep learning approach for cancer subtype discovery with multi-omics data},
+  journal = {arXiv preprint arXiv:2207.14639},
+  year    = {2022}
+}
+
+@article{wang2021mogonet,
+  author  = {Wang, Tongxin and Shao, Wei and Huang, Zhi and Tang, Haixu and Zhang, Jie and Ding, Zhengming and Huang, Kun},
+  title   = {{MOGONET} integrates multi-omics data using graph convolutional networks allowing patient classification and biomarker identification},
+  journal = {Nature Communications},
+  year    = {2021},
+  volume  = {12},
+  pages   = {3445}
+}
+
+% ---------------- building blocks ----------------
+@inproceedings{vaswani2017attention,
+  author    = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  title     = {Attention is all you need},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2017}
+}
+
+@inproceedings{kipf2017gcn,
+  author    = {Kipf, Thomas N. and Welling, Max},
+  title     = {Semi-supervised classification with graph convolutional networks},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2017}
+}
+
+@inproceedings{velickovic2018gat,
+  author    = {Veli{\v{c}}kovi{\'c}, Petar and Cucurull, Guillem and Casanova, Arantxa and Romero, Adriana and Li{\`o}, Pietro and Bengio, Yoshua},
+  title     = {Graph attention networks},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2018}
+}
+
+@article{wang2014snf,
+  author  = {Wang, Bo and Mezlini, Aziz M. and Demir, Feyyaz and Fiume, Marc and Tu, Zhuowen and Brudno, Michael and Haibe-Kains, Benjamin and Goldenberg, Anna},
+  title   = {Similarity network fusion for aggregating data types on a genomic scale},
+  journal = {Nature Methods},
+  year    = {2014},
+  volume  = {11},
+  pages   = {333--337}
+}
+
+@inproceedings{lin2017focal,
+  author    = {Lin, Tsung-Yi and Goyal, Priya and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  title     = {Focal loss for dense object detection},
+  booktitle = {Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
+  year      = {2017},
+  pages     = {2980--2988}
+}
+
+@inproceedings{cui2019classbalanced,
+  author    = {Cui, Yin and Jia, Menglin and Lin, Tsung-Yi and Song, Yang and Belongie, Serge},
+  title     = {Class-balanced loss based on effective number of samples},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2019},
+  pages     = {9268--9277}
+}
+
+@article{cox1972,
+  author  = {Cox, David R.},
+  title   = {Regression models and life-tables},
+  journal = {Journal of the Royal Statistical Society: Series B},
+  year    = {1972},
+  volume  = {34},
+  number  = {2},
+  pages   = {187--220}
+}
+
+@article{katzman2018deepsurv,
+  author  = {Katzman, Jared L. and Shaham, Uri and Cloninger, Alexander and Bates, Jonathan and Jiang, Tingting and Kluger, Yuval},
+  title   = {{DeepSurv}: personalized treatment recommender system using a {Cox} proportional hazards deep neural network},
+  journal = {BMC Medical Research Methodology},
+  year    = {2018},
+  volume  = {18},
+  pages   = {24}
+}
+
+@article{breiman1996bagging,
+  author  = {Breiman, Leo},
+  title   = {Bagging predictors},
+  journal = {Machine Learning},
+  year    = {1996},
+  volume  = {24},
+  number  = {2},
+  pages   = {123--140}
+}
+
+@article{ho1998subspace,
+  author  = {Ho, Tin Kam},
+  title   = {The random subspace method for constructing decision forests},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year    = {1998},
+  volume  = {20},
+  number  = {8},
+  pages   = {832--844}
+}
+
+@article{harrell1982cindex,
+  author  = {Harrell, Frank E. and Califf, Robert M. and Pryor, David B. and Lee, Kerry L. and Rosati, Robert A.},
+  title   = {Evaluating the yield of medical tests},
+  journal = {JAMA},
+  year    = {1982},
+  volume  = {247},
+  number  = {18},
+  pages   = {2543--2546}
+}
+
+@article{mcnemar1947,
+  author  = {McNemar, Quinn},
+  title   = {Note on the sampling error of the difference between correlated proportions or percentages},
+  journal = {Psychometrika},
+  year    = {1947},
+  volume  = {12},
+  number  = {2},
+  pages   = {153--157}
+}
+
+@article{troyanskaya2001knn,
+  author  = {Troyanskaya, Olga and Cantor, Michael and Sherlock, Gavin and Brown, Pat and Hastie, Trevor and Tibshirani, Robert and Botstein, David and Altman, Russ B.},
+  title   = {Missing value estimation methods for {DNA} microarrays},
+  journal = {Bioinformatics},
+  year    = {2001},
+  volume  = {17},
+  number  = {6},
+  pages   = {520--525}
+}
+
+% ---------------- data and resources ----------------
+@article{weinstein2013tcga,
+  author  = {{Cancer Genome Atlas Research Network} and Weinstein, John N. and others},
+  title   = {The {Cancer Genome Atlas} Pan-Cancer analysis project},
+  journal = {Nature Genetics},
+  year    = {2013},
+  volume  = {45},
+  pages   = {1113--1120}
+}
+
+@article{goldman2020xena,
+  author  = {Goldman, Mary J. and Craft, Brian and Hastie, Mim and Repe{\v{c}}ka, Kristupas and McDade, Fran and Kamath, Akhil and Banerjee, Ayan and Luo, Yunhai and Rogers, Dave and Brooks, Angela N. and Zhu, Jingchun and Haussler, David},
+  title   = {Visualizing and interpreting cancer genomics data via the {Xena} platform},
+  journal = {Nature Biotechnology},
+  year    = {2020},
+  volume  = {38},
+  pages   = {675--678}
+}
+
+@article{cerami2012cbioportal,
+  author  = {Cerami, Ethan and Gao, Jianjiong and Dogrusoz, Ugur and others},
+  title   = {The {cBio} cancer genomics portal: an open platform for exploring multidimensional cancer genomics data},
+  journal = {Cancer Discovery},
+  year    = {2012},
+  volume  = {2},
+  number  = {5},
+  pages   = {401--404}
+}
+
+@article{gao2013cbioportal,
+  author  = {Gao, Jianjiong and Aksoy, B{\"u}lent Arman and Dogrusoz, Ugur and others},
+  title   = {Integrative analysis of complex cancer genomics and clinical profiles using the {cBioPortal}},
+  journal = {Science Signaling},
+  year    = {2013},
+  volume  = {6},
+  number  = {269},
+  pages   = {pl1}
+}
+
+@article{hoadley2018pancan,
+  author  = {Hoadley, Katherine A. and Yau, Christina and Hinoue, Toshinori and others},
+  title   = {Cell-of-origin patterns dominate the molecular classification of 10,000 tumors from 33 types of cancer},
+  journal = {Cell},
+  year    = {2018},
+  volume  = {173},
+  number  = {2},
+  pages   = {291--304}
+}
+
+@article{parker2009pam50,
+  author  = {Parker, Joel S. and Mullins, Michael and Cheang, Maggie C. U. and others},
+  title   = {Supervised risk predictor of breast cancer based on intrinsic subtypes},
+  journal = {Journal of Clinical Oncology},
+  year    = {2009},
+  volume  = {27},
+  number  = {8},
+  pages   = {1160--1167}
+}
+
+@article{tcga2015lgg,
+  author  = {{Cancer Genome Atlas Research Network}},
+  title   = {Comprehensive, integrative genomic analysis of diffuse lower-grade gliomas},
+  journal = {New England Journal of Medicine},
+  year    = {2015},
+  volume  = {372},
+  pages   = {2481--2498}
+}
+
+@article{tcga2012crc,
+  author  = {{Cancer Genome Atlas Network}},
+  title   = {Comprehensive molecular characterization of human colon and rectal cancer},
+  journal = {Nature},
+  year    = {2012},
+  volume  = {487},
+  pages   = {330--337}
+}
+
+@article{tcga2014stad,
+  author  = {{Cancer Genome Atlas Research Network}},
+  title   = {Comprehensive molecular characterization of gastric adenocarcinoma},
+  journal = {Nature},
+  year    = {2014},
+  volume  = {513},
+  pages   = {202--209}
+}
+
+% PubMed 30283143 (checked 2026-11-09); abstract: "EPM2AIP1-MLH1 CpG island".
+@article{damaso2018mlh1,
+  author  = {D{\'a}maso, E. and Castillejo, A. and Arias, M. D. M. and others},
+  title   = {Primary constitutional {MLH1} epimutations: a focal epigenetic event},
+  journal = {British Journal of Cancer},
+  year    = {2018},
+  volume  = {119},
+  number  = {8},
+  pages   = {978--987},
+  doi     = {10.1038/s41416-018-0019-8}
+}
+
+@article{tcga2013kirc,
+  author  = {{Cancer Genome Atlas Research Network}},
+  title   = {Comprehensive molecular characterization of clear cell renal cell carcinoma},
+  journal = {Nature},
+  year    = {2013},
+  volume  = {499},
+  pages   = {43--49}
+}
+
+@article{dressler2022ncg,
+  author  = {Dressler, Lisa and Bortolomeazzi, Michele and Keddar, Mohamed Reda and others},
+  title   = {Comparative assessment of genes driving cancer and somatic evolution in non-cancer tissues: an update of the {Network of Cancer Genes (NCG)} resource},
+  journal = {Genome Biology},
+  year    = {2022},
+  volume  = {23},
+  pages   = {35}
+}
+
+@article{sarver2018oncomir,
+  author  = {Sarver, Aaron L. and Sarver, Anne E. and Yuan, Ce and Subramanian, Subbaya},
+  title   = {{OncomiR}: an online resource for exploring pan-cancer {microRNA} dysregulation},
+  journal = {Bioinformatics},
+  year    = {2018},
+  volume  = {34},
+  number  = {4},
+  pages   = {713--715}
+}
+
+% CHECK: our gff3 header says miRBase v23.1; this is the standard miRBase reference (release 22).
+@article{kozomara2019mirbase,
+  author  = {Kozomara, Ana and Birgaoanu, Maria and Griffiths-Jones, Sam},
+  title   = {{miRBase}: from {microRNA} sequences to function},
+  journal = {Nucleic Acids Research},
+  year    = {2019},
+  volume  = {47},
+  number  = {D1},
+  pages   = {D155--D162}
+}
+
+@article{tian2017champ,
+  author  = {Tian, Yuan and Morris, Tiffany J. and Webster, Amy P. and others},
+  title   = {{ChAMP}: updated methylation analysis pipeline for {Illumina BeadChips}},
+  journal = {Bioinformatics},
+  year    = {2017},
+  volume  = {33},
+  number  = {24},
+  pages   = {3982--3984}
+}
+
+@article{kuleshov2016enrichr,
+  author  = {Kuleshov, Maxim V. and Jones, Matthew R. and Rouillard, Andrew D. and others},
+  title   = {{Enrichr}: a comprehensive gene set enrichment analysis web server 2016 update},
+  journal = {Nucleic Acids Research},
+  year    = {2016},
+  volume  = {44},
+  number  = {W1},
+  pages   = {W90--W97}
+}
+
+@article{fang2023gseapy,
+  author  = {Fang, Zhuoqing and Liu, Xinyuan and Peltz, Gary},
+  title   = {{GSEApy}: a comprehensive package for performing gene set enrichment analysis in {Python}},
+  journal = {Bioinformatics},
+  year    = {2023},
+  volume  = {39},
+  number  = {1},
+  pages   = {btac757}
+}
+
+% ---------------- software ----------------
+@inproceedings{paszke2019pytorch,
+  author    = {Paszke, Adam and Gross, Sam and Massa, Francisco and others},
+  title     = {{PyTorch}: an imperative style, high-performance deep learning library},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2019}
+}
+
+@article{pedregosa2011sklearn,
+  author  = {Pedregosa, Fabian and Varoquaux, Ga{\"e}l and Gramfort, Alexandre and others},
+  title   = {Scikit-learn: machine learning in {Python}},
+  journal = {Journal of Machine Learning Research},
+  year    = {2011},
+  volume  = {12},
+  pages   = {2825--2830}
+}
+
+@article{davidson2019lifelines,
+  author  = {Davidson-Pilon, Cameron},
+  title   = {lifelines: survival analysis in {Python}},
+  journal = {Journal of Open Source Software},
+  year    = {2019},
+  volume  = {4},
+  number  = {40},
+  pages   = {1317}
+}

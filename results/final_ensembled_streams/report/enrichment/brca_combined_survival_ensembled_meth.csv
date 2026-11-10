@@ -1,0 +1,416 @@
+list,Gene_set,Term,Overlap,P-value,Adjusted P-value,Old P-value,Old Adjusted P-value,Odds Ratio,Combined Score,Genes
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"Co-Transcriptional RNA 3'-End Processing, Cleavage and Polyadenylation Pathway (GO:0180012)",2/10,9.7147588503534e-05,0.0263269964844577,0,0,178.23214285714286,1646.7365311362207,ZCCHC8;CSTF3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Collagen Biosynthetic Process (GO:0032965),2/20,0.00040637445946356223,0.0550637392573126,0,0,79.17460317460318,618.2139479571657,CIITA;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,mRNA 3'-End Processing (GO:0031124),2/27,0.0007458431753894333,0.0673745001768454,0,0,56.98571428571429,410.3538550694941,ZCCHC8;CSTF3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Vasculature Development (GO:1901342),2/35,0.0012549361838792,0.0850219264578179,0,0,43.15367965367965,288.29551709674206,RNASEH1;ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,RNA 3'-End Processing (GO:0031123),2/49,0.002448238177796,0.0926594326508649,0,0,30.27811550151976,182.0437366477304,ZCCHC8;CSTF3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Angiogenesis (GO:0045765),3/211,0.0038097613958688,0.0926594326508649,0,0,10.556623931623932,58.8023875194642,RNASEH1;ERBB2;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,RNA Catabolic Process (GO:0006401),2/79,0.0062378258777614,0.0926594326508649,0,0,18.45361781076067,93.69129801882784,ZCCHC8;RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Sphingolipid Biosynthetic Process (GO:0030148),2/83,0.0068642280423139,0.0926594326508649,0,0,17.538800705467374,87.36833771598931,ORMDL3;B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,5S Class rRNA Transcription by RNA Polymerase III (GO:0042791),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,GTF3C5
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Granulocyte Differentiation (GO:0030854),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,ERBB2-EGFR Signaling Pathway (GO:0038134),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Peripheral Nervous System Neuron Development (GO:0048935),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Glucagon (GO:0033762),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Clearance of Foreign Intracellular DNA (GO:0044355),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Clearance of Foreign Intracellular Nucleic Acids (GO:0099046),1/5,0.0074781928285412,0.0926594326508649,0,0,172.1206896551724,842.6622961465415,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Granulocyte Differentiation (GO:0030853),1/6,0.008967337727522,0.0926594326508649,0,0,137.68965517241378,649.0919521468393,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Catecholamine (GO:0071869),1/6,0.008967337727522,0.0926594326508649,0,0,137.68965517241378,649.0919521468393,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Sensory Perception of Chemical Stimulus (GO:0007606),2/100,0.0098285778207101,0.0926594326508649,0,0,14.48396501457726,66.95156387938638,OR9Q2;GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Monoamine Stimulus (GO:0071868),1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Prostaglandin E Stimulus (GO:0071380),1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"Positive Regulation of CD8-positive, Alpha-Beta T Cell Activation (GO:2001187)",1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"Regulation of CD8-positive, Alpha-Beta T Cell Differentiation (GO:0043376)",1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Adenylate Cyclase-Activating Dopamine Receptor Signaling Pathway (GO:0007191),1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of B Cell Apoptotic Process (GO:0002903),1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Axon Ensheathment in Central Nervous System (GO:0032291),1/7,0.0104543235506301,0.0926594326508649,0,0,114.73563218390804,523.2793468811269,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,DNA Cytosine Deamination (GO:0070383),1/8,0.0119391531667426,0.0926594326508649,0,0,98.33990147783253,435.442406227662,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Vascular Endothelial Cell Response to Laminar Fluid Shear Stress (GO:0097700),1/8,0.0119391531667426,0.0926594326508649,0,0,98.33990147783253,435.442406227662,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"Co-Transcriptional mRNA 3'-End Processing, Cleavage and Polyadenylation Pathway (GO:0180010)",1/8,0.0119391531667426,0.0926594326508649,0,0,98.33990147783253,435.442406227662,CSTF3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Alpha-Beta T Cell Differentiation (GO:0046639),1/8,0.0119391531667426,0.0926594326508649,0,0,98.33990147783253,435.442406227662,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Somatic Hypermutation of Immunoglobulin Genes (GO:0016446),1/8,0.0119391531667426,0.0926594326508649,0,0,98.33990147783253,435.442406227662,PMS2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Lymphocyte Apoptotic Process (GO:0070229),1/9,0.0134218294793273,0.0926594326508649,0,0,86.04310344827586,370.92087702683546,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of B Cell Apoptotic Process (GO:0002902),1/9,0.0134218294793273,0.0926594326508649,0,0,86.04310344827586,370.92087702683546,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Central Nervous System Neuron Axonogenesis (GO:0021955),1/9,0.0134218294793273,0.0926594326508649,0,0,86.04310344827586,370.92087702683546,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Prostaglandin (GO:0034694),1/9,0.0134218294793273,0.0926594326508649,0,0,86.04310344827586,370.92087702683546,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,- Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate (GO:0045869),1/9,0.0134218294793273,0.0926594326508649,0,0,86.04310344827586,370.92087702683546,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Antibacterial Innate Immune Response (GO:0140367),1/9,0.0134218294793273,0.0926594326508649,0,0,86.04310344827586,370.92087702683546,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,tRNA Transcription by RNA Polymerase III (GO:0042797),1/10,0.0149023554252653,0.0926594326508649,0,0,76.47892720306514,321.6884165593148,GTF3C5
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Granulocyte Differentiation (GO:0030852),1/10,0.0149023554252653,0.0926594326508649,0,0,76.47892720306514,321.6884165593148,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Prostaglandin Stimulus (GO:0071379),1/10,0.0149023554252653,0.0926594326508649,0,0,76.47892720306514,321.6884165593148,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"Negative Regulation of CD4-positive, Alpha-Beta T Cell Activation (GO:2000515)",1/10,0.0149023554252653,0.0926594326508649,0,0,76.47892720306514,321.6884165593148,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Ceramide Biosynthetic Process (GO:2000303),1/10,0.0149023554252653,0.0926594326508649,0,0,76.47892720306514,321.6884165593148,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Anatomical Structure Morphogenesis (GO:0022603),2/127,0.0154945589841582,0.0926594326508649,0,0,11.34,47.25680040858784,RNASEH1;ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,tRNA Transcription (GO:0009304),1/11,0.0163807339505408,0.0926594326508649,0,0,68.82758620689656,282.994903106762,GTF3C5
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Central Nervous System Myelination (GO:0022010),1/11,0.0163807339505408,0.0926594326508649,0,0,68.82758620689656,282.994903106762,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of MHC Class II Biosynthetic Process (GO:0045348),1/11,0.0163807339505408,0.0926594326508649,0,0,68.82758620689656,282.994903106762,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Hematopoietic Stem Cell Proliferation (GO:0071425),1/11,0.0163807339505408,0.0926594326508649,0,0,68.82758620689656,282.994903106762,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cytidine to Uridine Editing (GO:0016554),1/11,0.0163807339505408,0.0926594326508649,0,0,68.82758620689656,282.994903106762,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Reg of Single Stranded Viral RNA Replication via Double Stranded DNA Intermediate (GO:0045091),1/12,0.0178569680089386,0.0926594326508649,0,0,62.56739811912226,251.8563944353508,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,DNA Deamination (GO:0045006),1/12,0.0178569680089386,0.0926594326508649,0,0,62.56739811912226,251.8563944353508,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Catecholamine Stimulus (GO:0071870),1/12,0.0178569680089386,0.0926594326508649,0,0,62.56739811912226,251.8563944353508,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Vascular Endothelial Cell Response to Fluid Shear Stress (GO:0097699),1/12,0.0178569680089386,0.0926594326508649,0,0,62.56739811912226,251.8563944353508,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"Regulation of CD4-positive, Alpha-Beta T Cell Differentiation (GO:0043370)",1/12,0.0178569680089386,0.0926594326508649,0,0,62.56739811912226,251.8563944353508,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,ERBB2 Signaling Pathway (GO:0038128),1/13,0.0193310605643026,0.0926594326508649,0,0,57.35057471264368,226.30778348154325,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to UV-A (GO:0070141),1/13,0.0193310605643026,0.0926594326508649,0,0,57.35057471264368,226.30778348154325,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Adenylate Cyclase-Activating Adrenergic Receptor Signaling Pathway (GO:0071880),1/13,0.0193310605643026,0.0926594326508649,0,0,57.35057471264368,226.30778348154325,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Alpha-Beta T Cell Differentiation (GO:0046638),1/13,0.0193310605643026,0.0926594326508649,0,0,57.35057471264368,226.30778348154325,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Prostaglandin E (GO:0034695),1/14,0.02080301457834,0.0926594326508649,0,0,52.93633952254642,205.00430545239047,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Ganglioside Biosynthetic Process (GO:0001574),1/15,0.0222728330244505,0.0926594326508649,0,0,49.15270935960592,186.9959576603662,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Renal Water Homeostasis (GO:0003091),1/15,0.0222728330244505,0.0926594326508649,0,0,49.15270935960592,186.9959576603662,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Central Nervous System Neuron Development (GO:0021954),1/15,0.0222728330244505,0.0926594326508649,0,0,49.15270935960592,186.9959576603662,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of MHC Class II Biosynthetic Process (GO:0045346),1/15,0.0222728330244505,0.0926594326508649,0,0,49.15270935960592,186.9959576603662,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Neuron Development (GO:0048666),2/159,0.0236173566502385,0.0926594326508649,0,0,9.01410373066424,33.76478985279455,B4GALT6;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Oligodendrocyte Development (GO:0014003),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Epoxygenase P450 Pathway (GO:0019373),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,CYP2F1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Laminar Fluid Shear Stress (GO:0071499),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Multicellular Organism Growth (GO:0040014),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Collagen Biosynthetic Process (GO:0032967),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Plasminogen Activation (GO:0010755),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Base Conversion or Substitution Editing (GO:0016553),1/16,0.0237405188646141,0.0926594326508649,0,0,45.87356321839081,171.5933676703201,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Carbohydrate Derivative Transport (GO:1901264),1/17,0.0252060750668781,0.0926594326508649,0,0,43.00431034482759,158.28468525367578,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Inflammatory Response to Antigenic Stimulus (GO:0002862),1/17,0.0252060750668781,0.0926594326508649,0,0,43.00431034482759,158.28468525367578,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,rRNA Transcription (GO:0009303),1/17,0.0252060750668781,0.0926594326508649,0,0,43.00431034482759,158.28468525367578,GTF3C5
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Collagen Metabolic Process (GO:0010714),1/17,0.0252060750668781,0.0926594326508649,0,0,43.00431034482759,158.28468525367578,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cytoplasmic Pattern Recognition Receptor Signaling Pathway (GO:0039531),1/18,0.0266695046006179,0.0926594326508649,0,0,40.47261663286004,146.68225415832842,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,G Protein-Coupled Dopamine Receptor Signaling Pathway (GO:0007212),1/18,0.0266695046006179,0.0926594326508649,0,0,40.47261663286004,146.68225415832842,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Inflammatory Response to Antigenic Stimulus (GO:0002861),1/18,0.0266695046006179,0.0926594326508649,0,0,40.47261663286004,146.68225415832842,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Activation of Adenylate Cyclase Activity (GO:0007190),1/18,0.0266695046006179,0.0926594326508649,0,0,40.47261663286004,146.68225415832842,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Neuron Maturation (GO:0042551),1/18,0.0266695046006179,0.0926594326508649,0,0,40.47261663286004,146.68225415832842,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Tissue Remodeling (GO:0034103),1/19,0.0281308104264749,0.0932428928067268,0,0,38.22222222222222,136.48734525751556,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Adrenergic Receptor Signaling Pathway (GO:0071875),1/19,0.0281308104264749,0.0932428928067268,0,0,38.22222222222222,136.48734525751556,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Host-Mediated Suppression of Symbiont Invasion (GO:0046597),1/19,0.0281308104264749,0.0932428928067268,0,0,38.22222222222222,136.48734525751556,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Xenobiotic Transport (GO:0042908),1/20,0.0295899955032417,0.0932428928067268,0,0,36.2087114337568,127.46621354176987,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of G2/M Transition of Mitotic Cell Cycle (GO:0010971),1/20,0.0295899955032417,0.0932428928067268,0,0,36.2087114337568,127.46621354176987,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Multicellular Organismal-Level Water Homeostasis (GO:0050891),1/20,0.0295899955032417,0.0932428928067268,0,0,36.2087114337568,127.46621354176987,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Protein Targeting to Membrane (GO:0090314),1/20,0.0295899955032417,0.0932428928067268,0,0,36.2087114337568,127.46621354176987,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Actin Nucleation (GO:0051125),1/20,0.0295899955032417,0.0932428928067268,0,0,36.2087114337568,127.46621354176987,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Neuron Differentiation (GO:0030182),2/181,0.0300143858308318,0.0934861557665745,0,0,7.897446129289705,27.68906595689205,ERBB2;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Amide Metabolic Process (GO:0034249),1/21,0.0310470628007074,0.0934861557665745,0,0,34.39655172413793,119.43346355828848,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cardiac Muscle Cell Proliferation (GO:0060043),1/21,0.0310470628007074,0.0934861557665745,0,0,34.39655172413793,119.43346355828848,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Extracellular Matrix Organization (GO:1903055),1/21,0.0310470628007074,0.0934861557665745,0,0,34.39655172413793,119.43346355828848,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Renal Absorption (GO:0070293),1/22,0.0325020152689227,0.0947101735255706,0,0,32.756978653530375,112.24025378249362,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Adenylate Cyclase Activity (GO:0045762),1/22,0.0325020152689227,0.0947101735255706,0,0,32.756978653530375,112.24025378249362,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,snRNA Metabolic Process (GO:0016073),1/22,0.0325020152689227,0.0947101735255706,0,0,32.756978653530375,112.24025378249362,ZCCHC8
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Generation of Neurons (GO:0048699),2/192,0.0334441341475365,0.0964187271700256,0,0,7.43609022556391,25.26693384983181,ERBB2;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cell Cycle G2/M Phase Transition (GO:1902751),1/23,0.0339548558617346,0.0968606940897902,0,0,31.266457680250785,105.76577819907342,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Extracellular Matrix Organization (GO:1903053),1/24,0.035405587532064,0.09790728797132,0,0,29.90554722638681,99.91101302805887,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Mismatch Repair (GO:0006298),1/24,0.035405587532064,0.09790728797132,0,0,29.90554722638681,99.91101302805887,PMS2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Ketone (GO:1901654),1/24,0.035405587532064,0.09790728797132,0,0,29.90554722638681,99.91101302805887,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cell Differentiation (GO:0045595),2/201,0.0363596994395351,0.0988523754888539,0,0,7.096554199569275,23.520068962576065,SMOC1;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Protein Processing (GO:0070613),1/25,0.0368542132262458,0.0988523754888539,0,0,28.658045977011493,94.59405781572389,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Protein Targeting to Membrane (GO:0090313),1/25,0.0368542132262458,0.0988523754888539,0,0,28.658045977011493,94.59405781572389,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Interleukin-2 Production (GO:0032743),1/26,0.0383007358905153,0.0988523754888539,0,0,27.51034482758621,89.74661743899148,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Arp2/3 Complex-Mediated Actin Nucleation (GO:0034315),1/26,0.0383007358905153,0.0988523754888539,0,0,27.51034482758621,89.74661743899148,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Rho Protein Signal Transduction (GO:0035025),1/26,0.0383007358905153,0.0988523754888539,0,0,27.51034482758621,89.74661743899148,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Limb Development (GO:0060173),1/26,0.0383007358905153,0.0988523754888539,0,0,27.51034482758621,89.74661743899148,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Sensory Perception of Smell (GO:0007608),2/214,0.0407385408512294,0.104152307270596,0,0,6.657008086253369,21.3062915003913,OR9Q2;GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Epidermal Growth Factor Stimulus (GO:0071364),1/28,0.0411874839013458,0.1043159638996703,0,0,25.46998722860792,81.2396025067177,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cell Growth (GO:0001558),2/222,0.0435282605444216,0.1092236908105395,0,0,6.412337662337662,20.098477747341303,ERBB2;OSGIN2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Glycosphingolipid Biosynthetic Process (GO:0006688),1/30,0.0440658550450575,0.1095582267633999,0,0,23.711058263971463,74.02758505991471,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Transcription by RNA Polymerase I (GO:0006356),1/31,0.0455019066193127,0.1110902404849886,0,0,22.919540229885055,70.82140338003367,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Epidermal Growth Factor (GO:0070849),1/31,0.0455019066193127,0.1110902404849886,0,0,22.919540229885055,70.82140338003367,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Alcohol (GO:0097305),1/32,0.0469358727577943,0.1125630222775423,0,0,22.17908787541713,67.84523138217664,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Chondrocyte Differentiation (GO:0002062),1/32,0.0469358727577943,0.1125630222775423,0,0,22.17908787541713,67.84523138217664,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Developmental Growth (GO:0048640),1/33,0.0483677563907074,0.1129970860507045,0,0,21.48491379310345,65.07612542493897,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Transcription by RNA Polymerase III (GO:0006383),1/33,0.0483677563907074,0.1129970860507045,0,0,21.48491379310345,65.07612542493897,GTF3C5
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of G1/S Transition of Mitotic Cell Cycle (GO:1900087),1/33,0.0483677563907074,0.1129970860507045,0,0,21.48491379310345,65.07612542493897,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Transcription by RNA Polymerase I (GO:0045943),1/34,0.0497975604232894,0.1143655836839953,0,0,20.832810867293627,62.494042787714754,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Establishment of Protein Localization (GO:1904951),1/34,0.0497975604232894,0.1143655836839953,0,0,20.832810867293627,62.494042787714754,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Platelet Aggregation (GO:0070527),1/35,0.0512252877849629,0.114727710658884,0,0,20.219066937119678,60.081401552176,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Myeloid Leukocyte Differentiation (GO:0002762),1/35,0.0512252877849629,0.114727710658884,0,0,20.219066937119678,60.081401552176,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Axonogenesis (GO:0050772),1/35,0.0512252877849629,0.114727710658884,0,0,20.219066937119678,60.081401552176,CHODL
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of G2/M Transition of Mitotic Cell Cycle (GO:0010389),1/37,0.0540745240778647,0.1201163608614863,0,0,19.09386973180077,55.70430487305193,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Axonogenesis (GO:0050770),1/38,0.0554960388319167,0.1222717603532475,0,0,18.576887232059647,53.71402231134463,CHODL
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Phosphatidylinositol 3-Kinase/Protein Kinase B Signal Transduction (GO:0043491),1/39,0.0569154885110809,0.1224134713214518,0,0,18.087114337568057,51.84106589215322,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Glycosphingolipid Metabolic Process (GO:0006687),1/39,0.0569154885110809,0.1224134713214518,0,0,18.087114337568057,51.84106589215322,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Semaphorin-Plexin Signaling Pathway (GO:0071526),1/39,0.0569154885110809,0.1224134713214518,0,0,18.087114337568057,51.84106589215322,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Establishment of Protein Localization to Extracellular Region (GO:0035592),1/40,0.058332876023497,0.1235016359559976,0,0,17.622458001768347,50.075790447561154,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Nucleic Acid Catabolic Process (GO:0141188),1/40,0.058332876023497,0.1235016359559976,0,0,17.622458001768347,50.075790447561154,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Visual System Development (GO:0150063),1/41,0.0597482042475946,0.1245520257776781,0,0,17.18103448275862,48.4095601130177,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,RNA Stabilization (GO:0043489),1/41,0.0597482042475946,0.1245520257776781,0,0,17.18103448275862,48.4095601130177,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Ceramide Biosynthetic Process (GO:0046513),1/42,0.0611614760831625,0.1265248856376873,0,0,16.761143818334734,46.83462101550951,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Myeloid Leukocyte Differentiation (GO:0002763),1/43,0.0625726944066545,0.1284376639091934,0,0,16.361247947454842,45.34399265988268,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Microtubule-Based Process (GO:0032886),1/44,0.0639818620949856,0.1284376639091934,0,0,15.979951884522857,43.93137485913406,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cell Cycle G1/S Phase Transition (GO:1902808),1/44,0.0639818620949856,0.1284376639091934,0,0,15.979951884522857,43.93137485913406,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Bone Development (GO:0060348),1/44,0.0639818620949856,0.1284376639091934,0,0,15.979951884522857,43.93137485913406,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Ketone (GO:1901655),1/45,0.0653889820318286,0.1293460885447121,0,0,15.615987460815049,42.59106770539062,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Biosynthetic Process (GO:0009890),1/45,0.0653889820318286,0.1293460885447121,0,0,15.615987460815049,42.59106770539062,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Peptidyl-Tyrosine Modification (GO:0018212),1/46,0.0667940570746933,0.1302243846564164,0,0,15.268199233716476,41.317902512852925,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Homotypic Cell-Cell Adhesion (GO:0034109),1/46,0.0667940570746933,0.1302243846564164,0,0,15.268199233716476,41.317902512852925,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Membrane Lipid Biosynthetic Process (GO:0046467),1/48,0.0695980839810058,0.1325592209942161,0,0,14.617021276595745,38.95462833164002,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Viral Genome Replication (GO:0045071),1/48,0.0695980839810058,0.1325592209942161,0,0,14.617021276595745,38.95462833164002,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,RNA Processing (GO:0006396),2/291,0.0702964079804186,0.1325592209942161,0,0,4.864310430054375,12.914912385325172,ZCCHC8;CSTF3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Epidermal Growth Factor Receptor Signaling Pathway (GO:0007173),1/49,0.070997041562065,0.1325592209942161,0,0,14.311781609195402,37.85633785017516,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,mRNA Catabolic Process (GO:0006402),1/49,0.070997041562065,0.1325592209942161,0,0,14.311781609195402,37.85633785017516,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Arachidonate Metabolic Process (GO:0019369),1/49,0.070997041562065,0.1325592209942161,0,0,14.311781609195402,37.85633785017516,CYP2F1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Interleukin-2 Production (GO:0032663),1/50,0.0723939657090184,0.1325592209942161,0,0,14.019000703729768,36.80874147674154,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Myelination (GO:0042552),1/50,0.0723939657090184,0.1325592209942161,0,0,14.019000703729768,36.80874147674154,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cognition (GO:0050890),1/50,0.0723939657090184,0.1325592209942161,0,0,14.019000703729768,36.80874147674154,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Sensory Perception (GO:0007600),1/52,0.0751817250984591,0.1367399161186739,0,0,13.46788370520622,34.852823720532044,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Ceramide Metabolic Process (GO:0006672),1/53,0.0765725660346981,0.1374249363933986,0,0,13.208222811671089,33.938745289872976,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Small GTPase Mediated Signal Transduction (GO:0051057),1/53,0.0765725660346981,0.1374249363933986,0,0,13.208222811671089,33.938745289872976,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Glycolipid Biosynthetic Process (GO:0009247),1/55,0.0793481846088859,0.140543792571773,0,0,12.717752234993617,32.22563588457274,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Peptide Hormone Secretion (GO:0090276),1/55,0.0793481846088859,0.140543792571773,0,0,12.717752234993617,32.22563588457274,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Alcohol (GO:0097306),1/56,0.0807329679040596,0.140543792571773,0,0,12.4858934169279,31.42210254292495,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Protein Localization to Nucleus (GO:1900180),1/56,0.0807329679040596,0.140543792571773,0,0,12.4858934169279,31.42210254292495,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cartilage Development (GO:0051216),1/57,0.0821157376538747,0.140543792571773,0,0,12.26231527093596,30.65119706904604,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Myeloid Cell Differentiation (GO:0030099),1/57,0.0821157376538747,0.140543792571773,0,0,12.26231527093596,30.65119706904604,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,ERBB Signaling Pathway (GO:0038127),1/58,0.0834964966939316,0.140543792571773,0,0,12.04658197217181,29.91106798113016,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Peptidyl-Tyrosine Phosphorylation (GO:0018108),1/58,0.0834964966939316,0.140543792571773,0,0,12.04658197217181,29.91106798113016,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Eye Development (GO:0001654),1/58,0.0834964966939316,0.140543792571773,0,0,12.04658197217181,29.91106798113016,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Muscle Organ Development (GO:0007517),1/58,0.0834964966939316,0.140543792571773,0,0,12.04658197217181,29.91106798113016,CHODL
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Mitotic DNA Damage Checkpoint Signaling (GO:0044773),1/59,0.0848752478256348,0.1419826676589323,0,0,11.838287752675386,29.199998252267804,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Protein Secretion (GO:0009306),1/60,0.0862519938757385,0.1425261606117386,0,0,11.637054354178844,28.516393460743195,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Type II Interferon (GO:0034341),1/60,0.0862519938757385,0.1425261606117386,0,0,11.637054354178844,28.516393460743195,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,RNA Metabolic Process (GO:0016070),1/63,0.090370229679819,0.1479837174567249,0,0,11.07230255839822,26.61604802845276,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,G1/S Transition of Mitotic Cell Cycle (GO:0000082),1/64,0.091738983515608,0.1479837174567249,0,0,10.896004378763,26.028461010792668,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Mitotic Cell Cycle Phase Transition (GO:1901992),1/64,0.091738983515608,0.1479837174567249,0,0,10.896004378763,26.028461010792668,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Neurogenesis (GO:0050769),1/64,0.091738983515608,0.1479837174567249,0,0,10.896004378763,26.028461010792668,CHODL
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cell Cycle G1/S Phase Transition (GO:0044843),1/66,0.0944705208619502,0.1505971244328735,0,0,10.559681697612731,24.915225160225248,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of MAP Kinase Activity (GO:0043406),1/66,0.0944705208619502,0.1505971244328735,0,0,10.559681697612731,24.915225160225248,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Transcription by RNA Polymerase II (GO:0000122),3/732,0.0956004859582248,0.1515072028928592,0,0,2.932632220698064,6.884581052538133,CIITA;CCND1;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cell Communication (GO:0010646),1/68,0.0971941163755111,0.1531372414986251,0,0,10.243437982501286,23.87791592101611,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Immune Response (GO:0050777),1/70,0.0999097923540907,0.1565060909130555,0,0,9.945527236381809,22.909398431433704,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,DNA Replication (GO:0006260),1/73,0.1039685058127173,0.1610026575728365,0,0,9.529693486590038,21.572055090315494,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of MAP Kinase Activity (GO:0043405),1/73,0.1039685058127173,0.1610026575728365,0,0,9.529693486590038,21.572055090315494,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Myeloid Leukocyte Differentiation (GO:0002573),1/74,0.1053174745633215,0.1612487887381928,0,0,9.398677373641949,21.15431674384753,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Sensory Organ Development (GO:0007423),1/74,0.1053174745633215,0.1612487887381928,0,0,9.398677373641949,21.15431674384753,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Protein Localization to Nucleus (GO:1900182),1/75,0.1066644800819346,0.161486447498348,0,0,9.271202236719478,20.749572437350395,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Protein Serine/Threonine Kinase Activity (GO:0071902),1/75,0.1066644800819346,0.161486447498348,0,0,9.271202236719478,20.749572437350395,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Protein Localization to Membrane (GO:1905477),1/76,0.1080095250991305,0.1617159187948307,0,0,9.14712643678161,20.3572579045293,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Rho Protein Signal Transduction (GO:0035023),1/76,0.1080095250991305,0.1617159187948307,0,0,9.14712643678161,20.3572579045293,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Growth (GO:0045927),1/79,0.1120329247043706,0.1659066808463631,0,0,8.793987621573828,19.249708955963715,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Sphingolipid Metabolic Process (GO:0006665),1/79,0.1120329247043706,0.1659066808463631,0,0,8.793987621573828,19.249708955963715,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Wound Healing (GO:0042060),1/81,0.1147054390288231,0.1689411629174515,0,0,8.573275862068966,18.564467269525416,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Vascular Transport (GO:0010232),1/84,0.1186996371705696,0.1738789279633749,0,0,8.26215205650187,17.607959996023958,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Transport Across Blood-Brain Barrier (GO:0150104),1/86,0.1213527522063146,0.1768096550962972,0,0,8.066937119675456,17.0136033150249,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Biosynthetic Process (GO:0009891),1/87,0.1226764127722187,0.1777823949800603,0,0,7.972734562951082,16.728432964250334,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cell Adhesion (GO:0045785),1/92,0.1292658545119819,0.1852703411988669,0,0,7.532777567260326,15.411189911294056,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Osteoblast Differentiation (GO:0045667),1/92,0.1292658545119819,0.1852703411988669,0,0,7.532777567260326,15.411189911294056,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Epithelial Cell Proliferation (GO:0050678),1/93,0.130577989553445,0.1852703411988669,0,0,7.450524737631184,15.167663594496686,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Insulin Secretion (GO:0050796),1/93,0.130577989553445,0.1852703411988669,0,0,7.450524737631184,15.167663594496686,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Peptide Hormone Stimulus (GO:0071375),1/94,0.1318882131320392,0.1861547174936595,0,0,7.370040786058584,14.930232938854378,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Autophagy (GO:0010508),1/99,0.1384107528555566,0.192355456532594,0,0,6.992258972554539,13.82739870293458,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cold-Induced Thermogenesis (GO:0120162),1/99,0.1384107528555566,0.192355456532594,0,0,6.992258972554539,13.82739870293458,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Protein Secretion (GO:0050708),1/99,0.1384107528555566,0.192355456532594,0,0,6.992258972554539,13.82739870293458,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to UV (GO:0009411),1/100,0.1397095639188418,0.1929937206140368,0,0,6.921281783350749,13.622394510819325,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,mRNA Metabolic Process (GO:0016071),1/101,0.1410064822198498,0.1929937206140368,0,0,6.8517241379310345,13.422181001815328,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Hemopoiesis (GO:0030097),1/101,0.1410064822198498,0.1929937206140368,0,0,6.8517241379310345,13.422181001815328,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Protein Localization (GO:1903829),1/102,0.1423015104749137,0.1937874841140785,0,0,6.783543871628543,13.226602405790088,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cell Growth (GO:0030307),1/107,0.1487483936763554,0.2015540734314616,0,0,6.461938841899805,12.31321821731818,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Translation (GO:0045727),1/108,0.1500321372358647,0.2022821352782057,0,0,6.401224621334193,12.142519852667972,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Vasculature Development (GO:1904018),1/109,0.1513140092641029,0.2024240410571349,0,0,6.341634738186462,11.975530799282826,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,External Encapsulating Structure Organization (GO:0045229),1/111,0.1538721492906634,0.2024240410571349,0,0,6.225705329153605,11.652236916869368,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Extracellular Structure Organization (GO:0043062),1/111,0.1538721492906634,0.2024240410571349,0,0,6.225705329153605,11.652236916869368,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of G1/S Transition of Mitotic Cell Cycle (GO:2000045),1/111,0.1538721492906634,0.2024240410571349,0,0,6.225705329153605,11.652236916869368,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cellular Component Organization (GO:0051130),1/111,0.1538721492906634,0.2024240410571349,0,0,6.225705329153605,11.652236916869368,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of RNA Biosynthetic Process (GO:1902679),2/470,0.156207884480936,0.2038009049177405,0,0,2.9764957264957266,5.526065426208768,APOBEC3D;CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Mitotic Cell Cycle Phase Transition (GO:0044772),1/113,0.1564228347708119,0.2038009049177405,0,0,6.113916256157635,11.34249133434297,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Growth (GO:0045926),1/115,0.1589660866796708,0.2051419499532894,0,0,6.00604960677556,11.045511961406842,OSGIN2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cell Projection Organization (GO:0031346),1/115,0.1589660866796708,0.2051419499532894,0,0,6.00604960677556,11.045511961406842,CHODL
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Epithelial Cell Proliferation (GO:0050679),1/118,0.1627670723160846,0.2090515478562035,0,0,5.851164161508989,10.622408820243352,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Enzyme-Linked Receptor Protein Signaling Pathway (GO:0007167),1/121,0.166551449837356,0.210913284607119,0,0,5.704022988505747,10.224181762604308,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Inflammatory Response (GO:0050728),1/121,0.166551449837356,0.210913284607119,0,0,5.704022988505747,10.224181762604308,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Cell Growth (GO:0030308),1/121,0.166551449837356,0.210913284607119,0,0,5.704022988505747,10.224181762604308,OSGIN2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Response to Cytokine (GO:0034097),1/123,0.1690651760608406,0.2131007568022688,0,0,5.609949123798756,9.971521773790307,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Angiogenesis (GO:0045766),1/126,0.1728220289630276,0.2168276381897244,0,0,5.47448275862069,9.610415878416694,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,RNA Biosynthetic Process (GO:0032774),1/128,0.1753174699880012,0.2189448588329416,0,0,5.387727396144448,9.380878377461652,ZCCHC8
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of DNA-templated Transcription (GO:0045892),3/1006,0.1900077032283251,0.2362022365820005,0,0,2.1011410213803035,3.4893452786608,CIITA;CCND1;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cell Adhesion (GO:0030155),1/142,0.1925829153930598,0.2383103656233754,0,0,4.849351919784788,7.987990633889733,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Metabolic Process (GO:0009893),1/147,0.1986640481617168,0.2447179865992057,0,0,4.682097307510628,7.566925122118201,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cold-Induced Thermogenesis (GO:0120161),1/148,0.1998749505336224,0.2450955275774284,0,0,4.650011728829463,7.486813486371484,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of RNA Biosynthetic Process (GO:1902680),2/555,0.2019920691171419,0.2458340055147697,0,0,2.5080082665977783,4.0116265477683,CIITA;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Growth Factor Stimulus (GO:0071363),1/150,0.2022914510324489,0.2458340055147697,0,0,4.587132608192548,7.330447973621347,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Adenylate Cyclase-Activating G Protein-Coupled Receptor Signaling Pathway (GO:0007189),1/153,0.2059029787100954,0.2491058358501601,0,0,4.495916515426497,7.105122556571242,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Skeletal System Development (GO:0001501),1/160,0.2142685160362031,0.2580745237591602,0,0,4.29646497505964,6.61881300609656,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"RNA Splicing, via Transesterification Reactions With Bulged Adenosine as Nucleophile (GO:0000377)",1/171,0.227242503419016,0.2724899045422714,0,0,4.016227180527383,5.950994561365476,ZCCHC8
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Nitrogen Compound Transport (GO:0071705),1/172,0.2284116340616737,0.2726852547608527,0,0,3.9925388183101433,5.895406236454071,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Extracellular Matrix Organization (GO:0030198),1/182,0.2400092910579399,0.285274201213604,0,0,3.770051438369213,5.380156123099872,SMOC1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Catabolic Process (GO:0009896),1/183,0.2411597445929389,0.2853899160903338,0,0,3.7491474043198174,5.332396323454556,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Defense Response to Virus (GO:0051607),1/198,0.2582158467438044,0.3042331477326996,0,0,3.4610537370908454,4.686126340024527,APOBEC3D
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Axonogenesis (GO:0007409),1/200,0.2604618012849767,0.3042331477326996,0,0,3.425922717033443,4.608890626901229,B4GALT6
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Translation (GO:0006417),1/201,0.2615823120745377,0.3042331477326996,0,0,3.4086206896551725,4.57098173760038,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Protein Metabolic Process (GO:0051247),1/202,0.2627011816096694,0.3042331477326996,0,0,3.3914908217533024,4.53353494418687,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Adenylate Cyclase-Modulating G Protein-Coupled Receptor Signaling Pathway (GO:0007188),1/202,0.2627011816096694,0.3042331477326996,0,0,3.3914908217533024,4.53353494418687,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,DNA-templated Transcription (GO:0006351),1/203,0.2638184122405329,0.3042331477326996,0,0,3.374530556503926,4.496542545859288,GTF3C5
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Signal Transduction (GO:0009966),1/211,0.2726975339035593,0.3118186991049138,0,0,3.244663382594417,4.216089747258697,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,"mRNA Splicing, via Spliceosome (GO:0000398)",1/211,0.2726975339035593,0.3118186991049138,0,0,3.244663382594417,4.216089747258697,ZCCHC8
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Defense Response to Bacterium (GO:0042742),1/221,0.283650936655944,0.3229806883771463,0,0,3.095611285266458,3.900503940118756,SLC15A2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of ERK1 and ERK2 Cascade (GO:0070372),1/223,0.2858223997380623,0.3240915076527819,0,0,3.067412239826033,3.841579976733741,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,mRNA Processing (GO:0006397),1/226,0.2890676682797404,0.3264055754325402,0,0,3.0260536398467432,3.75561844433175,ZCCHC8
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Autophagy (GO:0010506),1/230,0.2933725253431161,0.3298919268381098,0,0,2.97259448878181,3.6453284710191713,ORMDL3
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of DNA-templated Transcription (GO:0045893),3/1274,0.298310662750904,0.3340586347334503,0,0,1.6346708628376607,1.9773303125309067,CIITA;ERBB2;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Multicellular Organismal Process (GO:0051241),1/243,0.3071899887475091,0.3425863660517488,0,0,2.811057281276717,3.3178596134557687,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of MAPK Cascade (GO:0043408),1/260,0.324865371838974,0.3608135892145981,0,0,2.6242843829050724,2.9505995102043805,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cell Surface Receptor Protein Tyrosine Kinase Signaling Pathway (GO:0007169),1/296,0.3608681872699808,0.3991644030618971,0,0,2.299824663939217,2.3440790849791022,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Phosphorylation (GO:0016310),1/298,0.3628129509294123,0.3996841857799623,0,0,2.2841054220364567,2.3157810858909884,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,DNA Repair (GO:0006281),1/302,0.3666853317365104,0.4023146757109082,0,0,2.253293618971245,2.260619539405869,PMS2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Protein Transport (GO:0015031),1/308,0.3724512798182698,0.406993132382061,0,0,2.208581377063911,2.181303281569209,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cytokine Production (GO:0001819),1/325,0.3885139014586204,0.4228404309047636,0,0,2.090889740315028,1.976782208235264,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Intracellular Signaling Cassette (GO:0141124),1/354,0.4150019802043119,0.4490343538215381,0,0,1.916284067597929,1.685318156943543,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Macromolecule Biosynthetic Process (GO:0010557),1/355,0.4158952871188416,0.4490343538215381,0,0,1.9107734268458991,1.6763631135645822,CIITA
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of MAPK Cascade (GO:0043410),1/362,0.4221116169387054,0.4539374928190046,0,0,1.8730537778202312,1.6154817330871527,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Gene Expression (GO:0010629),1/364,0.4238759327460618,0.4540331137319476,0,0,1.862543934644248,1.5986484250483348,RNASEH1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Protein Phosphorylation (GO:0006468),1/373,0.431751124803402,0.4606478536288266,0,0,1.8166481275491289,1.5258135836281974,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Transcription by RNA Polymerase II (GO:0045944),2/983,0.437739338453744,0.4634650534180414,0,0,1.3826270569389836,1.1422319904717186,CIITA;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Gene Expression (GO:0010467),1/381,0.4386638551010797,0.4634650534180414,0,0,1.7776769509981851,1.4648446767593672,ZCCHC8
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Programmed Cell Death (GO:0043069),1/382,0.4395222093300245,0.4634650534180414,0,0,1.7729206263010229,1.4574595936172996,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Cellular Response to Oxygen-Containing Compound (GO:1901701),1/384,0.4412351129903484,0.46346789000149,0,0,1.7634824885207527,1.4428415342786935,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Multicellular Organismal Process (GO:0051240),1/407,0.4605733599728377,0.4819126662264055,0,0,1.661627314421607,1.2882316267641096,GNAS
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,DNA Damage Response (GO:0006974),1/421,0.4720259883611489,0.4919963186379668,0,0,1.6050903119868638,1.2049753810206678,CCND1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Gene Expression (GO:0010628),1/436,0.4840357695523361,0.5025812013359506,0,0,1.5485533095521204,1.1236248165083518,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Apoptotic Process (GO:0043066),1/475,0.5140383488093071,0.531696154684436,0,0,1.4183035064746108,0.9438205747952828,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cell Population Proliferation (GO:0008284),1/484,0.5207186237216591,0.5365579734926602,0,0,1.3912329549510958,0.907842738470724,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Negative Regulation of Cellular Process (GO:0048523),1/531,0.5541874279980037,0.568881791619163,0,0,1.2648015614834092,0.7465520708861642,OSGIN2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Protein Modification Process (GO:0036211),1/545,0.56371222138287,0.5764755169613501,0,0,1.231364097363083,0.7058319424429044,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Cellular Process (GO:0048522),1/622,0.6126834369493704,0.6242000429070654,0,0,1.0744072408240324,0.5263595126360825,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Positive Regulation of Intracellular Signal Transduction (GO:1902533),1/652,0.6302869173679313,0.6397294180026569,0,0,1.023306319190635,0.4723378729259604,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Apoptotic Process (GO:0042981),1/704,0.6589838419381144,0.6663605267359292,0,0,0.9450630303624858,0.394144456538431,ERBB2
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Transcription by RNA Polymerase II (GO:0006357),3/2250,0.6716008972733536,0.6765942124947169,0,0,0.8763783810512783,0.3488783616522228,CIITA;CCND1;RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of Cell Population Proliferation (GO:0042127),1/769,0.6918378236675752,0.6944001859774551,0,0,0.8621587643678161,0.3176224871371628,RUNX1
+brca_combined_survival_ensembled_meth,GO_Biological_Process_2025,Regulation of DNA-templated Transcription (GO:0006355),2/2139,0.845911747225698,0.845911747225698,0,0,0.5960625710274751,0.0997452551913446,CIITA;RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Prostate cancer,4/97,1.2932327768264672e-05,0.0018622551986301,0,0,32.88172043010753,370.1094227868297,CCND1;ERBB2;KLK3;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Bladder cancer,3/41,3.123742232540663e-05,0.0022490944074292,0,0,58.280701754385966,604.5978075814852,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Endometrial cancer,3/58,8.887739009987521e-05,0.0035791218084019,0,0,40.23232323232323,375.2972809322434,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Pathways in cancer,6/531,0.00011748540431603529,0.0035791218084019,0,0,9.25952380952381,83.79124999215539,CCND1;ERBB2;GNAS;KLK3;KRAS;RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Acute myeloid leukemia,3/67,0.00013673529054239328,0.0035791218084019,0,0,34.55902777777778,307.4876947120848,CCND1;KRAS;RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Non-small cell lung cancer,3/72,0.0001693722427413636,0.0035791218084019,0,0,32.04669887278583,278.2746781911583,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Chronic myeloid leukemia,3/76,0.0001988401004667768,0.0035791218084019,0,0,30.28462709284627,258.11616658083483,CCND1;KRAS;RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Pancreatic cancer,3/76,0.0001988401004667768,0.0035791218084019,0,0,30.28462709284627,258.11616658083483,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,MicroRNAs in cancer,4/310,0.0011287550877045,0.0159199927690706,0,0,9.886375062845651,67.09526792130015,MIR19B1;CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Breast cancer,3/147,0.0013655214674009,0.0159199927690706,0,0,15.29783950617284,100.9078980170498,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Thyroid cancer,2/37,0.0014020717242409,0.0159199927690706,0,0,40.68367346938776,267.2837742480994,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Gastric cancer,3/149,0.0014195460346008,0.0159199927690706,0,0,15.08675799086758,98.93018071055803,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Human papillomavirus infection,4/331,0.0014372215694299,0.0159199927690706,0,0,9.241590214067278,60.48660991296997,CCND1;CHAD;GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Oxytocin signaling pathway,3/154,0.0015604494058007,0.0160503367453787,0,0,14.583517292126563,94.25008457289836,CCND1;GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,PI3K-Akt signaling pathway,4/354,0.0018380623510251,0.0176453985698418,0,0,8.624175824175824,54.32405722206575,CCND1;CHAD;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Tight junction,3/169,0.0020348752876726,0.0183138775890542,0,0,13.255689424364125,82.14975906769627,CCND1;ERBB2;RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Focal adhesion,3/201,0.0033243119085999,0.027643102353313,0,0,11.095398428731762,63.315808706645385,CCND1;CHAD;ERBB2
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Proteoglycans in cancer,3/205,0.0035136085353288,0.027643102353313,0,0,10.873487348734873,61.44729154215966,CCND1;ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Long-term depression,2/60,0.0036473537827288,0.027643102353313,0,0,24.52216748768473,137.66140025976537,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Human cytomegalovirus infection,3/225,0.0045589569716279,0.0322720781180257,0,0,9.883883883883884,53.28067149220362,CCND1;GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Central carbon metabolism in cancer,2/70,0.0049304563791428,0.0322720781180257,0,0,20.90546218487395,111.05658271288344,ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Prolactin signaling pathway,2/70,0.0049304563791428,0.0322720781180257,0,0,20.90546218487395,111.05658271288344,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Melanoma,2/72,0.0052086393816279,0.0323510025504456,0,0,20.306122448979597,106.75815162079977,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Chemical carcinogenesis,3/239,0.0053918337584076,0.0323510025504456,0,0,9.2909604519774,48.525476172327096,CCND1;GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Glioma,2/75,0.0056391916203922,0.032481743733459,0,0,19.46868884540117,100.8091541783213,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,ErbB signaling pathway,2/85,0.0071877384972766,0.0392109495566828,0,0,17.1144578313253,84.46633049181104,ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Colorectal cancer,2/86,0.007352053041878,0.0392109495566828,0,0,16.90986394557823,83.07436833271562,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Gap junction,2/88,0.0076857751375322,0.0395268435644515,0,0,16.514950166112957,80.40111986589167,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,GnRH signaling pathway,2/93,0.0085495515929242,0.042452945840727,0,0,15.603610675039246,74.30246609423192,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,AGE-RAGE signaling pathway in diabetic complications,2/100,0.0098285778207101,0.0465345320899382,0,0,14.48396501457726,66.95156387938638,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Melanogenesis,2/101,0.0100178506582505,0.0465345320899382,0,0,14.336940836940837,65.99848293232873,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Serotonergic synapse,2/113,0.0124143666206696,0.0558646497930134,0,0,12.77927927927928,56.08699005654072,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,"Growth hormone synthesis, secretion and action",2/119,0.0136976586666234,0.0597716014543566,0,0,12.12026862026862,52.00238049873368,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Thyroid hormone signaling pathway,2/121,0.0141377624566896,0.0598775821695092,0,0,11.915366146458584,50.746422861723886,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Relaxin signaling pathway,2/129,0.0159588600959687,0.0656593101091287,0,0,11.16029246344207,46.17840094870402,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,FoxO signaling pathway,2/131,0.016429116348176,0.0657164653927043,0,0,10.986157253599114,45.13882574929996,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Apelin signaling pathway,2/137,0.0178752431510281,0.0677377635196854,0,0,10.494708994708995,42.23426237345858,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Estrogen signaling pathway,2/137,0.0178752431510281,0.0677377635196854,0,0,10.494708994708995,42.23426237345858,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Phospholipase D signaling pathway,2/148,0.0206614955328278,0.0762885988904412,0,0,9.6986301369863,37.62567491079582,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cushing syndrome,2/155,0.0225232501267853,0.0790888466463392,0,0,9.251633986928104,35.0933643209813,CCND1;GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cellular senescence,2/156,0.0227947322131804,0.0790888466463392,0,0,9.191094619666048,34.7536042255875,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Hepatitis C,2/157,0.0230675802718489,0.0790888466463392,0,0,9.131336405529954,34.41899376025228,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Hepatocellular carcinoma,2/168,0.0261578070672306,0.0875982376204934,0,0,8.521514629948365,31.049055329541552,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Alcoholism,2/186,0.0315548195504109,0.1032703185286176,0,0,7.680900621118012,26.545414851325493,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Kaposi sarcoma-associated herpesvirus infection,2/193,0.0337632887871854,0.1062934618280387,0,0,7.396783844427824,25.063123299077716,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Mismatch repair,1/23,0.0339548558617346,0.1062934618280387,0,0,31.266457680250785,105.76577819907342,PMS2
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Viral carcinogenesis,2/203,0.0370206464175897,0.1134249592368706,0,0,7.025230987917555,23.157124963281667,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Rap1 signaling pathway,2/210,0.0393705553215437,0.1177046671714058,0,0,6.7864010989010985,21.952223199246387,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Human immunodeficiency virus 1 infection,2/212,0.0400522825791589,0.1177046671714058,0,0,6.72108843537415,21.625569921688047,APOBEC3D;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Human T-cell leukemia virus 1 infection,2/219,0.0424738047826433,0.1223245577740129,0,0,6.501974983541804,20.538879094189763,CCND1;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Thermogenesis,2/232,0.0471136446414104,0.133026761340453,0,0,6.130434782608695,18.72965913443862,GNAS;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Calcium signaling pathway,2/240,0.0500581730621325,0.1386226330951363,0,0,5.921968787515006,17.733747043580514,ERBB2;GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,DNA replication,1/36,0.0526509413652038,0.1430516142752707,0,0,19.64039408866995,57.82271782479102,RNASEH1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Aldosterone-regulated sodium reabsorption,1/37,0.0540745240778647,0.1441987308743058,0,0,19.09386973180077,55.70430487305193,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Primary immunodeficiency,1/38,0.0554960388319167,0.1452987198508366,0,0,18.576887232059647,53.71402231134463,CIITA
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Vasopressin-regulated water reabsorption,1/44,0.0639818620949856,0.1645247882442487,0,0,15.979951884522857,43.93137485913406,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Sphingolipid metabolism,1/49,0.070997041562065,0.1737455177016441,0,0,14.311781609195402,37.85633785017516,B4GALT6
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cocaine addiction,1/49,0.070997041562065,0.1737455177016441,0,0,14.311781609195402,37.85633785017516,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,MAPK signaling pathway,2/294,0.0715600155461559,0.1737455177016441,0,0,4.813600782778865,12.69451849493816,ERBB2;KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Vibrio cholerae infection,1/50,0.0723939657090184,0.1737455177016441,0,0,14.019000703729768,36.80874147674154,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Ovarian steroidogenesis,1/51,0.0737888592797165,0.1741900940373637,0,0,13.73793103448276,35.80857002720438,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Endocrine and other factor-regulated calcium reabsorption,1/53,0.0765725660346981,0.1778459598225247,0,0,13.208222811671089,33.938745289872976,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Fanconi anemia pathway,1/54,0.0779613849203899,0.1781974512466056,0,0,12.958360442420298,33.06379625497651,PMS2
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Regulation of lipolysis in adipocytes,1/55,0.0793481846088859,0.1785334153699933,0,0,12.717752234993617,32.22563588457274,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Hedgehog signaling pathway,1/56,0.0807329679040596,0.1788545750489937,0,0,12.4858934169279,31.42210254292495,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,VEGF signaling pathway,1/59,0.0848752478256348,0.1851823588922941,0,0,11.838287752675386,29.199998252267804,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Viral myocarditis,1/60,0.0862519938757385,0.185377419673229,0,0,11.637054354178844,28.516393460743195,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,GnRH secretion,1/64,0.091738983515608,0.1892216503951641,0,0,10.896004378763,26.028461010792668,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cortisol synthesis and secretion,1/65,0.0931057463211684,0.1892216503951641,0,0,10.72521551724138,25.461869434390834,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Long-term potentiation,1/67,0.0958333099563512,0.1892216503951641,0,0,10.399164054336469,24.387547080252187,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Fc epsilon RI signaling pathway,1/68,0.0971941163755111,0.1892216503951641,0,0,10.243437982501286,23.87791592101611,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Mitophagy,1/68,0.0971941163755111,0.1892216503951641,0,0,10.243437982501286,23.87791592101611,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Amphetamine addiction,1/69,0.098552942914148,0.1892216503951641,0,0,10.092292089249494,23.385469502095955,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Renal cell carcinoma,1/69,0.098552942914148,0.1892216503951641,0,0,10.092292089249494,23.385469502095955,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Renin secretion,1/69,0.098552942914148,0.1892216503951641,0,0,10.092292089249494,23.385469502095955,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Adherens junction,1/71,0.1012646674619075,0.1918698962436142,0,0,9.80295566502463,22.44894217800591,ERBB2
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,p53 signaling pathway,1/73,0.1039685058127173,0.1944171451784349,0,0,9.529693486590038,21.572055090315494,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Thyroid hormone synthesis,1/75,0.1066644800819346,0.1944171451784349,0,0,9.271202236719478,20.749572437350395,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Gastric acid secretion,1/76,0.1080095250991305,0.1944171451784349,0,0,9.14712643678161,20.3572579045293,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Metabolism of xenobiotics by cytochrome P450,1/76,0.1080095250991305,0.1944171451784349,0,0,9.14712643678161,20.3572579045293,CYP2F1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Antigen processing and presentation,1/78,0.1106937446588701,0.1967888793935469,0,0,8.908643081056875,19.607816054535498,CIITA
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,B cell receptor signaling pathway,1/81,0.1147054390288231,0.2014339417091528,0,0,8.573275862068966,18.564467269525416,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Insulin secretion,1/86,0.1213527522063146,0.2020732895225961,0,0,8.066937119675456,17.0136033150249,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,ECM-receptor interaction,1/88,0.1239981456512226,0.2020732895225961,0,0,7.880697582243361,16.45086689819455,CHAD
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,PD-L1 expression and PD-1 checkpoint pathway in cancer,1/89,0.1253179535566854,0.2020732895225961,0,0,7.790752351097178,16.18062246106182,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Bile secretion,1/90,0.1266358392018219,0.2020732895225961,0,0,7.702828361100349,15.917430476118057,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Morphine addiction,1/91,0.1279518052795566,0.2020732895225961,0,0,7.616858237547893,15.661034464173188,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Small cell lung cancer,1/92,0.1292658545119819,0.2020732895225961,0,0,7.532777567260326,15.411189911294056,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Salivary secretion,1/93,0.130577989553445,0.2020732895225961,0,0,7.450524737631184,15.167663594496686,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,IL-17 signaling pathway,1/94,0.1318882131320392,0.2020732895225961,0,0,7.370040786058584,14.930232938854378,IL17B
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Dilated cardiomyopathy,1/96,0.1345029365993388,0.2020732895225961,0,0,7.214156079854809,14.472818068487964,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Circadian entrainment,1/97,0.135807441882233,0.2020732895225961,0,0,7.1386494252873565,14.2524368267114,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Aldosterone synthesis and secretion,1/98,0.1371100464027112,0.2020732895225961,0,0,7.064699608958407,14.037356193959155,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Choline metabolism in cancer,1/98,0.1371100464027112,0.2020732895225961,0,0,7.064699608958407,14.037356193959155,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,mRNA surveillance pathway,1/98,0.1371100464027112,0.2020732895225961,0,0,7.064699608958407,14.037356193959155,CSTF3
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Inflammatory mediator regulation of TRP channels,1/98,0.1371100464027112,0.2020732895225961,0,0,7.064699608958407,14.037356193959155,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Progesterone-mediated oocyte maturation,1/100,0.1397095639188418,0.2020732895225961,0,0,6.921281783350749,13.622394510819325,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Amoebiasis,1/102,0.1423015104749137,0.2020732895225961,0,0,6.783543871628543,13.226602405790088,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Chagas disease,1/102,0.1423015104749137,0.2020732895225961,0,0,6.783543871628543,13.226602405790088,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Longevity regulating pathway,1/102,0.1423015104749137,0.2020732895225961,0,0,6.783543871628543,13.226602405790088,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Pancreatic secretion,1/102,0.1423015104749137,0.2020732895225961,0,0,6.783543871628543,13.226602405790088,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,T cell receptor signaling pathway,1/104,0.1448859074147043,0.2020732895225961,0,0,6.651155005021761,12.848759048563156,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,C-type lectin receptor signaling pathway,1/104,0.1448859074147043,0.2020732895225961,0,0,6.651155005021761,12.848759048563156,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,"Parathyroid hormone synthesis, secretion and action",1/106,0.147462775934803,0.2020732895225961,0,0,6.523809523809524,12.487742462791424,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Th17 cell differentiation,1/107,0.1487483936763554,0.2020732895225961,0,0,6.461938841899805,12.31321821731818,RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Glucagon signaling pathway,1/107,0.1487483936763554,0.2020732895225961,0,0,6.461938841899805,12.31321821731818,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,HIF-1 signaling pathway,1/109,0.1513140092641029,0.2036375451778581,0,0,6.341634738186462,11.975530799282826,ERBB2
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Toxoplasmosis,1/112,0.1551484225344114,0.2064375996174358,0,0,6.169307238272755,11.495720878882548,CIITA
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cholinergic synapse,1/113,0.1564228347708119,0.2064375996174358,0,0,6.113916256157635,11.34249133434297,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Glutamatergic synapse,1/114,0.1576953885966523,0.2064375996174358,0,0,6.059505645407385,11.192452446545069,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Sphingolipid signaling pathway,1/119,0.1640303733701603,0.2106373784141329,0,0,5.801285797779077,10.487005597367974,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Neurotrophin signaling pathway,1/119,0.1640303733701603,0.2106373784141329,0,0,5.801285797779077,10.487005597367974,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,AMPK signaling pathway,1/120,0.1652918316722015,0.2106373784141329,0,0,5.752245725876557,10.354287873096176,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cell cycle,1/124,0.1703192893145684,0.2132693709678075,0,0,5.5640594336977856,9.848832720808518,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Platelet activation,1/124,0.1703192893145684,0.2132693709678075,0,0,5.5640594336977856,9.848832720808518,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Natural killer cell mediated cytotoxicity,1/131,0.1790469915916031,0.2215211502399,0,0,5.262599469496021,9.052234105349967,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Dopaminergic synapse,1/132,0.1802865383685196,0.2215211502399,0,0,5.222163727296657,8.946651703406395,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Vascular smooth muscle contraction,1/133,0.1815242758910291,0.2215211502399,0,0,5.182340647857889,8.842969274321403,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Autophagy,1/137,0.1864571840617326,0.2237486208740791,0,0,5.028904665314402,8.446315147566118,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Insulin signaling pathway,1/137,0.1864571840617326,0.2237486208740791,0,0,5.028904665314402,8.446315147566118,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Measles,1/139,0.1889128485992056,0.2248219024651703,0,0,4.95552223888056,8.258226612129908,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Apoptosis,1/142,0.1925829153930598,0.226890965601889,0,0,4.849351919784788,7.987990633889733,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Signaling pathways regulating pluripotency of stem cells,1/143,0.1938026997849468,0.226890965601889,0,0,4.814958717824187,7.900936293655021,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Adrenergic signaling in cardiomyocytes,1/150,0.2022914510324489,0.2349191044247794,0,0,4.587132608192548,7.330447973621347,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,mTOR signaling pathway,1/154,0.2071033050371711,0.2385830074028211,0,0,4.466306062654947,7.032366614617934,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Hepatitis B,1/162,0.2166429800184552,0.2450560605224488,0,0,4.242664382094667,6.4891744075022295,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,JAK-STAT signaling pathway,1/162,0.2166429800184552,0.2450560605224488,0,0,4.242664382094667,6.4891744075022295,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Hippo signaling pathway,1/163,0.2178276093532878,0.2450560605224488,0,0,4.216262239250745,6.425799996664095,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Wnt signaling pathway,1/166,0.2213711162403578,0.2471119437101669,0,0,4.138975966562174,6.24122281400424,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Influenza A,1/172,0.2284116340616737,0.2530098100375462,0,0,3.9925388183101433,5.895406236454071,CIITA
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Tuberculosis,1/180,0.2377033237400038,0.2612922031951188,0,0,3.812560200346754,5.477626943599837,CIITA
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Axon guidance,1/182,0.2400092910579399,0.2618283175177526,0,0,3.770051438369213,5.380156123099872,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Transcriptional misregulation in cancer,1/192,0.2514383510525367,0.2702024071012335,0,0,3.570861166275501,4.929778966484762,RUNX1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Chemokine signaling pathway,1/192,0.2514383510525367,0.2702024071012335,0,0,3.570861166275501,4.929778966484762,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Epstein-Barr virus infection,1/202,0.2627011816096694,0.2802145937169807,0,0,3.3914908217533024,4.53353494418687,CCND1
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Lipid and atherosclerosis,1/215,0.2770981851649664,0.2924086279990165,0,0,3.1833709313567518,4.085485334604306,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,cAMP signaling pathway,1/216,0.2781943196935088,0.2924086279990165,0,0,3.1684041700080194,4.053768512915731,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Regulation of actin cytoskeleton,1/218,0.280381770826975,0.2925722826020608,0,0,3.1388844748132847,3.9914153456413297,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Ras signaling pathway,1/232,0.2955154938047619,0.3061455475387461,0,0,2.9465591879384982,3.5919558655424773,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Parkinson disease,1/249,0.3134788398667338,0.3224353781486404,0,0,2.742213570634038,3.1810319580645494,GNAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Cytokine-cytokine receptor interaction,1/295,0.3598936550466374,0.3675509668561403,0,0,2.3077644851043866,2.358412285668029,IL17B
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Alzheimer disease,1/369,0.4282639718351372,0.4342958587623927,0,0,1.836769115442279,1.5576087108437588,KRAS
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Olfactory transduction,1/440,0.4871935095968268,0.4906004572163851,0,0,1.5341292907077213,1.1031829910121242,OR9Q2
+brca_combined_survival_ensembled_meth,KEGG_2021_Human,Pathways of neurodegeneration,1/475,0.5140383488093071,0.5140383488093071,0,0,1.4183035064746108,0.9438205747952828,KRAS

@@ -1,0 +1,7 @@
+Method,Accuracy,Weighted-F1,Macro-F1,C-index,Note
+Reference transformer method (paper),-,-,-,-,no result for this cohort
+Reference graph method (paper),0.991,-,0.992,-,"Section 3.2 text + Table 2; 3 classes (204, 145, 72; Table 1) from cBioPortal subtype labels, 75/25 split"
+FastMI-HGNet (paper),0.836,-,0.838,-,Table 3; binary: Grade II vs Grade III; marked not comparable in config: grade (2 classes) vs our 3 IDH/codeletion subtypes
+Our transformer stream (bagged),0.902 ± 0.050,0.881 ± 0.079,0.838 ± 0.135,-,"5-fold CV, 502 labeled patients"
+Our graph stream (bagged),0.974 ± 0.010,0.974 ± 0.010,0.974 ± 0.011,-,"5-fold CV, 502 labeled patients"
+Our Ensembled Transformer-Graph Streams model (bagged),0.980 ± 0.011,0.980 ± 0.011,0.981 ± 0.010,0.765 ± 0.094,"5-fold CV, 502 labeled patients"

@@ -1,0 +1,30 @@
+{
+ "cancer": "coadread",
+ "fold": 5,
+ "best_epoch": 26,
+ "best_validation_accuracy": 0.9166666666666666,
+ "n_train": 233,
+ "n_validation": 24,
+ "n_test": 65,
+ "accuracy": 0.7230769230769231,
+ "macro_f1": 0.36402198121971147,
+ "weighted_f1": 0.6591049617877003,
+ "macro_precision": 0.41109422492401215,
+ "macro_recall": 0.362962962962963,
+ "settings": {
+  "cancertype": "coadread",
+  "fold": 5,
+  "epochs": 50,
+  "pretrain_epochs": 50,
+  "head": 1,
+  "dp": 0.1,
+  "batch_size": 64,
+  "lr_e": 0.0001,
+  "lr_c": 0.0001,
+  "dim_feedforward": 512,
+  "d_model": 512,
+  "seed": 42,
+  "data_dir": "data/author_format/trans/coadread/fold5",
+  "out_dir": "results/baselines_author_code/baseline_transformer/coadread/fold5"
+ }
+}

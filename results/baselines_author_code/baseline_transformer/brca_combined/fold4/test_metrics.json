@@ -1,0 +1,30 @@
+{
+ "cancer": "brca_combined",
+ "fold": 4,
+ "best_epoch": 24,
+ "best_validation_accuracy": 0.8260869565217391,
+ "n_train": 405,
+ "n_validation": 46,
+ "n_test": 113,
+ "accuracy": 0.8053097345132744,
+ "macro_f1": 0.49714019088016964,
+ "weighted_f1": 0.7511794217288076,
+ "macro_precision": 0.46711895070104026,
+ "macro_recall": 0.5314799538030027,
+ "settings": {
+  "cancertype": "brca_combined",
+  "fold": 4,
+  "epochs": 50,
+  "pretrain_epochs": 50,
+  "head": 1,
+  "dp": 0.1,
+  "batch_size": 64,
+  "lr_e": 0.0001,
+  "lr_c": 0.0001,
+  "dim_feedforward": 512,
+  "d_model": 512,
+  "seed": 42,
+  "data_dir": "data/author_format/trans/brca_combined/fold4",
+  "out_dir": "results/baselines_author_code/baseline_transformer/brca_combined/fold4"
+ }
+}

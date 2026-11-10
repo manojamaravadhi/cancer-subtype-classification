@@ -1,0 +1,7 @@
+Method,Accuracy,Weighted-F1,Macro-F1,C-index,Note
+Reference transformer method (paper),0.973,0.973,0.973,-,"Table 4; 4 classes: KIRC, KIRP, KICH + Normal tissue (Table 8); marked not comparable in config: reference transformer method adds a 4th class (normal samples); ours has 3 tumour classes"
+Reference graph method (paper),-,-,-,-,no result for this cohort
+FastMI-HGNet (paper),0.999,0.999,0.999,-,"Table 4; 3 classes KICH 66, KIRC 318, KIRP 274 (Table 1)"
+Our transformer stream (bagged),0.845 ± 0.097,0.814 ± 0.119,0.717 ± 0.161,-,"5-fold CV, 512 labeled patients"
+Our graph stream (bagged),0.955 ± 0.012,0.955 ± 0.012,0.954 ± 0.008,-,"5-fold CV, 512 labeled patients"
+Our Ensembled Transformer-Graph Streams model (bagged),0.957 ± 0.013,0.957 ± 0.013,0.954 ± 0.012,0.659 ± 0.070,"5-fold CV, 512 labeled patients"

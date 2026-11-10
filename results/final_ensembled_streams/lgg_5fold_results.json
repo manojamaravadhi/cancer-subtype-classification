@@ -1,0 +1,1715 @@
+{
+  "cohort": "TCGA-LGG",
+  "num_samples": 509,
+  "num_labeled": 502,
+  "class_names": [
+    "LGG_IDHmut-codel",
+    "LGG_IDHmut-non-codel",
+    "LGG_IDHwt"
+  ],
+  "config": {
+    "cohort": "lgg",
+    "ensemble_size": 5,
+    "subspace_ratio": 0.85,
+    "n_folds": 5,
+    "seed": 42,
+    "d_model": 128,
+    "dim_feedforward": 512,
+    "trans_dropout": 0.1,
+    "trans_lr": 0.0001,
+    "trans_batch": 128,
+    "trans_micro": 16,
+    "trans_epochs": 100,
+    "trans_pretrain_epochs": 50,
+    "trans_patience": 50,
+    "trans_class_weight": "released",
+    "member_split": "split",
+    "split_ratios": [
+      0.7,
+      0.2,
+      0.1
+    ],
+    "fusion_unlabeled": true,
+    "alpha": 0.15,
+    "fusion_lr": 0.001,
+    "fusion_epochs": 300,
+    "fusion_patience": 30,
+    "dropout": 0.3,
+    "device": null,
+    "tag": "final_ensembled_streams",
+    "interpret": true
+  },
+  "label_source": "cBioPortal lgg_tcga_pan_can_atlas_2018 SUBTYPE (as the reference graph method)",
+  "results": {
+    "trans": {
+      "accuracy": {
+        "mean": 0.9024752475247524,
+        "std": 0.05026981410719093
+      },
+      "macro_f1": {
+        "mean": 0.8375087114058649,
+        "std": 0.13534493419440238
+      },
+      "weighted_f1": {
+        "mean": 0.8810522375076086,
+        "std": 0.07944351288984242
+      }
+    },
+    "graph": {
+      "accuracy": {
+        "mean": 0.9740792079207921,
+        "std": 0.010206456185564913
+      },
+      "macro_f1": {
+        "mean": 0.9735695335961869,
+        "std": 0.01056850897595988
+      },
+      "weighted_f1": {
+        "mean": 0.9739879752563253,
+        "std": 0.010240556655320901
+      }
+    },
+    "ensembled": {
+      "accuracy": {
+        "mean": 0.9800594059405942,
+        "std": 0.010972798799699045
+      },
+      "macro_f1": {
+        "mean": 0.9811256084098486,
+        "std": 0.010209429511611131
+      },
+      "weighted_f1": {
+        "mean": 0.9799542891049565,
+        "std": 0.011051085615328214
+      },
+      "c_index": {
+        "mean": 0.7645924717779133,
+        "std": 0.0941616838776402
+      }
+    }
+  },
+  "pooled_out_of_fold": {
+    "trans": {
+      "accuracy": 0.9023904382470119,
+      "macro_f1": 0.8685394206488604,
+      "weighted_f1": 0.8964139108501424,
+      "n_labeled": 502
+    },
+    "graph": {
+      "accuracy": 0.9741035856573705,
+      "macro_f1": 0.9740104848818314,
+      "weighted_f1": 0.9741029598015966,
+      "n_labeled": 502
+    },
+    "ensembled": {
+      "accuracy": 0.9800796812749004,
+      "macro_f1": 0.9815223633079725,
+      "weighted_f1": 0.9800986111400193,
+      "n_labeled": 502,
+      "c_index": 0.7487371443107897
+    }
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "n_test": 102,
+      "members": [
+        {
+          "member": 1,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 96,
+          "fusion_best_epoch": 7,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9857650995254517,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9252669215202332
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9964412450790405,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.6153846153846154,
+            "macro_f1": 0.5324569221628045,
+            "weighted_f1": 0.5351992778463366,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.5742574257425742,
+            "macro_f1": 0.47359692764248934,
+            "weighted_f1": 0.476857505074938,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9781196581196582,
+            "weighted_f1": 0.9741748849441157,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9900990099009901,
+            "macro_f1": 0.9871091871091872,
+            "weighted_f1": 0.9900075721857899,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9900990099009901,
+            "macro_f1": 0.9917326560087654,
+            "weighted_f1": 0.9901197201746171,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 2,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 97,
+          "fusion_best_epoch": 26,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9679715037345886,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9323843121528625
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9750889539718628,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.6666666666666666,
+            "macro_f1": 0.5563973063973063,
+            "weighted_f1": 0.6508029008029008,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.6633663366336634,
+            "macro_f1": 0.5466666666666667,
+            "weighted_f1": 0.6521313183949974,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9702970297029703,
+            "macro_f1": 0.9694472389894925,
+            "weighted_f1": 0.9705768439016939,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9775159548355425,
+            "weighted_f1": 0.980288426486242,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 3,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 95,
+          "fusion_best_epoch": 2,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9786476492881775,
+              "mirna": 0.9644128084182739,
+              "meth": 0.935943067073822
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.8469750881195068,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.7435897435897436,
+            "macro_f1": 0.5712581991651758,
+            "weighted_f1": 0.6929039952295767,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.5544554455445545,
+            "macro_f1": 0.4855596255596255,
+            "weighted_f1": 0.5683818711541484,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.5128205128205128,
+            "macro_f1": 0.47474747474747475,
+            "weighted_f1": 0.4094794094794095,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.8217821782178217,
+            "macro_f1": 0.6149425287356322,
+            "weighted_f1": 0.7465005121201775,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9900990099009901,
+            "macro_f1": 0.9871091871091872,
+            "weighted_f1": 0.9900075721857899,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 4,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 95,
+          "fusion_best_epoch": 99,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9644128084182739,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9608541131019592
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9715302586555481,
+            "gat_epochs": 134
+          },
+          "trans_oob": {
+            "accuracy": 0.7692307692307693,
+            "macro_f1": 0.5532258064516129,
+            "weighted_f1": 0.6993796526054591,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.7425742574257426,
+            "macro_f1": 0.5620827368593009,
+            "weighted_f1": 0.6854765771654482,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9487179487179487,
+            "macro_f1": 0.9398148148148149,
+            "weighted_f1": 0.9504985754985754,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9504950495049505,
+            "macro_f1": 0.9534607430847594,
+            "weighted_f1": 0.9512063443509692,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9833933573429371,
+            "weighted_f1": 0.9801980198019802,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 5,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 89,
+          "fusion_best_epoch": 3,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9750889539718628,
+              "mirna": 0.9644128084182739,
+              "meth": 0.918149471282959
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.982206404209137,
+            "gat_epochs": 149
+          },
+          "trans_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.9504950495049505,
+            "macro_f1": 0.9379075394112988,
+            "weighted_f1": 0.9509371989830562,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9687687687687688,
+            "weighted_f1": 0.9748671748671749,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9746787603930461,
+            "weighted_f1": 0.9801980198019802,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9788425515133591,
+            "weighted_f1": 0.9801283233913453,
+            "n_labeled": 101
+          }
+        }
+      ],
+      "trans": {
+        "accuracy": 0.9405940594059405,
+        "macro_f1": 0.917287949993156,
+        "weighted_f1": 0.9376086287736315,
+        "n_labeled": 101
+      },
+      "graph": {
+        "accuracy": 0.9900990099009901,
+        "macro_f1": 0.9871091871091872,
+        "weighted_f1": 0.9900075721857899,
+        "n_labeled": 101
+      },
+      "ensembled": {
+        "accuracy": 0.9900990099009901,
+        "macro_f1": 0.9917326560087654,
+        "weighted_f1": 0.9901197201746171,
+        "n_labeled": 101,
+        "c_index": 0.6606005459508644
+      }
+    },
+    {
+      "fold": 2,
+      "n_test": 102,
+      "members": [
+        {
+          "member": 1,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 52,
+          "fusion_best_epoch": 12,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9715302586555481,
+              "mirna": 0.9715302586555481,
+              "meth": 0.9501779079437256
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9857650995254517,
+            "gat_epochs": 143
+          },
+          "trans_oob": {
+            "accuracy": 0.8205128205128205,
+            "macro_f1": 0.6148148148148148,
+            "weighted_f1": 0.7447293447293447,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.8118811881188119,
+            "macro_f1": 0.6075604881575031,
+            "weighted_f1": 0.7379729936254246,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9702970297029703,
+            "macro_f1": 0.9613275613275613,
+            "weighted_f1": 0.97002271655737,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9737254901960783,
+            "weighted_f1": 0.9798136284216656,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 2,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 45,
+          "fusion_best_epoch": 25,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9750889539718628,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9288256168365479
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9857650995254517,
+            "gat_epochs": 134
+          },
+          "trans_oob": {
+            "accuracy": 0.5128205128205128,
+            "macro_f1": 0.3650793650793651,
+            "weighted_f1": 0.5189255189255189,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.5148514851485149,
+            "macro_f1": 0.380695165561923,
+            "weighted_f1": 0.519262361200883,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9702970297029703,
+            "macro_f1": 0.9613275613275613,
+            "weighted_f1": 0.97002271655737,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 3,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 57,
+          "fusion_best_epoch": 48,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9857650995254517,
+              "mirna": 0.9644128084182739,
+              "meth": 0.9750889539718628
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9964412450790405,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.8461538461538461,
+            "macro_f1": 0.7504140992513086,
+            "weighted_f1": 0.8179950970648645,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.7623762376237624,
+            "macro_f1": 0.5838515726656794,
+            "weighted_f1": 0.6995174116954029,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9487179487179487,
+            "macro_f1": 0.9398148148148149,
+            "weighted_f1": 0.9504985754985754,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9603960396039604,
+            "macro_f1": 0.9474509803921568,
+            "weighted_f1": 0.9596272568433313,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9788425515133591,
+            "weighted_f1": 0.9801283233913453,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 4,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 99,
+          "fusion_best_epoch": 1,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9679715037345886,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9430605173110962
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 1.0,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.7948717948717948,
+            "macro_f1": 0.5785256410256411,
+            "weighted_f1": 0.7205374753451677,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.7920792079207921,
+            "macro_f1": 0.5875734259948705,
+            "weighted_f1": 0.727345556595868,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9487179487179487,
+            "macro_f1": 0.9469135802469136,
+            "weighted_f1": 0.9486229819563152,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9737254901960783,
+            "weighted_f1": 0.9798136284216656,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9737254901960783,
+            "weighted_f1": 0.9798136284216656,
+            "n_labeled": 101
+          }
+        },
+        {
+          "member": 5,
+          "n_boot_unique": 281,
+          "n_oob": 39,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 99,
+          "fusion_best_epoch": 45,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9644128084182739,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9572953581809998
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9928825497627258,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.717948717948718,
+            "macro_f1": 0.6765167199949809,
+            "weighted_f1": 0.6917189091102134,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.6138613861386139,
+            "macro_f1": 0.5292801651040148,
+            "weighted_f1": 0.5498591270461877,
+            "n_labeled": 101
+          },
+          "graph_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.9504950495049505,
+            "macro_f1": 0.9434551754974291,
+            "weighted_f1": 0.9502857076452111,
+            "n_labeled": 101
+          },
+          "ensembled_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.9801980198019802,
+            "macro_f1": 0.9737254901960783,
+            "weighted_f1": 0.9798136284216656,
+            "n_labeled": 101
+          }
+        }
+      ],
+      "trans": {
+        "accuracy": 0.8217821782178217,
+        "macro_f1": 0.5987743912272214,
+        "weighted_f1": 0.7420090339948364,
+        "n_labeled": 101
+      },
+      "graph": {
+        "accuracy": 0.9702970297029703,
+        "macro_f1": 0.9613275613275613,
+        "weighted_f1": 0.97002271655737,
+        "n_labeled": 101
+      },
+      "ensembled": {
+        "accuracy": 0.9801980198019802,
+        "macro_f1": 0.9737254901960783,
+        "weighted_f1": 0.9798136284216656,
+        "n_labeled": 101,
+        "c_index": 0.8310369833212473
+      }
+    },
+    {
+      "fold": 3,
+      "n_test": 102,
+      "members": [
+        {
+          "member": 1,
+          "n_boot_unique": 282,
+          "n_oob": 39,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 100,
+          "fusion_best_epoch": 1,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9858155846595764,
+              "mirna": 0.9893616437911987,
+              "meth": 0.9716311693191528
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9929077625274658,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.7948717948717948,
+            "macro_f1": 0.6637529137529138,
+            "weighted_f1": 0.7511655011655012,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.82,
+            "macro_f1": 0.7118279569892474,
+            "weighted_f1": 0.788883590462833,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.9230769230769231,
+            "macro_f1": 0.9064577397910732,
+            "weighted_f1": 0.9202644459054716,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.96,
+            "macro_f1": 0.9493055555555555,
+            "weighted_f1": 0.9614791666666666,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 0.9487179487179487,
+            "macro_f1": 0.9444694356975059,
+            "weighted_f1": 0.9482065892322302,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.99,
+            "macro_f1": 0.9915047915047915,
+            "weighted_f1": 0.989973581973582,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 2,
+          "n_boot_unique": 282,
+          "n_oob": 39,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 79,
+          "fusion_best_epoch": 8,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9893616437911987,
+              "mirna": 0.9964538812637329,
+              "meth": 0.9787233471870422
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.8829786777496338,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.8205128205128205,
+            "macro_f1": 0.5959595959595959,
+            "weighted_f1": 0.7498057498057498,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.77,
+            "macro_f1": 0.6427680936797346,
+            "weighted_f1": 0.7382852467775329,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.7692307692307693,
+            "macro_f1": 0.5730897009966777,
+            "weighted_f1": 0.6947354970610784,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.77,
+            "macro_f1": 0.5780647475562729,
+            "weighted_f1": 0.7024535916061339,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.99,
+            "macro_f1": 0.9871091871091872,
+            "weighted_f1": 0.9899076479076478,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 3,
+          "n_boot_unique": 282,
+          "n_oob": 39,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 92,
+          "fusion_best_epoch": 91,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9929077625274658,
+              "mirna": 0.9893616437911987,
+              "meth": 0.9574467539787292
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9893616437911987,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.38461538461538464,
+            "macro_f1": 0.29,
+            "weighted_f1": 0.26692307692307693,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.35,
+            "macro_f1": 0.28394178000477216,
+            "weighted_f1": 0.22655690765926986,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.94,
+            "macro_f1": 0.9286858974358975,
+            "weighted_f1": 0.9389182692307692,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 4,
+          "n_boot_unique": 282,
+          "n_oob": 39,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 76,
+          "fusion_best_epoch": 4,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9929077625274658,
+              "mirna": 0.9893616437911987,
+              "meth": 0.9716311693191528
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9893616437911987,
+            "gat_epochs": 111
+          },
+          "trans_oob": {
+            "accuracy": 0.48717948717948717,
+            "macro_f1": 0.21839080459770113,
+            "weighted_f1": 0.31918656056587086,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.34,
+            "macro_f1": 0.1691542288557214,
+            "weighted_f1": 0.24865671641791046,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.96,
+            "macro_f1": 0.9621767289677737,
+            "weighted_f1": 0.9599423490654835,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9786813186813187,
+            "weighted_f1": 0.9799802197802197,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 5,
+          "n_boot_unique": 282,
+          "n_oob": 39,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 16,
+          "fusion_best_epoch": 57,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9858155846595764,
+              "mirna": 0.9893616437911987,
+              "meth": 0.9751772880554199
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9929077625274658,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.7948717948717948,
+            "macro_f1": 0.579226285108638,
+            "weighted_f1": 0.7289144347967877,
+            "n_labeled": 39
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.79,
+            "macro_f1": 0.5752583979328166,
+            "weighted_f1": 0.7228391472868217,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.9487179487179487,
+            "macro_f1": 0.9469135802469136,
+            "weighted_f1": 0.9486229819563152,
+            "n_labeled": 39
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.89,
+            "macro_f1": 0.8769168498337406,
+            "weighted_f1": 0.8933632548917138,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 0.9743589743589743,
+            "macro_f1": 0.9786453119786453,
+            "weighted_f1": 0.9744873078206411,
+            "n_labeled": 39
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9829166666666667,
+            "weighted_f1": 0.9798874999999999,
+            "n_labeled": 100
+          }
+        }
+      ],
+      "trans": {
+        "accuracy": 0.87,
+        "macro_f1": 0.7776894541600424,
+        "weighted_f1": 0.8455007949125596,
+        "n_labeled": 100
+      },
+      "graph": {
+        "accuracy": 0.96,
+        "macro_f1": 0.962000933429505,
+        "weighted_f1": 0.9599043659043659,
+        "n_labeled": 100
+      },
+      "ensembled": {
+        "accuracy": 0.99,
+        "macro_f1": 0.9915047915047915,
+        "weighted_f1": 0.989973581973582,
+        "n_labeled": 100,
+        "c_index": 0.6406882591093117
+      }
+    },
+    {
+      "fold": 4,
+      "n_test": 102,
+      "members": [
+        {
+          "member": 1,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 14,
+          "fusion_best_epoch": 9,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9786476492881775,
+              "mirna": 0.9608541131019592,
+              "meth": 0.9608541131019592
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9679715037345886,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.175,
+            "macro_f1": 0.10144927536231885,
+            "weighted_f1": 0.053260869565217396,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.17,
+            "macro_f1": 0.09770114942528735,
+            "weighted_f1": 0.05568965517241379,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.975,
+            "macro_f1": 0.9791073124406457,
+            "weighted_f1": 0.97514245014245,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.94,
+            "macro_f1": 0.9369963369963369,
+            "weighted_f1": 0.9401538461538462,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.97,
+            "macro_f1": 0.9743061062648692,
+            "weighted_f1": 0.9699238699444885,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 2,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 62,
+          "fusion_best_epoch": 79,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9857650995254517,
+              "mirna": 0.982206404209137,
+              "meth": 0.9786476492881775
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9857650995254517,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.9,
+            "macro_f1": 0.9033083318797605,
+            "weighted_f1": 0.899738356881214,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.925,
+            "macro_f1": 0.9189606272939607,
+            "weighted_f1": 0.9255474224224225,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.96,
+            "macro_f1": 0.9664596273291925,
+            "weighted_f1": 0.9602732919254658,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.97,
+            "macro_f1": 0.9743061062648692,
+            "weighted_f1": 0.9699238699444885,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 3,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 73,
+          "fusion_best_epoch": 43,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9750889539718628,
+              "mirna": 0.9679715037345886,
+              "meth": 0.9750889539718628
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.8398576378822327,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.825,
+            "macro_f1": 0.6170212765957447,
+            "weighted_f1": 0.750531914893617,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.69,
+            "macro_f1": 0.5140613664490249,
+            "weighted_f1": 0.621070285494815,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.825,
+            "macro_f1": 0.6170212765957447,
+            "weighted_f1": 0.750531914893617,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.74,
+            "macro_f1": 0.5561930783242258,
+            "weighted_f1": 0.6681311475409837,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.95,
+            "macro_f1": 0.9513925228210942,
+            "weighted_f1": 0.9493458922030349,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 4,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 98,
+          "fusion_best_epoch": 15,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.982206404209137,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9679715037345886
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 1.0,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.85,
+            "macro_f1": 0.7437678062678064,
+            "weighted_f1": 0.8290197649572649,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.85,
+            "macro_f1": 0.7830990297303076,
+            "weighted_f1": 0.8404293297555854,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.94,
+            "macro_f1": 0.947741935483871,
+            "weighted_f1": 0.9392645161290322,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.94,
+            "macro_f1": 0.9423599101018456,
+            "weighted_f1": 0.938950297014813,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 5,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 86,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 63,
+          "fusion_best_epoch": 1,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.982206404209137,
+              "mirna": 0.9750889539718628,
+              "meth": 0.9857650995254517
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9893238544464111,
+            "gat_epochs": 129
+          },
+          "trans_oob": {
+            "accuracy": 0.55,
+            "macro_f1": 0.31877394636015327,
+            "weighted_f1": 0.43149425287356324,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.5,
+            "macro_f1": 0.25727332028701894,
+            "weighted_f1": 0.3533307240704501,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.93,
+            "macro_f1": 0.9301980758347481,
+            "weighted_f1": 0.9292645161290323,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.95,
+            "macro_f1": 0.9567099567099566,
+            "weighted_f1": 0.9495670995670996,
+            "n_labeled": 100
+          }
+        }
+      ],
+      "trans": {
+        "accuracy": 0.92,
+        "macro_f1": 0.9278826707398137,
+        "weighted_f1": 0.9201427298570155,
+        "n_labeled": 100
+      },
+      "graph": {
+        "accuracy": 0.97,
+        "macro_f1": 0.9743061062648692,
+        "weighted_f1": 0.9699238699444885,
+        "n_labeled": 100
+      },
+      "ensembled": {
+        "accuracy": 0.96,
+        "macro_f1": 0.9655612244897959,
+        "weighted_f1": 0.959783163265306,
+        "n_labeled": 100,
+        "c_index": 0.8642570281124498
+      }
+    },
+    {
+      "fold": 5,
+      "n_test": 101,
+      "members": [
+        {
+          "member": 1,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 88,
+          "fusion_best_epoch": 44,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9715302586555481,
+              "mirna": 0.9857650995254517,
+              "meth": 0.9430605173110962
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9679715037345886,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.95,
+            "macro_f1": 0.9451526251526251,
+            "weighted_f1": 0.9497289377289377,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.91,
+            "macro_f1": 0.8912254901960784,
+            "weighted_f1": 0.9065632352941176,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.975,
+            "macro_f1": 0.9785365853658536,
+            "weighted_f1": 0.9748048780487805,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9831038798498123,
+            "weighted_f1": 0.9800813516896121,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9831038798498123,
+            "weighted_f1": 0.9800813516896121,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 2,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 96,
+          "fusion_best_epoch": 3,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9857650995254517,
+              "mirna": 0.9644128084182739,
+              "meth": 0.935943067073822
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.6654804348945618,
+            "gat_epochs": 81
+          },
+          "trans_oob": {
+            "accuracy": 0.65,
+            "macro_f1": 0.5666666666666668,
+            "weighted_f1": 0.6024999999999999,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.59,
+            "macro_f1": 0.49382008884815626,
+            "weighted_f1": 0.5039580707984878,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.675,
+            "macro_f1": 0.5531045751633986,
+            "weighted_f1": 0.545281862745098,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.67,
+            "macro_f1": 0.5813953488372093,
+            "weighted_f1": 0.5472093023255814,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 0.975,
+            "macro_f1": 0.9644444444444445,
+            "weighted_f1": 0.9753333333333334,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9831038798498123,
+            "weighted_f1": 0.9800813516896121,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 3,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 49,
+          "fusion_best_epoch": 47,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9786476492881775,
+              "mirna": 0.9786476492881775,
+              "meth": 0.9644128084182739
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9928825497627258,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.675,
+            "macro_f1": 0.5849056603773585,
+            "weighted_f1": 0.5523584905660377,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.64,
+            "macro_f1": 0.5471861471861472,
+            "weighted_f1": 0.5228051948051947,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.97,
+            "macro_f1": 0.97066075363289,
+            "weighted_f1": 0.9700010877750816,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.97,
+            "macro_f1": 0.9708963817123211,
+            "weighted_f1": 0.969938451807522,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 4,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 12,
+          "fusion_best_epoch": 33,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.982206404209137,
+              "mirna": 0.9715302586555481,
+              "meth": 0.9501779079437256
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9964412450790405,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.97,
+            "macro_f1": 0.97066075363289,
+            "weighted_f1": 0.9700010877750816,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 0.975,
+            "macro_f1": 0.9692307692307693,
+            "weighted_f1": 0.9755128205128205,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.93,
+            "macro_f1": 0.9233531017029256,
+            "weighted_f1": 0.9314127269678167,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9831038798498123,
+            "weighted_f1": 0.9800813516896121,
+            "n_labeled": 100
+          }
+        },
+        {
+          "member": 5,
+          "n_boot_unique": 281,
+          "n_oob": 40,
+          "n_fusion": 87,
+          "n_fusion_labeled": 81,
+          "trans_best_epoch": 39,
+          "fusion_best_epoch": 73,
+          "graph": {
+            "gcn_train_acc": {
+              "mrna": 0.9928825497627258,
+              "mirna": 0.9644128084182739,
+              "meth": 0.9715302586555481
+            },
+            "selected_omics": [
+              "mrna",
+              "mirna",
+              "meth"
+            ],
+            "gat_train_acc": 0.9893238544464111,
+            "gat_epochs": 150
+          },
+          "trans_oob": {
+            "accuracy": 0.975,
+            "macro_f1": 0.9620132953466287,
+            "weighted_f1": 0.9745014245014245,
+            "n_labeled": 40
+          },
+          "trans_test_member_alone": {
+            "accuracy": 0.86,
+            "macro_f1": 0.7807283142389525,
+            "weighted_f1": 0.8443449263502454,
+            "n_labeled": 100
+          },
+          "graph_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "graph_test_member_alone": {
+            "accuracy": 0.97,
+            "macro_f1": 0.9694354197371028,
+            "weighted_f1": 0.9701393197677732,
+            "n_labeled": 100
+          },
+          "ensembled_oob": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "weighted_f1": 1.0,
+            "n_labeled": 40
+          },
+          "ensembled_test_member_alone": {
+            "accuracy": 0.98,
+            "macro_f1": 0.9831038798498123,
+            "weighted_f1": 0.9800813516896121,
+            "n_labeled": 100
+          }
+        }
+      ],
+      "trans": {
+        "accuracy": 0.96,
+        "macro_f1": 0.9659090909090909,
+        "weighted_f1": 0.96,
+        "n_labeled": 100
+      },
+      "graph": {
+        "accuracy": 0.98,
+        "macro_f1": 0.9831038798498123,
+        "weighted_f1": 0.9800813516896121,
+        "n_labeled": 100
+      },
+      "ensembled": {
+        "accuracy": 0.98,
+        "macro_f1": 0.9831038798498123,
+        "weighted_f1": 0.9800813516896121,
+        "n_labeled": 100,
+        "c_index": 0.8263795423956931
+      }
+    }
+  ],
+  "elapsed_minutes": 69.2
+}

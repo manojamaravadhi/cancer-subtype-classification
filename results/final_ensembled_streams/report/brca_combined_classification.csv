@@ -1,0 +1,7 @@
+Method,Accuracy,Weighted-F1,Macro-F1,C-index,Note
+Reference transformer method (paper),0.897,0.891,0.832,-,"Table 1; 5 PAM50 classes (LumA 417, LumB 139, Basal 127, HER2 46, Normal 34; Table 8)"
+Reference graph method (paper),-,-,0.804,-,"Table 2 (accuracy only shown graphically in Figure 2); 5 classes (381, 167, 141, 71, 27; Table 1), cBioPortal labels"
+FastMI-HGNet (paper),0.881,0.885,0.859,-,"Table 4; 5 PAM50 classes (Normal-like 115, Basal 131, HER2 46, LumA 436, LumB 147; Table 1)"
+Our transformer stream (bagged),0.754 ± 0.026,0.685 ± 0.036,0.445 ± 0.030,-,"5-fold CV, 564 labeled patients"
+Our graph stream (bagged),0.860 ± 0.017,0.858 ± 0.021,0.818 ± 0.046,-,"5-fold CV, 564 labeled patients"
+Our Ensembled Transformer-Graph Streams model (bagged),0.869 ± 0.015,0.869 ± 0.018,0.839 ± 0.013,0.662 ± 0.033,"5-fold CV, 564 labeled patients"

@@ -1,0 +1,7 @@
+Method,Accuracy,Weighted-F1,Macro-F1,C-index,Note
+Reference transformer method (paper),0.895,0.883,0.784,-,"Table 2 (COAD); COAD only, 3 classes (CIN 177, GS 34, MSI 47; Table 8); marked not comparable in config: colon only with 3 classes; ours is colon + rectum with the graph method's 8 classes"
+Reference graph method (paper),-,-,0.272,-,"Table 2 (accuracy only shown graphically in Figure 2); 8 classes (175, 77, 49, 45, 7, 5, 3, 2; Table 1) from cBioPortal subtype labels, 75/25 split"
+FastMI-HGNet (paper),-,-,-,-,no result for this cohort
+Our transformer stream (bagged),0.702 ± 0.056,0.636 ± 0.062,0.269 ± 0.042,-,"5-fold CV, 322 labeled patients"
+Our graph stream (bagged),0.761 ± 0.021,0.738 ± 0.022,0.360 ± 0.009,-,"5-fold CV, 322 labeled patients"
+Our Ensembled Transformer-Graph Streams model (bagged),0.758 ± 0.035,0.755 ± 0.038,0.371 ± 0.050,0.564 ± 0.046,"5-fold CV, 322 labeled patients"

@@ -1,0 +1,478 @@
+list,Gene_set,Term,Overlap,P-value,Adjusted P-value,Old P-value,Old Adjusted P-value,Odds Ratio,Combined Score,Genes
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Humoral Immune Response Mediated by Circulating Immunoglobulin (GO:0002924),2/8,6.056007889723947e-05,0.0233156303754371,0,0,237.66666666666663,2308.188874209161,CR1L;FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glutamine Metabolic Process (GO:0006541),2/12,0.00014221789991262262,0.0273769457331798,0,0,142.57142857142858,1262.919124249693,PM20D1;GLS2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Misfolded Protein (GO:0071218),2/15,0.0002256241583974691,0.0289551003276752,0,0,109.65384615384616,920.7238662710552,CAV1;CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Chemical Stress (GO:0062197),3/100,0.00044640250260442,0.0316435297020944,0,0,22.764032073310425,175.60833452775756,CUL3;CAV1;RBM11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Smooth Muscle Contraction (GO:0006940),2/21,0.0004487323925980029,0.0316435297020944,0,0,75.00375939849624,578.2102706794014,CAV1;PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Nitric Oxide Metabolic Process (GO:0046209),2/22,0.0004931459174352375,0.0316435297020944,0,0,71.25,542.5477632515199,PM20D1;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Amino Acid Metabolic Process (GO:0006520),2/25,0.0006386616282018391,0.0351263895511011,0,0,61.9472049689441,455.6920507677008,PM20D1;GLS2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Calcium Ion Transmembrane Transport (GO:1904427),2/45,0.0020687005204849,0.0920593173869069,0,0,33.10132890365448,204.59384020901297,CXCL11;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Triglyceride Metabolic Process (GO:0006641),2/50,0.0025478771667966,0.0920593173869069,0,0,29.64583333333333,177.0595839464994,PM20D1;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Mitotic Metaphase/Anaphase Transition (GO:0030071),2/51,0.0026494069247459,0.0920593173869069,0,0,29.03935860058309,172.30269560126317,CUL3;ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Homotetramerization (GO:0051289),2/59,0.0035290537376922,0.0920593173869069,0,0,24.953634085213032,140.90632208004251,GLS2;UPB1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,G1/S Transition of Mitotic Cell Cycle (GO:0000082),2/64,0.0041388617117281,0.0920593173869069,0,0,22.93548387096774,125.85467141037546,CUL3;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cell Cycle G1/S Phase Transition (GO:0044843),2/66,0.004395525019554,0.0920593173869069,0,0,22.216517857142858,120.57278137525562,CUL3;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Protein Ubiquitination (GO:0031398),2/76,0.0057862287304151,0.0920593173869069,0,0,19.204633204633204,98.94754273926414,CUL3;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Protein Modification by Small Protein Conjugation or Removal (GO:1903322),2/79,0.0062378258777614,0.0920593173869069,0,0,18.45361781076067,93.69129801882784,CUL3;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Tetramerization (GO:0051262),2/83,0.0068642280423139,0.0920593173869069,0,0,17.538800705467374,87.36833771598931,GLS2;UPB1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Gap Junction Assembly (GO:1903598),1/5,0.0074781928285412,0.0920593173869069,0,0,172.1206896551724,842.6622961465415,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Alpha-Amino Acid Biosynthetic Process (GO:1901607),1/5,0.0074781928285412,0.0920593173869069,0,0,172.1206896551724,842.6622961465415,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Citrulline Metabolic Process (GO:0000052),1/5,0.0074781928285412,0.0920593173869069,0,0,172.1206896551724,842.6622961465415,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Mitotic Cell Cycle Phase Transition (GO:1901990),2/88,0.0076857751375322,0.0920593173869069,0,0,16.514950166112957,80.40111986589167,CUL3;ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein K48-linked Ubiquitination (GO:0070936),2/91,0.0081990142194101,0.0920593173869069,0,0,15.95585874799358,76.64781842787546,CUL3;TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,"Negative Regulation of Complement Activation, Classical Pathway (GO:0045959)",1/6,0.008967337727522,0.0920593173869069,0,0,137.68965517241378,649.0919521468393,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Hormone Metabolic Process (GO:0032352),1/6,0.008967337727522,0.0920593173869069,0,0,137.68965517241378,649.0919521468393,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Urea Cycle (GO:0000050),1/6,0.008967337727522,0.0920593173869069,0,0,137.68965517241378,649.0919521468393,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of T Cell Differentiation in Thymus (GO:0033085),1/6,0.008967337727522,0.0920593173869069,0,0,137.68965517241378,649.0919521468393,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,- Reg of Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains (GO:0002823),1/6,0.008967337727522,0.0920593173869069,0,0,137.68965517241378,649.0919521468393,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Adhesion Molecule Production (GO:0060353),1/6,0.008967337727522,0.0920593173869069,0,0,137.68965517241378,649.0919521468393,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cold-Induced Thermogenesis (GO:0120162),2/99,0.0096409337003277,0.0920593173869069,0,0,14.6340206185567,67.92727962001706,CAV1;LCN2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,"Regulation of Complement Activation, Classical Pathway (GO:0030450)",1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Thyroid Hormone Transport (GO:0070327),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Urea Metabolic Process (GO:0019627),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,"Fructose 1,6-Bisphosphate Metabolic Process (GO:0030388)",1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Fructose Metabolic Process (GO:0006000),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glycine Metabolic Process (GO:0006544),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,GLDC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Non-Proteinogenic Amino Acid Biosynthetic Process (GO:0170043),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Pyrimidine-Containing Compound Catabolic Process (GO:0072529),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,UPB1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Reg of Cardiac Muscle Cell Action Potential Inv in Reg of Contraction (GO:0098909),1/7,0.0104543235506301,0.0920593173869069,0,0,114.73563218390804,523.2793468811269,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Gap Junction Assembly (GO:1903596),1/8,0.0119391531667426,0.0920593173869069,0,0,98.33990147783253,435.442406227662,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Nitric Oxide Biosynthetic Process (GO:0045019),1/8,0.0119391531667426,0.0920593173869069,0,0,98.33990147783253,435.442406227662,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Nitric Oxide Metabolic Process (GO:1904406),1/8,0.0119391531667426,0.0920593173869069,0,0,98.33990147783253,435.442406227662,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Pinocytosis (GO:0048548),1/8,0.0119391531667426,0.0920593173869069,0,0,98.33990147783253,435.442406227662,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Multi-Ciliated Epithelial Cell Differentiation (GO:1903251),1/8,0.0119391531667426,0.0920593173869069,0,0,98.33990147783253,435.442406227662,CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Killing (GO:0031341),1/8,0.0119391531667426,0.0920593173869069,0,0,98.33990147783253,435.442406227662,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Protein Ubiquitination (GO:0031396),2/113,0.0124143666206696,0.0920593173869069,0,0,12.77927927927928,56.08699005654072,CUL3;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Mitotic Cell Cycle Phase Transition (GO:0044772),2/113,0.0124143666206696,0.0920593173869069,0,0,12.77927927927928,56.08699005654072,CUL3;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Complement-Dependent Cytotoxicity (GO:1903659),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Homocysteine Metabolic Process (GO:0050667),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Hormone Transport (GO:0009914),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Voltage-Gated Potassium Channel Activity (GO:1903817),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Lung Epithelium Development (GO:0060428),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Calcium Ion Transport Into Cytosol (GO:0010524),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Serine Family Amino Acid Catabolic Process (GO:0009071),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,GLDC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cellular Response to Insulin Stimulus (GO:1900076),1/9,0.0134218294793273,0.0920593173869069,0,0,86.04310344827586,370.92087702683546,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Oxidative Stress (GO:0034599),2/121,0.0141377624566896,0.0920593173869069,0,0,11.915366146458584,50.746422861723886,CUL3;RBM11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Complement Activation (GO:0030449),1/10,0.0149023554252653,0.0920593173869069,0,0,76.47892720306514,321.6884165593148,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glutamine Family Amino Acid Biosynthetic Process (GO:0009084),1/10,0.0149023554252653,0.0920593173869069,0,0,76.47892720306514,321.6884165593148,GLS2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Angiotensin-Activated Signaling Pathway (GO:0038166),1/10,0.0149023554252653,0.0920593173869069,0,0,76.47892720306514,321.6884165593148,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Increased Oxygen Levels (GO:0036295),1/10,0.0149023554252653,0.0920593173869069,0,0,76.47892720306514,321.6884165593148,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Receptor-Mediated Endocytosis of Virus by Host Cell (GO:0019065),1/10,0.0149023554252653,0.0920593173869069,0,0,76.47892720306514,321.6884165593148,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Metaphase/Anaphase Transition of Cell Cycle (GO:1902101),1/11,0.0163807339505408,0.0920593173869069,0,0,68.82758620689656,282.994903106762,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Potassium Ion Transmembrane Transport (GO:1901380),1/11,0.0163807339505408,0.0920593173869069,0,0,68.82758620689656,282.994903106762,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Potassium Ion Transport (GO:0043267),1/11,0.0163807339505408,0.0920593173869069,0,0,68.82758620689656,282.994903106762,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Ventricular Cardiac Muscle Cell Action Potential (GO:0098911),1/11,0.0163807339505408,0.0920593173869069,0,0,68.82758620689656,282.994903106762,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Communication by Electrical Coupling Involved in Cardiac Conduction (GO:1901844),1/11,0.0163807339505408,0.0920593173869069,0,0,68.82758620689656,282.994903106762,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Endocytosis Involved in Viral Entry Into Host Cell (GO:0075509),1/11,0.0163807339505408,0.0920593173869069,0,0,68.82758620689656,282.994903106762,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Complement Activation (GO:0045916),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,T Cell Chemotaxis (GO:0010818),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Smooth Muscle Contraction (GO:0045987),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Intracellular Copper Ion Homeostasis (GO:0006878),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,CP
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Angiotensin (GO:1904385),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Misfolded Protein (GO:0051788),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of T Cell Differentiation in Thymus (GO:0033081),1/12,0.0178569680089386,0.0920593173869069,0,0,62.56739811912226,251.8563944353508,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Mitotic Metaphase/Anaphase Transition (GO:0045842),1/13,0.0193310605643026,0.0920593173869069,0,0,57.35057471264368,226.30778348154325,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Humoral Immune Response (GO:0002920),1/13,0.0193310605643026,0.0920593173869069,0,0,57.35057471264368,226.30778348154325,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Vasoconstriction (GO:0045907),1/13,0.0193310605643026,0.0920593173869069,0,0,57.35057471264368,226.30778348154325,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Progesterone (GO:0032570),1/13,0.0193310605643026,0.0920593173869069,0,0,57.35057471264368,226.30778348154325,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of T Cell Differentiation (GO:0045581),1/13,0.0193310605643026,0.0920593173869069,0,0,57.35057471264368,226.30778348154325,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Communication by Electrical Coupling (GO:0010649),1/13,0.0193310605643026,0.0920593173869069,0,0,57.35057471264368,226.30778348154325,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Homooligomerization (GO:0051260),2/143,0.0193736307109963,0.0920593173869069,0,0,10.045086119554204,39.61623634122261,GLS2;UPB1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Metabolic Process (GO:0009893),2/147,0.0204011012789602,0.0920593173869069,0,0,9.766009852216747,38.01093536322369,CAV1;LCN2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cold-Induced Thermogenesis (GO:0120161),2/148,0.0206614955328278,0.0920593173869069,0,0,9.6986301369863,37.62567491079582,CAV1;LCN2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Coagulation (GO:0050818),1/14,0.02080301457834,0.0920593173869069,0,0,52.93633952254642,205.00430545239047,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Establishment of Apical/Basal Cell Polarity (GO:0035089),1/14,0.02080301457834,0.0920593173869069,0,0,52.93633952254642,205.00430545239047,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Immune Effector Process (GO:0002697),1/14,0.02080301457834,0.0920593173869069,0,0,52.93633952254642,205.00430545239047,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glutamine Family Amino Acid Catabolic Process (GO:0009065),1/14,0.02080301457834,0.0920593173869069,0,0,52.93633952254642,205.00430545239047,GLS2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Acute Inflammatory Response (GO:0002675),1/14,0.02080301457834,0.0920593173869069,0,0,52.93633952254642,205.00430545239047,CREB3L3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Sodium-Independent Organic Anion Transport (GO:0043252),1/14,0.02080301457834,0.0920593173869069,0,0,52.93633952254642,205.00430545239047,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Mitotic Sister Chromatid Separation (GO:1901970),1/15,0.0222728330244505,0.0942168825315347,0,0,49.15270935960592,186.9959576603662,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Proteinogenic Amino Acid Catabolic Process (GO:0170040),1/15,0.0222728330244505,0.0942168825315347,0,0,49.15270935960592,186.9959576603662,GLDC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Copper Ion Homeostasis (GO:0055070),1/15,0.0222728330244505,0.0942168825315347,0,0,49.15270935960592,186.9959576603662,CP
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Multicellular Organismal Process (GO:0051240),3/407,0.0226163274704768,0.0942168825315347,0,0,5.381188118811881,20.38976938457689,CAV1;LCN2;FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Epithelium Development (GO:0060429),2/159,0.0236173566502385,0.0942168825315347,0,0,9.01410373066424,33.76478985279455,FOXJ1;ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Triglyceride Catabolic Process (GO:0019433),1/16,0.0237405188646141,0.0942168825315347,0,0,45.87356321839081,171.5933676703201,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Muscle Contraction (GO:0045933),1/16,0.0237405188646141,0.0942168825315347,0,0,45.87356321839081,171.5933676703201,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of ERAD Pathway (GO:1904294),1/16,0.0237405188646141,0.0942168825315347,0,0,45.87356321839081,171.5933676703201,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Receptor Signaling Pathway via JAK-STAT (GO:0046426),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Receptor Signaling Pathway via STAT (GO:1904893),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Lymphocyte Mediated Immunity (GO:0002449),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Contractile Actin Filament Bundle Assembly (GO:0030038),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Anoikis (GO:2000811),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cation Transmembrane Transport (GO:1904063),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Stress Fiber Assembly (GO:0043149),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Sulfur Amino Acid Metabolic Process (GO:0000096),1/17,0.0252060750668781,0.0942168825315347,0,0,43.00431034482759,158.28468525367578,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Nitrogen Compound (GO:1901699),2/169,0.0264467050992696,0.095960367020915,0,0,8.470059880239521,30.76854025590145,PM20D1;CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Ureteric Bud Development (GO:0001657),1/18,0.0266695046006179,0.095960367020915,0,0,40.47261663286004,146.68225415832842,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Non-Proteinogenic Amino Acid Metabolic Process (GO:0170041),1/18,0.0266695046006179,0.095960367020915,0,0,40.47261663286004,146.68225415832842,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Acute Inflammatory Response (GO:0002673),1/18,0.0266695046006179,0.095960367020915,0,0,40.47261663286004,146.68225415832842,CREB3L3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Cycle Phase Transition (GO:1901989),1/19,0.0281308104264749,0.0963961224054222,0,0,38.22222222222222,136.48734525751556,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Rho Protein Signal Transduction (GO:0035024),1/19,0.0281308104264749,0.0963961224054222,0,0,38.22222222222222,136.48734525751556,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Fatty Acid Metabolic Process (GO:0019217),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glutamate Metabolic Process (GO:0006536),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,GLS2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,T Cell Mediated Immunity (GO:0002456),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,T Cell Migration (GO:0072678),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Nucleosome Disassembly (GO:0006337),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Fatty Acid (GO:0070542),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,GLDC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of B Cell Activation (GO:0050869),1/20,0.0295899955032417,0.0963961224054222,0,0,36.2087114337568,127.46621354176987,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Endothelial Cell Proliferation (GO:0001935),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,COPII Vesicle Coating (GO:0048208),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Epithelial Cell Differentiation (GO:0030856),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vasodilation (GO:0042311),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,"Vesicle Targeting, Rough ER to cis-Golgi (GO:0048207)",1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Anaphase-Promoting Complex-Dependent Catabolic Process (GO:0031145),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Lymphocyte Chemotaxis (GO:0048247),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Sensory Perception of Pain (GO:0019233),1/21,0.0310470628007074,0.0963961224054222,0,0,34.39655172413793,119.43346355828848,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Mammary Gland Development (GO:0030879),1/22,0.0325020152689227,0.0970021385932966,0,0,32.756978653530375,112.24025378249362,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,protein-DNA Complex Disassembly (GO:0032986),1/22,0.0325020152689227,0.0970021385932966,0,0,32.756978653530375,112.24025378249362,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Anoikis (GO:2000209),1/22,0.0325020152689227,0.0970021385932966,0,0,32.756978653530375,112.24025378249362,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cholesterol Efflux (GO:0010875),1/22,0.0325020152689227,0.0970021385932966,0,0,32.756978653530375,112.24025378249362,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Epithelial Cell Differentiation (GO:0030858),1/22,0.0325020152689227,0.0970021385932966,0,0,32.756978653530375,112.24025378249362,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cytokine Production (GO:0001818),2/191,0.0331261923422029,0.0981044927057548,0,0,7.4758125472411185,25.47331542431061,CUL3;FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of ERAD Pathway (GO:1904292),1/23,0.0339548558617346,0.099790988601281,0,0,31.266457680250785,105.76577819907342,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Adaptive Imm Resp Based on Som Recomb of Imm Rcptrs Built Frm IgSF Domains (GO:0002460),1/24,0.035405587532064,0.1017250089540647,0,0,29.90554722638681,99.91101302805887,CR1L
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Ruffle Assembly (GO:1900027),1/24,0.035405587532064,0.1017250089540647,0,0,29.90554722638681,99.91101302805887,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Ketone (GO:1901654),1/24,0.035405587532064,0.1017250089540647,0,0,29.90554722638681,99.91101302805887,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Bile Acid and Bile Salt Transport (GO:0015721),1/25,0.0368542132262458,0.1036417078563278,0,0,28.658045977011493,94.59405781572389,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of B Cell Activation (GO:0050864),1/25,0.0368542132262458,0.1036417078563278,0,0,28.658045977011493,94.59405781572389,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Establishment or Maintenance of Apical/Basal Cell Polarity (GO:0035088),1/26,0.0383007358905153,0.1036417078563278,0,0,27.51034482758621,89.74661743899148,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glutamine Family Amino Acid Metabolic Process (GO:0009064),1/26,0.0383007358905153,0.1036417078563278,0,0,27.51034482758621,89.74661743899148,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Nucleotide-Excision Repair (GO:2000819),1/26,0.0383007358905153,0.1036417078563278,0,0,27.51034482758621,89.74661743899148,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Topologically Incorrect Protein (GO:0035967),1/26,0.0383007358905153,0.1036417078563278,0,0,27.51034482758621,89.74661743899148,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cardiac Muscle Cell Contraction (GO:0086004),1/26,0.0383007358905153,0.1036417078563278,0,0,27.51034482758621,89.74661743899148,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Sterol Transport (GO:0015918),1/26,0.0383007358905153,0.1036417078563278,0,0,27.51034482758621,89.74661743899148,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Intracellular Monoatomic Cation Homeostasis (GO:0030003),2/210,0.0393705553215437,0.1036417078563278,0,0,6.7864010989010985,21.952223199246387,CAV1;CP
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Lymphocyte Activation (GO:0051250),1/27,0.0397451584744871,0.1036417078563278,0,0,26.450928381962864,85.31131290182489,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Alpha-Amino Acid Metabolic Process (GO:1901605),1/27,0.0397451584744871,0.1036417078563278,0,0,26.450928381962864,85.31131290182489,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Quality Control for Misfolded or Incompletely Synthesized Proteins (GO:0006515),1/27,0.0397451584744871,0.1036417078563278,0,0,26.450928381962864,85.31131290182489,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,ADP Catabolic Process (GO:0046032),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Mitotic Cell Cycle (GO:0045931),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Glycolytic Process (GO:0006096),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Acylglycerol Catabolic Process (GO:0046464),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Response to Endoplasmic Reticulum Stress (GO:1905898),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cholesterol Transport (GO:0032376),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cardiac Muscle Cell Action Potential (GO:0098901),1/28,0.0411874839013458,0.1036417078563278,0,0,25.46998722860792,81.2396025067177,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Blood Coagulation (GO:0030193),1/29,0.0426277151111442,0.1050599477427374,0,0,24.55911330049261,77.49015815040234,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vesicle Coating (GO:0006901),1/30,0.0440658550450575,0.1050599477427374,0,0,23.711058263971463,74.02758505991471,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Muscle Contraction (GO:0006937),1/30,0.0440658550450575,0.1050599477427374,0,0,23.711058263971463,74.02758505991471,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Acid Chemical (GO:0071229),1/30,0.0440658550450575,0.1050599477427374,0,0,23.711058263971463,74.02758505991471,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Vasoconstriction (GO:0019229),1/30,0.0440658550450575,0.1050599477427374,0,0,23.711058263971463,74.02758505991471,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vacuolar Acidification (GO:0007035),1/31,0.0455019066193127,0.1050599477427374,0,0,22.919540229885055,70.82140338003367,ATP6V0D2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Activation of GTPase Activity (GO:0090630),1/31,0.0455019066193127,0.1050599477427374,0,0,22.919540229885055,70.82140338003367,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Intracellular pH Reduction (GO:0051452),1/31,0.0455019066193127,0.1050599477427374,0,0,22.919540229885055,70.82140338003367,ATP6V0D2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Determination of Bilateral Symmetry (GO:0009855),1/31,0.0455019066193127,0.1050599477427374,0,0,22.919540229885055,70.82140338003367,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Polyubiquitination (GO:0000209),2/228,0.0456666068373162,0.1050599477427374,0,0,6.240202275600506,19.259685121173963,CUL3;TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cilium Organization (GO:0044782),2/230,0.0463879985600247,0.1050599477427374,0,0,6.184837092731829,18.99186897127861,FOXJ1;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Interleukin-6 Production (GO:0032715),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Metaphase/Anaphase Transition of Cell Cycle (GO:1902099),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Membrane Depolarization (GO:0051899),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Pyridine Nucleotide Catabolic Process (GO:0019364),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Amino Acid (GO:0043200),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Estrogen (GO:0043627),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Steroid Hormone (GO:0048545),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cholesterol Efflux (GO:0010874),1/32,0.0469358727577943,0.1050599477427374,0,0,22.17908787541713,67.84523138217664,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vasculogenesis (GO:0001570),1/33,0.0483677563907074,0.1064090640595564,0,0,21.48491379310345,65.07612542493897,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Small Molecule Metabolic Process (GO:0062012),1/33,0.0483677563907074,0.1064090640595564,0,0,21.48491379310345,65.07612542493897,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of G0 to G1 Transition (GO:0070316),1/33,0.0483677563907074,0.1064090640595564,0,0,21.48491379310345,65.07612542493897,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Endocytosis (GO:0045806),1/34,0.0497975604232894,0.1077082065335193,0,0,20.832810867293627,62.494042787714754,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Lung Development (GO:0030324),1/34,0.0497975604232894,0.1077082065335193,0,0,20.832810867293627,62.494042787714754,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Organophosphate Biosynthetic Process (GO:0090407),1/34,0.0497975604232894,0.1077082065335193,0,0,20.832810867293627,62.494042787714754,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Mitotic Nuclear Division (GO:0045840),1/35,0.0512252877849629,0.109565198873393,0,0,20.219066937119678,60.081401552176,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Skeletal Muscle Organ Development (GO:0060538),1/35,0.0512252877849629,0.109565198873393,0,0,20.219066937119678,60.081401552176,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cytosolic Calcium Ion Concentration (GO:0051480),1/36,0.0526509413652038,0.1102451347006502,0,0,19.64039408866995,57.82271782479102,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Release of Sequestered Calcium Ion Into Cytosol (GO:0051281),1/36,0.0526509413652038,0.1102451347006502,0,0,19.64039408866995,57.82271782479102,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Left/Right Pattern Formation (GO:0060972),1/36,0.0526509413652038,0.1102451347006502,0,0,19.64039408866995,57.82271782479102,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cilium Assembly (GO:0060271),2/247,0.0526885838569341,0.1102451347006502,0,0,5.7507288629737605,16.926445017591515,FOXJ1;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Endothelial Cell Proliferation (GO:0001937),1/38,0.0554960388319167,0.1136488029270636,0,0,18.576887232059647,53.71402231134463,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,COPII-coated Vesicle Budding (GO:0090114),1/38,0.0554960388319167,0.1136488029270636,0,0,18.576887232059647,53.71402231134463,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,O-glycan Processing (GO:0016266),1/38,0.0554960388319167,0.1136488029270636,0,0,18.576887232059647,53.71402231134463,GALNT14
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Striated Muscle Tissue Development (GO:0014706),1/38,0.0554960388319167,0.1136488029270636,0,0,18.576887232059647,53.71402231134463,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Intrinsic Apoptotic Signaling Pathway (GO:2001244),1/39,0.0569154885110809,0.114127411858157,0,0,18.087114337568057,51.84106589215322,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Lymphocyte Differentiation (GO:0045621),1/39,0.0569154885110809,0.114127411858157,0,0,18.087114337568057,51.84106589215322,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vacuolar Transport (GO:0007034),1/39,0.0569154885110809,0.114127411858157,0,0,18.087114337568057,51.84106589215322,ATP6V0D2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Extrinsic Apoptotic Signaling Pathway (GO:2001238),1/39,0.0569154885110809,0.114127411858157,0,0,18.087114337568057,51.84106589215322,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Potassium Ion Transmembrane Transport (GO:1901379),1/40,0.058332876023497,0.1143053635082348,0,0,17.622458001768347,50.075790447561154,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Carbohydrate Catabolic Process (GO:0016052),1/40,0.058332876023497,0.1143053635082348,0,0,17.622458001768347,50.075790447561154,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Amino Acid Stimulus (GO:0071230),1/40,0.058332876023497,0.1143053635082348,0,0,17.622458001768347,50.075790447561154,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cytokinesis (GO:0032467),1/40,0.058332876023497,0.1143053635082348,0,0,17.622458001768347,50.075790447561154,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Chromatin Remodeling (GO:0006338),2/262,0.0584887184704474,0.1143053635082348,0,0,5.414835164835165,15.372291372778257,ARID2;KDM6A
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Heart Rate by Cardiac Conduction (GO:0086091),1/41,0.0597482042475946,0.11430664219426,0,0,17.18103448275862,48.4095601130177,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Myoblast Differentiation (GO:0045663),1/41,0.0597482042475946,0.11430664219426,0,0,17.18103448275862,48.4095601130177,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Type I Interferon Production (GO:0032480),1/41,0.0597482042475946,0.11430664219426,0,0,17.18103448275862,48.4095601130177,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Acylglycerol Metabolic Process (GO:0006639),1/42,0.0611614760831625,0.11430664219426,0,0,16.761143818334734,46.83462101550951,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Axoneme Assembly (GO:0035082),1/42,0.0611614760831625,0.11430664219426,0,0,16.761143818334734,46.83462101550951,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Blood Vessel Diameter Maintenance (GO:0097746),1/42,0.0611614760831625,0.11430664219426,0,0,16.761143818334734,46.83462101550951,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Destabilization (GO:0031648),1/42,0.0611614760831625,0.11430664219426,0,0,16.761143818334734,46.83462101550951,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Skeletal Muscle Tissue Development (GO:0007519),1/42,0.0611614760831625,0.11430664219426,0,0,16.761143818334734,46.83462101550951,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Double-Strand Break Repair via Homologous Recombination (GO:1905168),1/42,0.0611614760831625,0.11430664219426,0,0,16.761143818334734,46.83462101550951,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Division (GO:0051781),1/44,0.0639818620949856,0.1187488588785567,0,0,15.979951884522857,43.93137485913406,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Plasma Membrane Bounded Cell Projection Assembly (GO:0120031),2/277,0.0645019982107607,0.1187488588785567,0,0,5.115584415584416,14.022119089583615,FOXJ1;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cellular Process (GO:0048522),3/622,0.0653411817893636,0.1187488588785567,0,0,3.473523604379824,9.476233628767842,CUL3;CAV1;ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Nitric Oxide Biosynthetic Process (GO:0045428),1/45,0.0653889820318286,0.1187488588785567,0,0,15.615987460815049,42.59106770539062,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of BMP Signaling Pathway (GO:0030514),1/45,0.0653889820318286,0.1187488588785567,0,0,15.615987460815049,42.59106770539062,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Biosynthetic Process (GO:0009890),1/45,0.0653889820318286,0.1187488588785567,0,0,15.615987460815049,42.59106770539062,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Intrinsic Apoptotic Signaling Pathway (GO:2001242),1/46,0.0667940570746933,0.1207310421303141,0,0,15.268199233716476,41.317902512852925,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Pattern Recognition Receptor Signaling Pathway (GO:0062208),1/47,0.0681970901048618,0.1209948372828194,0,0,14.93553223388306,40.10718199812654,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Conduction (GO:0061337),1/47,0.0681970901048618,0.1209948372828194,0,0,14.93553223388306,40.10718199812654,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Chemokine-Mediated Signaling Pathway (GO:0070098),1/47,0.0681970901048618,0.1209948372828194,0,0,14.93553223388306,40.10718199812654,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of T Cell Differentiation (GO:0045580),1/47,0.0681970901048618,0.1209948372828194,0,0,14.93553223388306,40.10718199812654,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Hexose Metabolic Process (GO:0019318),1/48,0.0695980839810058,0.1217966469667602,0,0,14.617021276595745,38.95462833164002,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Chemokine (GO:1990869),1/48,0.0695980839810058,0.1217966469667602,0,0,14.617021276595745,38.95462833164002,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Pyruvate Metabolic Process (GO:0006090),1/48,0.0695980839810058,0.1217966469667602,0,0,14.617021276595745,38.95462833164002,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Small GTPase Mediated Signal Transduction (GO:0051058),1/49,0.070997041562065,0.1231255000062839,0,0,14.311781609195402,37.85633785017516,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Wound Healing (GO:0061041),1/49,0.070997041562065,0.1231255000062839,0,0,14.311781609195402,37.85633785017516,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Lipid Metabolic Process (GO:0019216),1/51,0.0737888592797165,0.1253028751640985,0,0,13.73793103448276,35.80857002720438,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Nicotinamide Nucleotide Metabolic Process (GO:0046496),1/51,0.0737888592797165,0.1253028751640985,0,0,13.73793103448276,35.80857002720438,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Blood Vessel Morphogenesis (GO:0048514),1/51,0.0737888592797165,0.1253028751640985,0,0,13.73793103448276,35.80857002720438,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Organic Hydroxy Compound Transport (GO:0015850),1/51,0.0737888592797165,0.1253028751640985,0,0,13.73793103448276,35.80857002720438,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Protein Ubiquitination (GO:0031397),1/52,0.0751817250984591,0.1253028751640985,0,0,13.46788370520622,34.852823720532044,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cholesterol Transport (GO:0030301),1/52,0.0751817250984591,0.1253028751640985,0,0,13.46788370520622,34.852823720532044,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of TORC1 Signaling (GO:1904263),1/52,0.0751817250984591,0.1253028751640985,0,0,13.46788370520622,34.852823720532044,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Sensory Perception (GO:0007600),1/52,0.0751817250984591,0.1253028751640985,0,0,13.46788370520622,34.852823720532044,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Determination of Left/Right Symmetry (GO:0007368),1/52,0.0751817250984591,0.1253028751640985,0,0,13.46788370520622,34.852823720532044,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Release of Sequestered Calcium Ion Into Cytosol (GO:0051279),1/53,0.0765725660346981,0.1265254846496085,0,0,13.208222811671089,33.938745289872976,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Microtubule Bundle Formation (GO:0001578),1/53,0.0765725660346981,0.1265254846496085,0,0,13.208222811671089,33.938745289872976,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Receptor Signaling Pathway via JAK-STAT (GO:0046425),1/55,0.0793481846088859,0.1294451316712758,0,0,12.717752234993617,32.22563588457274,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Metaphase Chromosome Alignment (GO:0051310),1/55,0.0793481846088859,0.1294451316712758,0,0,12.717752234993617,32.22563588457274,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,"Regulation of Alternative mRNA Splicing, via Spliceosome (GO:0000381)",1/55,0.0793481846088859,0.1294451316712758,0,0,12.717752234993617,32.22563588457274,RBM11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Receptor Internalization (GO:0031623),1/56,0.0807329679040596,0.1295091360127623,0,0,12.4858934169279,31.42210254292495,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of DNA Recombination (GO:0045911),1/56,0.0807329679040596,0.1295091360127623,0,0,12.4858934169279,31.42210254292495,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Mitotic Metaphase Chromosome Alignment (GO:0007080),1/56,0.0807329679040596,0.1295091360127623,0,0,12.4858934169279,31.42210254292495,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Peptide Hormone (GO:0043434),1/56,0.0807329679040596,0.1295091360127623,0,0,12.4858934169279,31.42210254292495,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Protein Modification by Small Protein Conjugation or Removal (GO:1903321),1/58,0.0834964966939316,0.1322886881776282,0,0,12.04658197217181,29.91106798113016,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Myoblast Differentiation (GO:0045661),1/58,0.0834964966939316,0.1322886881776282,0,0,12.04658197217181,29.91106798113016,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Intracellular Iron Ion Homeostasis (GO:0006879),1/58,0.0834964966939316,0.1322886881776282,0,0,12.04658197217181,29.91106798113016,CP
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Chromatin Organization (GO:0006325),2/323,0.0841511134900174,0.1327794208756423,0,0,4.372274143302181,10.821995547231673,ARID2;KDM6A
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vesicle Organization (GO:0016050),1/61,0.0876267376582637,0.1376991591772715,0,0,11.442528735632184,27.85877117514337,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,ATP Metabolic Process (GO:0046034),1/62,0.0889994819880445,0.1392878071764111,0,0,11.254381006218203,27.22575140877544,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Canonical Wnt Signaling Pathway (GO:0060070),1/63,0.090370229679819,0.1408604794604467,0,0,11.07230255839822,26.61604802845276,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Mitotic Cell Cycle Phase Transition (GO:1901992),1/64,0.091738983515608,0.1411248517072828,0,0,10.896004378763,26.028461010792668,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of T Cell Differentiation (GO:0045582),1/64,0.091738983515608,0.1411248517072828,0,0,10.896004378763,26.028461010792668,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Proteasome-Mediated Ubiquitin-Dependent Protein Catabolic Process (GO:0043161),2/340,0.0918290799876609,0.1411248517072828,0,0,4.148774302620456,9.906552210238129,CUL3;TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Extrinsic Apoptotic Signaling Pathway (GO:2001236),1/65,0.0931057463211684,0.1411248517072828,0,0,10.72521551724138,25.461869434390834,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Autoubiquitination (GO:0051865),1/65,0.0931057463211684,0.1411248517072828,0,0,10.72521551724138,25.461869434390834,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of NF-kappaB Transcription Factor Activity (GO:0032088),1/65,0.0931057463211684,0.1411248517072828,0,0,10.72521551724138,25.461869434390834,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Junction Assembly (GO:1901890),1/65,0.0931057463211684,0.1411248517072828,0,0,10.72521551724138,25.461869434390834,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Type I Interferon Production (GO:0032479),1/66,0.0944705208619502,0.1422510596750628,0,0,10.559681697612731,24.915225160225248,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Organelle Assembly (GO:0070925),2/346,0.0945877176021197,0.1422510596750628,0,0,4.07516611295681,9.610169391354503,FOXJ1;CCNO
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Molecule of Bacterial Origin (GO:0002237),1/67,0.0958333099563512,0.143563518806207,0,0,10.399164054336469,24.387547080252187,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Amide Biosynthetic Process (GO:0043604),1/70,0.0999097923540907,0.1485145562020268,0,0,9.945527236381809,22.909398431433704,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Apoptotic Signaling Pathway (GO:2001235),1/70,0.0999097923540907,0.1485145562020268,0,0,9.945527236381809,22.909398431433704,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Monocarboxylic Acid Transport (GO:0015718),1/72,0.1026175710295397,0.151620737643546,0,0,9.664400194269062,22.00338548313555,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Epithelial Cell Proliferation (GO:0050680),1/73,0.1039685058127173,0.151620737643546,0,0,9.529693486590038,21.572055090315494,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Neuropeptide Signaling Pathway (GO:0007218),1/73,0.1039685058127173,0.151620737643546,0,0,9.529693486590038,21.572055090315494,KISS1R
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of TOR Signaling (GO:0032008),1/73,0.1039685058127173,0.151620737643546,0,0,9.529693486590038,21.572055090315494,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cellular Response to Growth Factor Stimulus (GO:0090288),1/73,0.1039685058127173,0.151620737643546,0,0,9.529693486590038,21.572055090315494,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Localization (GO:0008104),2/371,0.1063378519654195,0.1529955130232019,0,0,3.794231513743709,8.50338113851458,CAV1;FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Gland Development (GO:0048732),1/75,0.1066644800819346,0.1529955130232019,0,0,9.271202236719478,20.749572437350395,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Plasma Membrane Bounded Cell Projection Assembly (GO:0120032),1/75,0.1066644800819346,0.1529955130232019,0,0,9.271202236719478,20.749572437350395,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Proteasomal Protein Catabolic Process (GO:0010498),2/372,0.106816046638586,0.1529955130232019,0,0,3.783783783783784,8.462989081200952,CUL3;TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Population Proliferation (GO:0042127),3/769,0.1068981636447826,0.1529955130232019,0,0,2.7856106759501014,6.228287407906103,CXCL11;CUL3;ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Rho Protein Signal Transduction (GO:0035023),1/76,0.1080095250991305,0.1540135820857972,0,0,9.14712643678161,20.3572579045293,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Nucleosome Organization (GO:0034728),1/77,0.1093526123750557,0.154782190310281,0,0,9.026315789473683,19.976840295907547,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of BMP Signaling Pathway (GO:0030510),1/77,0.1093526123750557,0.154782190310281,0,0,9.026315789473683,19.976840295907547,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Cycle G1/S Phase Transition (GO:1902806),1/79,0.1120329247043706,0.1579951502241125,0,0,8.793987621573828,19.249708955963715,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Double-Strand Break Repair via Homologous Recombination (GO:0010569),1/80,0.1133701552568414,0.158718217359578,0,0,8.682234831951114,18.9020683044028,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cholesterol Homeostasis (GO:0042632),1/80,0.1133701552568414,0.158718217359578,0,0,8.682234831951114,18.9020683044028,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cytokinesis (GO:0032465),1/81,0.1147054390288231,0.1594281372783282,0,0,8.573275862068966,18.564467269525416,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Sterol Homeostasis (GO:0055092),1/81,0.1147054390288231,0.1594281372783282,0,0,8.573275862068966,18.564467269525416,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Wnt Signaling Pathway (GO:0016055),1/83,0.117370177258046,0.1619624309833251,0,0,8.363330529857024,17.9177869218649,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Organophosphate Metabolic Process (GO:0019637),1/83,0.117370177258046,0.1619624309833251,0,0,8.363330529857024,17.9177869218649,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Vascular Transport (GO:0010232),1/84,0.1186996371705696,0.1626311754828089,0,0,8.26215205650187,17.607959996023958,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Monoatomic Cation Homeostasis (GO:0055080),1/84,0.1186996371705696,0.1626311754828089,0,0,8.26215205650187,17.607959996023958,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Actomyosin Structure Organization (GO:0031032),1/85,0.1200271612483068,0.1638668690801352,0,0,8.163382594417078,17.306674925558667,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Transport Across Blood-Brain Barrier (GO:0150104),1/86,0.1213527522063146,0.1645098929557435,0,0,8.066937119675456,17.0136033150249,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Integrin-Mediated Signaling Pathway (GO:0007229),1/86,0.1213527522063146,0.1645098929557435,0,0,8.066937119675456,17.0136033150249,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Endothelial Cell Proliferation (GO:0001936),1/87,0.1226764127722187,0.165720768130892,0,0,7.972734562951082,16.728432964250334,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Hormone Stimulus (GO:0032870),1/89,0.1253179535566854,0.1686972451724611,0,0,7.790752351097178,16.18062246106182,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Double-Strand Break Repair (GO:2000779),1/91,0.1279518052795566,0.171046684141074,0,0,7.616858237547893,15.661034464173188,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein O-linked Glycosylation (GO:0006493),1/91,0.1279518052795566,0.171046684141074,0,0,7.616858237547893,15.661034464173188,GALNT14
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of DNA Repair (GO:0045739),1/93,0.130577989553445,0.1739533770867692,0,0,7.450524737631184,15.167663594496686,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Peptide Hormone Stimulus (GO:0071375),1/94,0.1318882131320392,0.1744912785423887,0,0,7.370040786058584,14.930232938854378,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Double-Strand Break Repair (GO:2000781),1/94,0.1318882131320392,0.1744912785423887,0,0,7.370040786058584,14.930232938854378,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Calcium Ion (GO:0051592),1/95,0.1331965279231108,0.1756187097616358,0,0,7.291269258987527,14.698685432239005,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,"Regulation of mRNA Splicing, via Spliceosome (GO:0048024)",1/97,0.135807441882233,0.1778430786553051,0,0,7.1386494252873565,14.2524368267114,RBM11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of TORC1 Signaling (GO:1903432),1/97,0.135807441882233,0.1778430786553051,0,0,7.1386494252873565,14.2524368267114,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Proteasomal Protein Catabolic Process (GO:1901800),1/98,0.1371100464027112,0.178940230050996,0,0,7.064699608958407,14.037356193959155,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Calcium Ion Homeostasis (GO:0055074),1/105,0.1461752814085876,0.189486475900021,0,0,6.586870026525199,12.666213943509506,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Organic Anion Transport (GO:0015711),1/105,0.1461752814085876,0.189486475900021,0,0,6.586870026525199,12.666213943509506,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Macroautophagy (GO:0016241),1/106,0.147462775934803,0.1905139890432858,0,0,6.523809523809524,12.487742462791424,ATP6V0D2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Ubiquitin-Dependent Protein Catabolic Process (GO:0006511),2/455,0.1483663823793818,0.191040325137331,0,0,3.0774203721223587,5.871935051974715,CUL3;TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Developmental Process (GO:0051093),1/111,0.1538721492906634,0.1955141170854964,0,0,6.225705329153605,11.652236916869368,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of GTPase Activity (GO:0043547),1/111,0.1538721492906634,0.1955141170854964,0,0,6.225705329153605,11.652236916869368,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of G1/S Transition of Mitotic Cell Cycle (GO:2000045),1/111,0.1538721492906634,0.1955141170854964,0,0,6.225705329153605,11.652236916869368,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of T Cell Activation (GO:0050870),1/111,0.1538721492906634,0.1955141170854964,0,0,6.225705329153605,11.652236916869368,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Endoplasmic Reticulum to Golgi Vesicle-Mediated Transport (GO:0006888),1/112,0.1551484225344114,0.1964873114333828,0,0,6.169307238272755,11.495720878882548,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Lipid Transport (GO:0006869),1/113,0.1564228347708119,0.1974517750385658,0,0,6.113916256157635,11.34249133434297,SLCO1C1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Interleukin-6 Production (GO:0032675),1/114,0.1576953885966523,0.1980645416559005,0,0,6.059505645407385,11.192452446545069,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Apoptotic Process (GO:0043066),2/475,0.1588403535499445,0.1980645416559005,0,0,2.9442766535789797,5.417044027114828,CAV1;PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Inflammatory Response (GO:0050729),1/115,0.1589660866796708,0.1980645416559005,0,0,6.00604960677556,11.045511961406842,CREB3L3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Intrinsic Apoptotic Signaling Pathway (GO:0097193),1/115,0.1589660866796708,0.1980645416559005,0,0,6.00604960677556,11.045511961406842,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Antimicrobial Humoral Immune Response Mediated by Antimicrobial Peptide (GO:0061844),1/116,0.1602349315662659,0.198361571231551,0,0,5.95352323838081,10.901581051315937,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Complex Oligomerization (GO:0051259),1/116,0.1602349315662659,0.198361571231551,0,0,5.95352323838081,10.901581051315937,UPB1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Migration (GO:0030334),2/479,0.1609527249074078,0.1986115355427949,0,0,2.9189877208745134,5.331953132208319,CAV1;ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Canonical Wnt Signaling Pathway (GO:0090090),1/117,0.1615019259286161,0.1986525286981381,0,0,5.901902497027349,10.760574150978892,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Cycle Process (GO:0090068),1/119,0.1640303733701603,0.2011200437818845,0,0,5.801285797779077,10.487005597367974,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Mitotic Sister Chromatid Segregation (GO:0000070),1/120,0.1652918316722015,0.2020233498215797,0,0,5.752245725876557,10.354287873096176,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Defense Response (GO:0031348),1/121,0.166551449837356,0.2022785747236027,0,0,5.704022988505747,10.224181762604308,TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Inflammatory Response (GO:0050728),1/121,0.166551449837356,0.2022785747236027,0,0,5.704022988505747,10.224181762604308,TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway (GO:0090101),1/122,0.1678092304407957,0.2025283815664776,0,0,5.656597321174123,10.096615989840982,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of DNA-binding Transcription Factor Activity (GO:0043433),1/122,0.1678092304407957,0.2025283815664776,0,0,5.656597321174123,10.096615989840982,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Calcium Ion Transport (GO:0006816),1/126,0.1728220289630276,0.2079265035961426,0,0,5.47448275862069,9.610415878416694,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of MAPK Cascade (GO:0043409),1/127,0.1740706605220296,0.2087763373862348,0,0,5.430760810071155,9.494566361812383,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of DNA Repair (GO:0006282),1/130,0.1778056329710841,0.2125936915958614,0,0,5.303662122427158,9.159765377794972,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Epithelial Cell Differentiation (GO:0030855),1/132,0.1802865383685196,0.2135702069904002,0,0,5.222163727296657,8.946651703406395,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Response to External Stimulus (GO:0032101),1/132,0.1802865383685196,0.2135702069904002,0,0,5.222163727296657,8.946651703406395,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Circulatory System Development (GO:0072359),1/132,0.1802865383685196,0.2135702069904002,0,0,5.222163727296657,8.946651703406395,KDM6A
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Transcription by RNA Polymerase II (GO:0045944),3/983,0.1812648756289197,0.2140704819543991,0,0,2.153061224489796,3.6769891664685193,CREB3L3;FOXJ1;BARX2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Localization to Cell Periphery (GO:1990778),1/136,0.1852266582034091,0.217415437220465,0,0,5.066411238825032,8.542856093971833,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Receptor-Mediated Endocytosis (GO:0006898),1/136,0.1852266582034091,0.217415437220465,0,0,5.066411238825032,8.542856093971833,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Motility (GO:2000146),1/139,0.1889128485992056,0.2210682270841768,0,0,4.95552223888056,8.258226612129908,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Intracellular Calcium Ion Homeostasis (GO:0006874),1/140,0.1901379923342801,0.2218276577233268,0,0,4.919622922351774,8.16659960848822,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Starvation (GO:0009267),1/141,0.1913613470944011,0.222580418825814,0,0,4.884236453201971,8.07653319521709,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Glycosylation (GO:0006486),1/145,0.1962369267861266,0.2275639060622251,0,0,4.7476053639846745,7.731155060087002,GALNT14
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Wnt Signaling Pathway (GO:0030178),1/146,0.1974513744361394,0.2276011352033343,0,0,4.714625445897741,7.64836209132287,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Cycle Process (GO:0010564),1/146,0.1974513744361394,0.2276011352033343,0,0,4.714625445897741,7.64836209132287,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Antimicrobial Humoral Response (GO:0019730),1/147,0.1986640481617168,0.2283153986336148,0,0,4.682097307510628,7.566925122118201,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Phosphate-Containing Compound Metabolic Process (GO:0006796),1/150,0.2022914510324489,0.2317922876413477,0,0,4.587132608192548,7.330447973621347,ALDOC
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Adenylate Cyclase-Activating G Protein-Coupled Receptor Signaling Pathway (GO:0007189),1/153,0.2059029787100954,0.2352304059447678,0,0,4.495916515426497,7.105122556571242,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Response to External Stimulus (GO:0032102),1/154,0.2071033050371711,0.2359016936074287,0,0,4.466306062654947,7.032366614617934,TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Lipopolysaccharide (GO:0032496),1/161,0.2154566163787052,0.2446926174212434,0,0,4.269396551724138,6.553505373310399,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Macromolecule Biosynthetic Process (GO:0010556),1/170,0.2260716604145307,0.2552421972422121,0,0,4.040195878392165,6.007380376114533,KDM6A
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Brain Development (GO:0007420),1/170,0.2260716604145307,0.2552421972422121,0,0,4.040195878392165,6.007380376114533,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Heart Development (GO:0007507),1/171,0.227242503419016,0.2558139292874888,0,0,4.016227180527383,5.950994561365476,KDM6A
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Metal Ion Transport (GO:0030001),1/180,0.2377033237400038,0.2668098531775553,0,0,3.812560200346754,5.477626943599837,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Migration (GO:0030336),1/184,0.2423085145700881,0.2711883084578021,0,0,3.728471829658941,5.285271048697871,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Transcription by RNA Polymerase II (GO:0006357),5/2250,0.2437164565209951,0.2719734369871974,0,0,1.579064587973274,2.229244104962883,CREB3L3;CAV1;FOXJ1;ARID2;BARX2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Programmed Cell Death (GO:0043067),1/195,0.2548345474113886,0.2835586726976434,0,0,3.515108425168859,4.805648067449765,GLS2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Endoplasmic Reticulum Stress (GO:0034976),1/196,0.2559632992872376,0.2839938623215748,0,0,3.496905393457117,4.765307138323869,CREB3L3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Localization to Membrane (GO:0072657),1/199,0.2593396469689545,0.2869131151811709,0,0,3.4433995123650294,4.647269480219039,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Differentiation (GO:0045595),1/201,0.2615823120745377,0.2885650147527135,0,0,3.4086206896551725,4.57098173760038,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Adenylate Cyclase-Modulating G Protein-Coupled Receptor Signaling Pathway (GO:0007188),1/202,0.2627011816096694,0.2889712997706364,0,0,3.3914908217533024,4.53353494418687,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Canonical NF-kappaB Signal Transduction (GO:0043123),1/204,0.2649340062978874,0.2905971294150617,0,0,3.357737387463904,4.459997006035752,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Modification-Dependent Protein Catabolic Process (GO:0019941),1/208,0.2693800627271472,0.2946344436078172,0,0,3.2921872397134764,4.31813821246098,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Canonical Wnt Signaling Pathway (GO:0060828),1/216,0.2781943196935088,0.3034130682209657,0,0,3.1684041700080194,4.053768512915731,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Differentiation (GO:0045596),1/220,0.2825628131597208,0.3073070143121257,0,0,3.1099039521335223,3.9304658110309583,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Defense Response to Bacterium (GO:0042742),1/221,0.283650936655944,0.3076214383451787,0,0,3.095611285266458,3.900503940118756,LCN2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Apoptotic Process (GO:0042981),2/704,0.2851716278046432,0.308401900856145,0,0,1.9605209605209608,2.459795221648665,GLS2;PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Autophagy (GO:0010506),1/230,0.2933725253431161,0.3163821351739487,0,0,2.97259448878181,3.6453284710191713,ATP6V0D2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of DNA-templated Transcription (GO:0045893),3/1274,0.298310662750904,0.3208089529583744,0,0,1.6346708628376607,1.9773303125309067,CREB3L3;FOXJ1;BARX2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Transcription by RNA Polymerase II (GO:0000122),2/732,0.3008913764979034,0.3226829525116791,0,0,1.8825831702544031,2.260993597856789,CAV1;FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Developmental Process (GO:0051094),1/245,0.309292434795214,0.3307710761004372,0,0,2.787733182589033,3.2713158459655944,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Inflammatory Response (GO:0050727),1/249,0.3134788398667338,0.3333960037256699,0,0,2.742213570634038,3.1810319580645494,TRIM45
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Motility (GO:2000147),1/249,0.3134788398667338,0.3333960037256699,0,0,2.742213570634038,3.1810319580645494,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cytokine-Mediated Signaling Pathway (GO:0019221),1/255,0.3197124911885741,0.3390890058060635,0,0,2.6766223187618787,3.052241165696676,CXCL11
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Lipid Metabolic Process (GO:0006629),1/259,0.3238378234131959,0.3425207747639572,0,0,2.6345896819032344,2.9705326235833245,PM20D1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of MAPK Cascade (GO:0043408),1/260,0.324865371838974,0.3426662141315205,0,0,2.6242843829050724,2.9505995102043805,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Inflammatory Response (GO:0006954),1/261,0.3258914106423541,0.3428092707576676,0,0,2.614058355437666,2.930858830447298,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Canonical NF-kappaB Signal Transduction (GO:0043122),1/270,0.3350581818786444,0.351491553196943,0,0,2.5254454557108064,2.761451073623817,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Component Assembly (GO:0022607),1/277,0.3421044689165845,0.3579082079697963,0,0,2.4605197401299352,2.6392497383817606,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Central Nervous System Development (GO:0007417),1/288,0.3530315971177177,0.3683392002447732,0,0,2.364892466658657,2.4623206344121686,FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Intracellular Signal Transduction (GO:1902532),1/297,0.3618412852329467,0.3754956733549446,0,0,2.2919384902143523,2.3298691597647085,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Differentiation (GO:0045597),1/297,0.3618412852329467,0.3754956733549446,0,0,2.2919384902143523,2.3298691597647085,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Modification by Small Protein Conjugation (GO:0032446),1/316,0.38006032356905,0.3933420015432372,0,0,2.151614668856048,2.081526450636916,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein-Containing Complex Assembly (GO:0065003),1/323,0.3866450131992305,0.3990839948571146,0,0,2.1040908117369885,1.9994086863151697,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of DNA-templated Transcription (GO:0006355),4/2139,0.4018645060388549,0.4136840503341153,0,0,1.2851738425508916,1.1716162633034404,CREB3L3;FOXJ1;ARID2;BARX2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Migration (GO:0030335),1/344,0.4059959670675822,0.4168225261893844,0,0,1.9731577360008044,1.7786281652293745,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Ubiquitination (GO:0016567),1/369,0.4282639718351372,0.4385149711609784,0,0,1.836769115442279,1.5576087108437588,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Population Proliferation (GO:0008285),1/379,0.4369433329169367,0.446215339981487,0,0,1.7872650976099251,1.4797692925425834,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Programmed Cell Death (GO:0043069),1/382,0.4395222093300245,0.4476615095028028,0,0,1.7729206263010229,1.4574595936172996,PROK2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Oxygen-Containing Compound (GO:1901701),1/384,0.4412351129903484,0.4482203654387444,0,0,1.7634824885207527,1.4428415342786935,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of DNA-templated Transcription (GO:0045892),2/1006,0.4496746493998053,0.4555914211024343,0,0,1.3493170176437108,1.078415934064489,CAV1;FOXJ1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Organelle Organization (GO:0006996),1/437,0.4848269621971872,0.4899170090444018,0,0,1.5449224928819991,1.118467079097494,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Population Proliferation (GO:0008284),1/484,0.5207186237216591,0.5248080369969601,0,0,1.3912329549510958,0.907842738470724,CUL3
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cellular Process (GO:0048523),1/531,0.5541874279980037,0.5570813571259307,0,0,1.2648015614834092,0.7465520708861642,ARID2
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Intracellular Signal Transduction (GO:1902533),1/652,0.6302869173679313,0.631928289548577,0,0,1.023306319190635,0.4723378729259604,CAV1
+kipan_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Gene Expression (GO:0010468),1/1127,0.824706214007292,0.824706214007292,0,0,0.5770809089238684,0.1112196842137567,KDM6A
+kipan_survival_ensembled_mrna,KEGG_2021_Human,D-Glutamine and D-glutamate metabolism,1/5,0.0074781928285412,0.2458978940829156,0,0,172.1206896551724,842.6622961465415,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Nitrogen metabolism,1/17,0.0252060750668781,0.2458978940829156,0,0,43.00431034482759,158.28468525367578,CA9
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Tuberculosis,2/180,0.0297100575159264,0.2458978940829156,0,0,7.942215088282504,27.92696989727701,CR1L;ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Pantothenate and CoA biosynthesis,1/21,0.0310470628007074,0.2458978940829156,0,0,34.39655172413793,119.43346355828848,UPB1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Arginine biosynthesis,1/22,0.0325020152689227,0.2458978940829156,0,0,32.756978653530375,112.24025378249362,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Proximal tubule bicarbonate reclamation,1/23,0.0339548558617346,0.2458978940829156,0,0,31.266457680250785,105.76577819907342,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Viral carcinogenesis,2/203,0.0370206464175897,0.2458978940829156,0,0,7.025230987917555,23.157124963281667,CREB3L3;ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Collecting duct acid secretion,1/27,0.0397451584744871,0.2458978940829156,0,0,26.450928381962864,85.31131290182489,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,beta-Alanine metabolism,1/30,0.0440658550450575,0.2458978940829156,0,0,23.711058263971463,74.02758505991471,UPB1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Pentose phosphate pathway,1/30,0.0440658550450575,0.2458978940829156,0,0,23.711058263971463,74.02758505991471,ALDOC
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Glyoxylate and dicarboxylate metabolism,1/30,0.0440658550450575,0.2458978940829156,0,0,23.711058263971463,74.02758505991471,GLDC
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Fructose and mannose metabolism,1/33,0.0483677563907074,0.2458978940829156,0,0,21.48491379310345,65.07612542493897,ALDOC
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Mucin type O-glycan biosynthesis,1/36,0.0526509413652038,0.2458978940829156,0,0,19.64039408866995,57.82271782479102,GALNT14
+kipan_survival_ensembled_mrna,KEGG_2021_Human,"Alanine, aspartate and glutamate metabolism",1/37,0.0540745240778647,0.2458978940829156,0,0,19.09386973180077,55.70430487305193,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,"Glycine, serine and threonine metabolism",1/40,0.058332876023497,0.2458978940829156,0,0,17.622458001768347,50.075790447561154,GLDC
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Ferroptosis,1/41,0.0597482042475946,0.2458978940829156,0,0,17.18103448275862,48.4095601130177,CP
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Porphyrin and chlorophyll metabolism,1/43,0.0625726944066545,0.2458978940829156,0,0,16.361247947454842,45.34399265988268,CP
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Prion disease,2/273,0.0628782815558959,0.2458978940829156,0,0,5.1921454928835,14.36435327124191,CREB3L3;CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Vasopressin-regulated water reabsorption,1/44,0.0639818620949856,0.2458978940829156,0,0,15.979951884522857,43.93137485913406,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Other types of O-glycan biosynthesis,1/47,0.0681970901048618,0.2458978940829156,0,0,14.93553223388306,40.10718199812654,GALNT14
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Cocaine addiction,1/49,0.070997041562065,0.2458978940829156,0,0,14.311781609195402,37.85633785017516,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Arginine and proline metabolism,1/50,0.0723939657090184,0.2458978940829156,0,0,14.019000703729768,36.80874147674154,CKMT1A
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Malaria,1/50,0.0723939657090184,0.2458978940829156,0,0,14.019000703729768,36.80874147674154,CR1L
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Vibrio cholerae infection,1/50,0.0723939657090184,0.2458978940829156,0,0,14.019000703729768,36.80874147674154,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Pyrimidine metabolism,1/56,0.0807329679040596,0.2458978940829156,0,0,12.4858934169279,31.42210254292495,UPB1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Hedgehog signaling pathway,1/56,0.0807329679040596,0.2458978940829156,0,0,12.4858934169279,31.42210254292495,CUL3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Legionellosis,1/57,0.0821157376538747,0.2458978940829156,0,0,12.26231527093596,30.65119706904604,CR1L
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Viral myocarditis,1/60,0.0862519938757385,0.2458978940829156,0,0,11.637054354178844,28.516393460743195,CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Human papillomavirus infection,2/331,0.0877382940576521,0.2458978940829156,0,0,4.264220581849761,10.376540831741336,CREB3L3;ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,GnRH secretion,1/64,0.091738983515608,0.2458978940829156,0,0,10.896004378763,26.028461010792668,KISS1R
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Cortisol synthesis and secretion,1/65,0.0931057463211684,0.2458978940829156,0,0,10.72521551724138,25.461869434390834,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Glycolysis / Gluconeogenesis,1/67,0.0958333099563512,0.2458978940829156,0,0,10.399164054336469,24.387547080252187,ALDOC
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Amphetamine addiction,1/69,0.098552942914148,0.2458978940829156,0,0,10.092292089249494,23.385469502095955,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Central carbon metabolism in cancer,1/70,0.0999097923540907,0.2458978940829156,0,0,9.945527236381809,22.909398431433704,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Epithelial cell signaling in Helicobacter pylori infection,1/70,0.0999097923540907,0.2458978940829156,0,0,9.945527236381809,22.909398431433704,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Thyroid hormone synthesis,1/75,0.1066644800819346,0.2458978940829156,0,0,9.271202236719478,20.749572437350395,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Leishmaniasis,1/77,0.1093526123750557,0.2458978940829156,0,0,9.026315789473683,19.976840295907547,CR1L
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Bacterial invasion of epithelial cells,1/77,0.1093526123750557,0.2458978940829156,0,0,9.026315789473683,19.976840295907547,CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Synaptic vesicle cycle,1/78,0.1106937446588701,0.2458978940829156,0,0,8.908643081056875,19.607816054535498,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Complement and coagulation cascades,1/85,0.1200271612483068,0.2458978940829156,0,0,8.163382594417078,17.306674925558667,CR1L
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Insulin secretion,1/86,0.1213527522063146,0.2458978940829156,0,0,8.066937119675456,17.0136033150249,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,GABAergic synapse,1/89,0.1253179535566854,0.2458978940829156,0,0,7.790752351097178,16.18062246106182,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Rheumatoid arthritis,1/93,0.130577989553445,0.2458978940829156,0,0,7.450524737631184,15.167663594496686,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,IL-17 signaling pathway,1/94,0.1318882131320392,0.2458978940829156,0,0,7.370040786058584,14.930232938854378,LCN2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Prostate cancer,1/97,0.135807441882233,0.2458978940829156,0,0,7.1386494252873565,14.2524368267114,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Aldosterone synthesis and secretion,1/98,0.1371100464027112,0.2458978940829156,0,0,7.064699608958407,14.037356193959155,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Hematopoietic cell lineage,1/99,0.1384107528555566,0.2458978940829156,0,0,6.992258972554539,13.82739870293458,CR1L
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Viral protein interaction with cytokine and cytokine receptor,1/100,0.1397095639188418,0.2458978940829156,0,0,6.921281783350749,13.622394510819325,CXCL11
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Melanogenesis,1/101,0.1410064822198498,0.2458978940829156,0,0,6.8517241379310345,13.422181001815328,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Longevity regulating pathway,1/102,0.1423015104749137,0.2458978940829156,0,0,6.783543871628543,13.226602405790088,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Toll-like receptor signaling pathway,1/104,0.1448859074147043,0.2458978940829156,0,0,6.651155005021761,12.848759048563156,CXCL11
+kipan_survival_ensembled_mrna,KEGG_2021_Human,"Parathyroid hormone synthesis, secretion and action",1/106,0.147462775934803,0.2458978940829156,0,0,6.523809523809524,12.487742462791424,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Glucagon signaling pathway,1/107,0.1487483936763554,0.2458978940829156,0,0,6.461938841899805,12.31321821731818,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Insulin resistance,1/108,0.1500321372358647,0.2458978940829156,0,0,6.401224621334193,12.142519852667972,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Drug metabolism,1/108,0.1500321372358647,0.2458978940829156,0,0,6.401224621334193,12.142519852667972,UPB1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,HIF-1 signaling pathway,1/109,0.1513140092641029,0.2458978940829156,0,0,6.341634738186462,11.975530799282826,ALDOC
+kipan_survival_ensembled_mrna,KEGG_2021_Human,TNF signaling pathway,1/112,0.1551484225344114,0.2458978940829156,0,0,6.169307238272755,11.495720878882548,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Cholinergic synapse,1/113,0.1564228347708119,0.2458978940829156,0,0,6.113916256157635,11.34249133434297,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Glutamatergic synapse,1/114,0.1576953885966523,0.2458978940829156,0,0,6.059505645407385,11.192452446545069,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,"Growth hormone synthesis, secretion and action",1/119,0.1640303733701603,0.2471408610489799,0,0,5.801285797779077,10.487005597367974,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,AMPK signaling pathway,1/120,0.1652918316722015,0.2471408610489799,0,0,5.752245725876557,10.354287873096176,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Thyroid hormone signaling pathway,1/121,0.166551449837356,0.2471408610489799,0,0,5.704022988505747,10.224181762604308,SLCO1C1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Lysosome,1/128,0.1753174699880012,0.2530338391208285,0,0,5.387727396144448,9.380878377461652,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Relaxin signaling pathway,1/129,0.1765624599692897,0.2530338391208285,0,0,5.345366379310345,9.269296054674214,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Dopaminergic synapse,1/132,0.1802865383685196,0.2530338391208285,0,0,5.222163727296657,8.946651703406395,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Oxidative phosphorylation,1/133,0.1815242758910291,0.2530338391208285,0,0,5.182340647857889,8.842969274321403,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Estrogen signaling pathway,1/137,0.1864571840617326,0.2535173231123735,0,0,5.028904665314402,8.446315147566118,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Fluid shear stress and atherosclerosis,1/139,0.1889128485992056,0.2535173231123735,0,0,4.95552223888056,8.258226612129908,CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Ubiquitin mediated proteolysis,1/140,0.1901379923342801,0.2535173231123735,0,0,4.919622922351774,8.16659960848822,CUL3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Adrenergic signaling in cardiomyocytes,1/150,0.2022914510324489,0.2652462313149268,0,0,4.587132608192548,7.330447973621347,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Phagosome,1/152,0.2047008959060848,0.2652462313149268,0,0,4.525919159625485,7.179037454618381,ATP6V0D2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Cushing syndrome,1/155,0.2083018774030301,0.2661635100149829,0,0,4.437080161218092,6.960744568453372,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Hepatitis B,1/162,0.2166429800184552,0.2730295090643545,0,0,4.242664382094667,6.4891744075022295,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,cGMP-PKG signaling pathway,1/167,0.2225488329818604,0.2744357885255722,0,0,4.11383464894059,6.181483846500387,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Hepatocellular carcinoma,1/168,0.2237248276023687,0.2744357885255722,0,0,4.088994424943217,6.1226084945342665,ARID2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Alcoholism,1/186,0.2446010133996292,0.2928142822383972,0,0,3.6877912395153776,5.192878092590616,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Neutrophil extracellular trap formation,1/189,0.248027194221987,0.2928142822383972,0,0,3.628393250183419,5.058767133765583,CR1L
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Transcriptional misregulation in cancer,1/192,0.2514383510525367,0.2928142822383972,0,0,3.570861166275501,4.929778966484762,KDM6A
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Chemokine signaling pathway,1/192,0.2514383510525367,0.2928142822383972,0,0,3.570861166275501,4.929778966484762,CXCL11
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Focal adhesion,1/201,0.2615823120745377,0.3008196588857183,0,0,3.4086206896551725,4.57098173760038,CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Proteoglycans in cancer,1/205,0.2660479660472825,0.3021779367450616,0,0,3.341108857336038,4.423890948661195,CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,cAMP signaling pathway,1/216,0.2781943196935088,0.3119942706007509,0,0,3.1684041700080194,4.053768512915731,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Human T-cell leukemia virus 1 infection,1/219,0.2814730919550253,0.3119942706007509,0,0,3.124327744384688,3.960767844335918,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Human cytomegalovirus infection,1/225,0.2879874992379993,0.3154148801178088,0,0,3.039716748768473,3.783955541889337,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Thermogenesis,1/232,0.2955154938047619,0.3198520638828011,0,0,2.9465591879384982,3.5919558655424773,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Chemical carcinogenesis,1/239,0.3029665219521898,0.3241037211581565,0,0,2.858881483627934,3.413884631730096,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Endocytosis,1/252,0.3166025361488444,0.3347980842033757,0,0,2.7090259651050967,3.1156727624395613,CAV1
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Cytokine-cytokine receptor interaction,1/295,0.3598936550466374,0.3762524575487572,0,0,2.3077644851043866,2.358412285668029,CXCL11
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Huntington disease,1/306,0.3705349586792404,0.3826811155694331,0,0,2.223289994347089,2.2072989439063053,CREB3L3
+kipan_survival_ensembled_mrna,KEGG_2021_Human,MicroRNAs in cancer,1/310,0.374361960883141,0.3826811155694331,0,0,2.1940631625934603,2.1557375738800304,GLS2
+kipan_survival_ensembled_mrna,KEGG_2021_Human,Neuroactive ligand-receptor interaction,1/341,0.4032681284490084,0.4076996463440524,0,0,1.9908722109533468,1.8080177797143773,KISS1R
+kipan_survival_ensembled_mrna,KEGG_2021_Human,PI3K-Akt signaling pathway,1/354,0.4150019802043119,0.4150019802043119,0,0,1.916284067597929,1.685318156943543,CREB3L3

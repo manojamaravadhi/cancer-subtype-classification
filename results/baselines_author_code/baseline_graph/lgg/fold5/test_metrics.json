@@ -1,0 +1,25 @@
+{
+ "cancer": "lgg",
+ "omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "train_accuracy_per_omics": [
+  0.9676616915422885,
+  0.9751243781094527,
+  0.9751243781094527
+ ],
+ "selected_omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "reported_model": "all the omics",
+ "n_train": 402,
+ "n_test": 100,
+ "accuracy": 0.67,
+ "macro_f1": 0.5813953488372093,
+ "weighted_f1": 0.5472093023255814,
+ "training_seconds": 21.071386337280273
+}

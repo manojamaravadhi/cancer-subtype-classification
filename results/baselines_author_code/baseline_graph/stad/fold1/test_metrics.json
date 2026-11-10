@@ -1,0 +1,25 @@
+{
+ "cancer": "stad",
+ "omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "train_accuracy_per_omics": [
+  0.8168498168498168,
+  0.9267399267399268,
+  0.8974358974358975
+ ],
+ "selected_omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "reported_model": "all the omics",
+ "n_train": 273,
+ "n_test": 70,
+ "accuracy": 0.8428571428571429,
+ "macro_f1": 0.6697969924812031,
+ "weighted_f1": 0.8315633727175081,
+ "training_seconds": 11.446460008621216
+}

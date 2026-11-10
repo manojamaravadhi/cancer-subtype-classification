@@ -1,0 +1,413 @@
+list,Gene_set,Term,Overlap,P-value,Adjusted P-value,Old P-value,Old Adjusted P-value,Odds Ratio,Combined Score,Genes
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cell Migration Involved in Heart Development (GO:0060973),2/7,4.546235690936047e-05,0.0076149447823178,0,0,285.2142857142857,2851.750942795132,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Pericardium Development (GO:0060039),2/7,4.546235690936047e-05,0.0076149447823178,0,0,285.2142857142857,2851.750942795132,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Left Ventricle Morphogenesis (GO:0003214),2/13,0.00016791916834522837,0.0187509737985505,0,0,129.6038961038961,1126.5206724787724,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Ventricle Development (GO:0003231),2/20,0.00040637445946356223,0.0250542252533884,0,0,79.17460317460318,618.2139479571657,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Myoblast Differentiation (GO:0045445),2/21,0.0004487323925980029,0.0250542252533884,0,0,75.00375939849624,578.2102706794014,DDX5;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cardiac Muscle Cell Proliferation (GO:0060043),2/21,0.0004487323925980029,0.0250542252533884,0,0,75.00375939849624,578.2102706794014,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ventricular Septum Development (GO:0003281),2/38,0.0014785875016258,0.070760973292095,0,0,39.5515873015873,257.74456480935885,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Epithelium Development (GO:0060429),3/159,0.0017098497181171,0.0715999569461536,0,0,14.112535612535613,89.91590090262773,RIPK4;TAGLN2;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Epithelial to Mesenchymal Transition (GO:0001837),2/51,0.0026494069247459,0.072720296561069,0,0,29.03935860058309,172.30269560126317,DDX5;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Mesenchymal Cell Differentiation (GO:0048762),2/58,0.0034125952701803,0.072720296561069,0,0,25.400510204081638,144.28206600498726,DDX5;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Autophagy of Mitochondrion (GO:0000422),2/61,0.0037674899954355,0.072720296561069,0,0,24.10532687651332,134.54017656173255,CTSK;ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Gap Junction Assembly (GO:1903598),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Glial Cell Proliferation (GO:0060253),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Pericardium Morphogenesis (GO:0003344),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,His-Purkinje System Development (GO:0003164),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Venous Blood Vessel Morphogenesis (GO:0048845),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Platelet-Derived Growth Factor Receptor Signaling Pathway (GO:0010641),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Transcription of Notch Receptor Target (GO:0007221),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of pro-B Cell Differentiation (GO:2000973),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cardiac Muscle Tissue Growth (GO:0055022),1/5,0.0074781928285412,0.072720296561069,0,0,172.1206896551724,842.6622961465415,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Osteoblast Differentiation (GO:0045667),2/92,0.0083734484870981,0.072720296561069,0,0,15.77777777777778,75.46021169623046,DDX5;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Muscle Cell Myoblast Differentiation (GO:0060379),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Pacemaker Cell Development (GO:0060926),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Vascular Associated Smooth Muscle Cell Development (GO:0097084),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Gonadotropin Stimulus (GO:0071371),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Oligodendrocyte Differentiation (GO:0048715),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Catecholamine (GO:0071869),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Atrial Cardiac Muscle Cell Membrane Depolarization (GO:0060371),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cardiac Epithelial to Mesenchymal Transition (GO:0062042),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Atrioventricular Valve Formation (GO:0003190),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Adhesion Molecule Production (GO:0060353),1/6,0.008967337727522,0.072720296561069,0,0,137.68965517241378,649.0919521468393,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Atrium Development (GO:0003230),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Extracellular Matrix Constituent Secretion (GO:0003330),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Muscle Hypertrophy (GO:0014741),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Monoamine Stimulus (GO:0071868),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Prostaglandin E Stimulus (GO:0071380),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Adenylate Cyclase-Activating Dopamine Receptor Signaling Pathway (GO:0007191),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Astrocyte Differentiation (GO:0048711),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Coronary Vasculature Morphogenesis (GO:0060977),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Smooth Muscle Cell Differentiation (GO:0051152),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cardiac Epithelial to Mesenchymal Transition (GO:0062043),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Sinoatrial Node Development (GO:0003163),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Positive Chemotaxis (GO:0050926),1/7,0.0104543235506301,0.072720296561069,0,0,114.73563218390804,523.2793468811269,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Macroautophagy (GO:0016241),2/106,0.0109884720954769,0.072720296561069,0,0,13.64423076923077,61.54787719458521,ATP6V1G2;ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Epithelial to Mesenchymal Transition Involved in Endocardial Cushion Formation (GO:0003198),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Skeletal Muscle Cell Differentiation (GO:2001014),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardioblast Differentiation (GO:0010002),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Glial Cell Differentiation (GO:0045686),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Gap Junction Assembly (GO:1903596),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Glial Cell Proliferation (GO:0060251),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Mesodermal Cell Differentiation (GO:0048333),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ventricular Trabecula Myocardium Morphogenesis (GO:0003222),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of miRNA Metabolic Process (GO:2000628),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cytochrome Complex Assembly (GO:0017004),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,COX15
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Bundle of His Cell to Purkinje Myocyte Communication (GO:0086069),1/8,0.0119391531667426,0.072720296561069,0,0,98.33990147783253,435.442406227662,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Morphogenesis of an Epithelial Sheet (GO:0002011),1/9,0.0134218294793273,0.0768044471917523,0,0,86.04310344827586,370.92087702683546,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cardiocyte Differentiation (GO:1905209),1/9,0.0134218294793273,0.0768044471917523,0,0,86.04310344827586,370.92087702683546,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Embryonic Forelimb Morphogenesis (GO:0035115),1/9,0.0134218294793273,0.0768044471917523,0,0,86.04310344827586,370.92087702683546,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Thyroid Hormone Generation (GO:0006590),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Extracellular Matrix Assembly (GO:1901201),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Forelimb Morphogenesis (GO:0035136),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Prostaglandin Stimulus (GO:0071379),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Mitral Valve Morphogenesis (GO:0003183),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Embryonic Appendage Morphogenesis (GO:0035113),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell-Cell Adhesion Mediated by Cadherin (GO:2000048),1/10,0.0149023554252653,0.0768044471917523,0,0,76.47892720306514,321.6884165593148,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Extracellular Matrix Organization (GO:1903054),1/11,0.0163807339505408,0.080699204021047,0,0,68.82758620689656,282.994903106762,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Smooth Muscle Cell Differentiation (GO:0051150),1/11,0.0163807339505408,0.080699204021047,0,0,68.82758620689656,282.994903106762,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Communication by Electrical Coupling Involved in Cardiac Conduction (GO:1901844),1/11,0.0163807339505408,0.080699204021047,0,0,68.82758620689656,282.994903106762,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Circulatory System Development (GO:0072359),2/132,0.0166664659712394,0.080916900005293,0,0,10.9010989010989,44.63298627679202,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Catecholamine Stimulus (GO:0071870),1/12,0.0178569680089386,0.0812512171605408,0,0,62.56739811912226,251.8563944353508,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Astrocyte Differentiation (GO:0048710),1/12,0.0178569680089386,0.0812512171605408,0,0,62.56739811912226,251.8563944353508,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Atrial Cardiac Muscle Tissue Development (GO:0003228),1/12,0.0178569680089386,0.0812512171605408,0,0,62.56739811912226,251.8563944353508,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Chemotaxis (GO:0050922),1/12,0.0178569680089386,0.0812512171605408,0,0,62.56739811912226,251.8563944353508,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Cell Development (GO:0055006),1/13,0.0193310605643026,0.0812512171605408,0,0,57.35057471264368,226.30778348154325,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Ras Protein Signal Transduction (GO:0046579),1/13,0.0193310605643026,0.0812512171605408,0,0,57.35057471264368,226.30778348154325,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Stem Cell Differentiation (GO:2000737),1/13,0.0193310605643026,0.0812512171605408,0,0,57.35057471264368,226.30778348154325,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Atrioventricular Valve Development (GO:0003171),1/13,0.0193310605643026,0.0812512171605408,0,0,57.35057471264368,226.30778348154325,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cardiac Muscle Hypertrophy (GO:0010614),1/13,0.0193310605643026,0.0812512171605408,0,0,57.35057471264368,226.30778348154325,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cell Communication by Electrical Coupling Involved in Cardiac Conduction (GO:0086064),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,miRNA Metabolic Process (GO:0010586),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Glycogen Catabolic Process (GO:0005980),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Response to Prostaglandin E (GO:0034695),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cardiac Muscle Cell Proliferation (GO:0060045),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Platelet-Derived Growth Factor Receptor Signaling Pathway (GO:0010640),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Migration Involved in Sprouting Angiogenesis (GO:0090051),1/14,0.02080301457834,0.0812512171605408,0,0,52.93633952254642,205.00430545239047,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Thyroid Hormone Metabolic Process (GO:0042403),1/16,0.0237405188646141,0.0812512171605408,0,0,45.87356321839081,171.5933676703201,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Mesenchyme Morphogenesis (GO:0072132),1/16,0.0237405188646141,0.0812512171605408,0,0,45.87356321839081,171.5933676703201,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Myoblast Differentiation (GO:0045662),1/16,0.0237405188646141,0.0812512171605408,0,0,45.87356321839081,171.5933676703201,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"Positive Regulation of DNA Damage Response, Signal Transduction by P53 Class Mediator (GO:0043517)",1/16,0.0237405188646141,0.0812512171605408,0,0,45.87356321839081,171.5933676703201,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Positive Chemotaxis (GO:0050927),1/16,0.0237405188646141,0.0812512171605408,0,0,45.87356321839081,171.5933676703201,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Autophagosome Maturation (GO:1901096),1/16,0.0237405188646141,0.0812512171605408,0,0,45.87356321839081,171.5933676703201,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Macroautophagy (GO:0016236),2/162,0.0244521559395971,0.0812512171605408,0,0,8.84375,32.81948249116212,CTSK;ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Glial Cell Differentiation (GO:0045687),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Endothelial Cell Chemotaxis (GO:2001026),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,G Protein-Coupled Acetylcholine Receptor Signaling Pathway (GO:0007213),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Leukocyte Chemotaxis (GO:0002688),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Muscle Tissue Morphogenesis (GO:0060415),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cardiac Muscle Tissue Growth (GO:0055023),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Anoikis (GO:2000811),1/17,0.0252060750668781,0.0812512171605408,0,0,43.00431034482759,158.28468525367578,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Atrium Morphogenesis (GO:0003209),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Import Into Mitochondrial Matrix (GO:0030150),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Estrogen Receptor Signaling Pathway (GO:0030520),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,G Protein-Coupled Dopamine Receptor Signaling Pathway (GO:0007212),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Muscle Cell Differentiation (GO:0051149),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Nervous System Development (GO:0051961),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Androgen Receptor Signaling Pathway (GO:0030521),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Oligodendrocyte Differentiation (GO:0048713),1/18,0.0266695046006179,0.0812512171605408,0,0,40.47261663286004,146.68225415832842,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Heart Development (GO:0007507),2/171,0.0270284247863527,0.0812512171605408,0,0,8.368977176669484,30.219256789750094,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Epithelial to Mesenchymal Transition (GO:0060317),1/19,0.0281308104264749,0.0812512171605408,0,0,38.22222222222222,136.48734525751556,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Pulmonary Valve Morphogenesis (GO:0003184),1/19,0.0281308104264749,0.0812512171605408,0,0,38.22222222222222,136.48734525751556,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Heme Biosynthetic Process (GO:0006783),1/19,0.0281308104264749,0.0812512171605408,0,0,38.22222222222222,136.48734525751556,COX15
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Stem Cell Differentiation (GO:2000738),1/19,0.0281308104264749,0.0812512171605408,0,0,38.22222222222222,136.48734525751556,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Limb Morphogenesis (GO:0035108),1/19,0.0281308104264749,0.0812512171605408,0,0,38.22222222222222,136.48734525751556,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Mesoderm Formation (GO:0001707),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Lectin (GO:1990858),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Heart Trabecula Morphogenesis (GO:0061384),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"Alternative mRNA Splicing, via Spliceosome (GO:0000380)",1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cardiac Conduction (GO:1903779),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Atrioventricular Valve Morphogenesis (GO:0003181),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell-Cell Adhesion Mediated by Cadherin (GO:2000047),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Stimulatory C-type Lectin Receptor Signaling Pathway (GO:0002223),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Endocardial Cushion Morphogenesis (GO:0003203),1/20,0.0295899955032417,0.0812512171605408,0,0,36.2087114337568,127.46621354176987,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Pulmonary Valve Development (GO:0003177),1/21,0.0310470628007074,0.08254576220823,0,0,34.39655172413793,119.43346355828848,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Porphyrin-Containing Compound Biosynthetic Process (GO:0006779),1/21,0.0310470628007074,0.08254576220823,0,0,34.39655172413793,119.43346355828848,COX15
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Membrane Depolarization (GO:0003254),1/21,0.0310470628007074,0.08254576220823,0,0,34.39655172413793,119.43346355828848,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Biomineral Tissue Development (GO:0070168),1/21,0.0310470628007074,0.08254576220823,0,0,34.39655172413793,119.43346355828848,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Natural Killer Cell Mediated Cytotoxicity (GO:0045954),1/22,0.0325020152689227,0.0837551931929933,0,0,32.756978653530375,112.24025378249362,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Anoikis (GO:2000209),1/22,0.0325020152689227,0.0837551931929933,0,0,32.756978653530375,112.24025378249362,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Development (GO:0010721),1/22,0.0325020152689227,0.0837551931929933,0,0,32.756978653530375,112.24025378249362,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Endocardial Cushion Development (GO:0003197),1/22,0.0325020152689227,0.0837551931929933,0,0,32.756978653530375,112.24025378249362,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of BMP Signaling Pathway (GO:0030513),1/23,0.0339548558617346,0.086831119951764,0,0,31.266457680250785,105.76577819907342,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Migration (GO:0030334),3/479,0.0343489488241656,0.0871734686067841,0,0,4.550420168067227,15.34030303908649,F7;NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Extracellular Matrix Organization (GO:1903053),1/24,0.035405587532064,0.0878583098017886,0,0,29.90554722638681,99.91101302805887,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ventricular Cardiac Muscle Tissue Development (GO:0003229),1/24,0.035405587532064,0.0878583098017886,0,0,29.90554722638681,99.91101302805887,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Intracellular Steroid Hormone Receptor Signaling Pathway (GO:0033143),1/24,0.035405587532064,0.0878583098017886,0,0,29.90554722638681,99.91101302805887,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Conduction System Development (GO:0003161),1/25,0.0368542132262458,0.0881868673628025,0,0,28.658045977011493,94.59405781572389,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Pigment Biosynthetic Process (GO:0046148),1/25,0.0368542132262458,0.0881868673628025,0,0,28.658045977011493,94.59405781572389,COX15
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Biomineral Tissue Development (GO:0070167),1/25,0.0368542132262458,0.0881868673628025,0,0,28.658045977011493,94.59405781572389,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cardiac Muscle Hypertrophy (GO:0010611),1/25,0.0368542132262458,0.0881868673628025,0,0,28.658045977011493,94.59405781572389,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Catalytic Activity (GO:0043086),1/25,0.0368542132262458,0.0881868673628025,0,0,28.658045977011493,94.59405781572389,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Natural Killer Cell Mediated Immunity (GO:0002717),1/26,0.0383007358905153,0.0909982022930684,0,0,27.51034482758621,89.74661743899148,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Neurogenesis (GO:0050768),1/27,0.0397451584744871,0.093764986541924,0,0,26.450928381962864,85.31131290182489,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Leukocyte Migration (GO:0002687),1/28,0.0411874839013458,0.0951572903927645,0,0,25.46998722860792,81.2396025067177,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ventricular Septum Morphogenesis (GO:0060412),1/28,0.0411874839013458,0.0951572903927645,0,0,25.46998722860792,81.2396025067177,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Signal Transduction by P53 Class Mediator (GO:1901798),1/28,0.0411874839013458,0.0951572903927645,0,0,25.46998722860792,81.2396025067177,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Androgen Receptor Signaling Pathway (GO:0060765),1/29,0.0426277151111442,0.0975925410254886,0,0,24.55911330049261,77.49015815040234,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Differentiation (GO:0045596),2/220,0.0428241896440203,0.0975925410254886,0,0,6.471821756225426,20.390459178877343,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Muscle Tissue Morphogenesis (GO:0055008),1/30,0.0440658550450575,0.0983428304352887,0,0,23.711058263971463,74.02758505991471,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Ossification (GO:0030279),1/30,0.0440658550450575,0.0983428304352887,0,0,23.711058263971463,74.02758505991471,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Morphogenesis (GO:0022604),1/30,0.0440658550450575,0.0983428304352887,0,0,23.711058263971463,74.02758505991471,CAPZB
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Morphogenesis of an Epithelium (GO:0002009),1/31,0.0455019066193127,0.0983428304352887,0,0,22.919540229885055,70.82140338003367,RIPK4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Collagen Catabolic Process (GO:0030574),1/31,0.0455019066193127,0.0983428304352887,0,0,22.919540229885055,70.82140338003367,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Innate Immune Response Activating Cell Surface Receptor Signaling Pathway (GO:0002220),1/31,0.0455019066193127,0.0983428304352887,0,0,22.919540229885055,70.82140338003367,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Determination of Bilateral Symmetry (GO:0009855),1/31,0.0455019066193127,0.0983428304352887,0,0,22.919540229885055,70.82140338003367,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Artery Morphogenesis (GO:0048844),1/31,0.0455019066193127,0.0983428304352887,0,0,22.919540229885055,70.82140338003367,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Transmembrane Import Into Intracellular Organelle (GO:0044743),1/32,0.0469358727577943,0.0995159327459564,0,0,22.17908787541713,67.84523138217664,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,miRNA Processing (GO:0035196),1/32,0.0469358727577943,0.0995159327459564,0,0,22.17908787541713,67.84523138217664,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Migration Involved in Sprouting Angiogenesis (GO:0090049),1/32,0.0469358727577943,0.0995159327459564,0,0,22.17908787541713,67.84523138217664,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Vasculogenesis (GO:0001570),1/33,0.0483677563907074,0.1006409837943292,0,0,21.48491379310345,65.07612542493897,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ventricular Cardiac Muscle Tissue Morphogenesis (GO:0055010),1/33,0.0483677563907074,0.1006409837943292,0,0,21.48491379310345,65.07612542493897,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Heme Metabolic Process (GO:0042168),1/33,0.0483677563907074,0.1006409837943292,0,0,21.48491379310345,65.07612542493897,COX15
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"Regulation of DNA Damage Response, Signal Transduction by P53 Class Mediator (GO:0043516)",1/34,0.0497975604232894,0.1017206264744022,0,0,20.832810867293627,62.494042787714754,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Ras Protein Signal Transduction (GO:0046578),1/34,0.0497975604232894,0.1017206264744022,0,0,20.832810867293627,62.494042787714754,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Blood Vessel Endothelial Cell Migration (GO:0043537),1/34,0.0497975604232894,0.1017206264744022,0,0,20.832810867293627,62.494042787714754,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Multicellular Organismal Process (GO:0051241),2/243,0.0511794074369935,0.1019541350135449,0,0,5.847362181387077,17.380804754472702,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Osteoblast Differentiation (GO:0045668),1/35,0.0512252877849629,0.1019541350135449,0,0,20.219066937119678,60.081401552176,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Acetylcholine Receptor Signaling Pathway (GO:0095500),1/35,0.0512252877849629,0.1019541350135449,0,0,20.219066937119678,60.081401552176,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Substrate Adhesion-Dependent Cell Spreading (GO:0034446),1/35,0.0512252877849629,0.1019541350135449,0,0,20.219066937119678,60.081401552176,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Epithelial to Mesenchymal Transition (GO:0010719),1/36,0.0526509413652038,0.1019541350135449,0,0,19.64039408866995,57.82271782479102,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Vascular Endothelial Growth Factor Stimulus (GO:0035924),1/36,0.0526509413652038,0.1019541350135449,0,0,19.64039408866995,57.82271782479102,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Natural Killer Cell Mediated Cytotoxicity (GO:0042269),1/36,0.0526509413652038,0.1019541350135449,0,0,19.64039408866995,57.82271782479102,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Left/Right Pattern Formation (GO:0060972),1/36,0.0526509413652038,0.1019541350135449,0,0,19.64039408866995,57.82271782479102,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Embryonic Limb Morphogenesis (GO:0030326),1/36,0.0526509413652038,0.1019541350135449,0,0,19.64039408866995,57.82271782479102,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Motility (GO:2000147),2/249,0.0534491909442721,0.1023444382264671,0,0,5.703585887796415,16.705938686983604,F7;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Endothelial Cell Migration (GO:0010596),1/37,0.0540745240778647,0.1023444382264671,0,0,19.09386973180077,55.70430487305193,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Intrinsic Apoptotic Signaling Pathway by P53 Class Mediator (GO:0072332),1/37,0.0540745240778647,0.1023444382264671,0,0,19.09386973180077,55.70430487305193,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cellular Component Biogenesis (GO:0044087),1/37,0.0540745240778647,0.1023444382264671,0,0,19.09386973180077,55.70430487305193,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Heart Looping (GO:0001947),1/38,0.0554960388319167,0.103284294492734,0,0,18.576887232059647,53.71402231134463,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Receptor Signaling Pathway via JAK-STAT (GO:0046427),1/38,0.0554960388319167,0.103284294492734,0,0,18.576887232059647,53.71402231134463,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Aortic Valve Morphogenesis (GO:0003180),1/38,0.0554960388319167,0.103284294492734,0,0,18.576887232059647,53.71402231134463,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell-Substrate Adhesion (GO:0010812),1/39,0.0569154885110809,0.1053408212774149,0,0,18.087114337568057,51.84106589215322,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Viral Process (GO:0048524),1/40,0.058332876023497,0.1061611113360592,0,0,17.622458001768347,50.075790447561154,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell-Cell Adhesion (GO:0022408),1/40,0.058332876023497,0.1061611113360592,0,0,17.622458001768347,50.075790447561154,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Visual System Development (GO:0150063),1/41,0.0597482042475946,0.1061611113360592,0,0,17.18103448275862,48.4095601130177,MAB21L1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Secretion by Cell (GO:1903531),1/41,0.0597482042475946,0.1061611113360592,0,0,17.18103448275862,48.4095601130177,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Type I Interferon Production (GO:0032480),1/41,0.0597482042475946,0.1061611113360592,0,0,17.18103448275862,48.4095601130177,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Aortic Valve Development (GO:0003176),1/41,0.0597482042475946,0.1061611113360592,0,0,17.18103448275862,48.4095601130177,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Ventricle Morphogenesis (GO:0003208),1/42,0.0611614760831625,0.1061611113360592,0,0,16.761143818334734,46.83462101550951,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Notch Signaling Pathway (GO:0007219),1/42,0.0611614760831625,0.1061611113360592,0,0,16.761143818334734,46.83462101550951,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Receptor Signaling Pathway via STAT (GO:1904894),1/42,0.0611614760831625,0.1061611113360592,0,0,16.761143818334734,46.83462101550951,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ribosome Assembly (GO:0042255),1/42,0.0611614760831625,0.1061611113360592,0,0,16.761143818334734,46.83462101550951,EIF1AX
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Determination of Heart Left/Right Asymmetry (GO:0061371),1/42,0.0611614760831625,0.1061611113360592,0,0,16.761143818334734,46.83462101550951,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Embryonic Heart Tube Morphogenesis (GO:0003143),1/42,0.0611614760831625,0.1061611113360592,0,0,16.761143818334734,46.83462101550951,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,mRNA Transcription (GO:0009299),1/43,0.0625726944066545,0.107496680134509,0,0,16.361247947454842,45.34399265988268,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Import Into the Mitochondrion (GO:0170036),1/43,0.0625726944066545,0.107496680134509,0,0,16.361247947454842,45.34399265988268,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Ossification (GO:0030278),1/44,0.0639818620949856,0.1089816367197143,0,0,15.979951884522857,43.93137485913406,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Synaptic Vesicle Cycle (GO:0099504),1/45,0.0653889820318286,0.1089816367197143,0,0,15.615987460815049,42.59106770539062,ATP6V1G2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Establishment of Protein Localization to Mitochondrion (GO:0072655),1/45,0.0653889820318286,0.1089816367197143,0,0,15.615987460815049,42.59106770539062,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Extracellular Matrix Disassembly (GO:0022617),1/45,0.0653889820318286,0.1089816367197143,0,0,15.615987460815049,42.59106770539062,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Ketone (GO:1901655),1/45,0.0653889820318286,0.1089816367197143,0,0,15.615987460815049,42.59106770539062,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of BMP Signaling Pathway (GO:0030514),1/45,0.0653889820318286,0.1089816367197143,0,0,15.615987460815049,42.59106770539062,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Chemotaxis (GO:0050921),1/46,0.0667940570746933,0.1102266459114396,0,0,15.268199233716476,41.317902512852925,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell-Substrate Adhesion (GO:0010810),1/46,0.0667940570746933,0.1102266459114396,0,0,15.268199233716476,41.317902512852925,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cold-Induced Thermogenesis (GO:0120163),1/47,0.0681970901048618,0.1114440252933108,0,0,14.93553223388306,40.10718199812654,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,BMP Signaling Pathway (GO:0030509),1/47,0.0681970901048618,0.1114440252933108,0,0,14.93553223388306,40.10718199812654,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Mitophagy (GO:0000423),1/48,0.0695980839810058,0.1120930679501776,0,0,14.617021276595745,38.95462833164002,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Response to Biotic Stimulus (GO:0002832),1/48,0.0695980839810058,0.1120930679501776,0,0,14.617021276595745,38.95462833164002,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Nuclear Receptor-Mediated Steroid Hormone Signaling Pathway (GO:0030518),1/48,0.0695980839810058,0.1120930679501776,0,0,14.617021276595745,38.95462833164002,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,mRNA Catabolic Process (GO:0006402),1/49,0.070997041562065,0.1121887213362819,0,0,14.311781609195402,37.85633785017516,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Stem Cell Differentiation (GO:2000736),1/49,0.070997041562065,0.1121887213362819,0,0,14.311781609195402,37.85633785017516,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Component Disassembly (GO:0022411),1/49,0.070997041562065,0.1121887213362819,0,0,14.311781609195402,37.85633785017516,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Epithelial to Mesenchymal Transition (GO:0010718),1/49,0.070997041562065,0.1121887213362819,0,0,14.311781609195402,37.85633785017516,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cardiac Muscle Tissue Development (GO:0048738),1/51,0.0737888592797165,0.1144410549014122,0,0,13.73793103448276,35.80857002720438,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Leukocyte Mediated Cytotoxicity (GO:0001912),1/51,0.0737888592797165,0.1144410549014122,0,0,13.73793103448276,35.80857002720438,KLRC4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Proton Transmembrane Transport (GO:1902600),1/51,0.0737888592797165,0.1144410549014122,0,0,13.73793103448276,35.80857002720438,ATP6V1G2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Autophagosome Maturation (GO:0097352),1/51,0.0737888592797165,0.1144410549014122,0,0,13.73793103448276,35.80857002720438,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Signal Transduction by P53 Class Mediator (GO:0072331),1/52,0.0751817250984591,0.1155315500366229,0,0,13.46788370520622,34.852823720532044,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Determination of Left/Right Symmetry (GO:0007368),1/52,0.0751817250984591,0.1155315500366229,0,0,13.46788370520622,34.852823720532044,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Small GTPase Mediated Signal Transduction (GO:0051057),1/53,0.0765725660346981,0.1171315507836707,0,0,13.208222811671089,33.938745289872976,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to BMP Stimulus (GO:0071773),1/54,0.0779613849203899,0.1187139270378665,0,0,12.958360442420298,33.06379625497651,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Receptor Signaling Pathway via JAK-STAT (GO:0046425),1/55,0.0793481846088859,0.1197371254233188,0,0,12.717752234993617,32.22563588457274,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"Regulation of Alternative mRNA Splicing, via Spliceosome (GO:0000381)",1/55,0.0793481846088859,0.1197371254233188,0,0,12.717752234993617,32.22563588457274,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Leukocyte Chemotaxis (GO:0002690),1/56,0.0807329679040596,0.1207390368208035,0,0,12.4858934169279,31.42210254292495,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Alcohol (GO:0097306),1/56,0.0807329679040596,0.1207390368208035,0,0,12.4858934169279,31.42210254292495,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Innate Immune Response (GO:0045824),1/57,0.0821157376538747,0.1217202305931329,0,0,12.26231527093596,30.65119706904604,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Heart Morphogenesis (GO:0003007),1/57,0.0821157376538747,0.1217202305931329,0,0,12.26231527093596,30.65119706904604,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Proteolysis (GO:0006508),2/321,0.0832617265174281,0.1221455300981095,0,0,4.40013434841021,10.937705683032265,F7;CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Eye Development (GO:0001654),1/58,0.0834964966939316,0.1221455300981095,0,0,12.04658197217181,29.91106798113016,MAB21L1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Myoblast Differentiation (GO:0045661),1/58,0.0834964966939316,0.1221455300981095,0,0,12.04658197217181,29.91106798113016,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Renal System Development (GO:0072001),1/59,0.0848752478256348,0.1236226435721202,0,0,11.838287752675386,29.199998252267804,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Targeting to Mitochondrion (GO:0006626),1/60,0.0862519938757385,0.1250840603825645,0,0,11.637054354178844,28.516393460743195,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Metabolic Process (GO:0009892),1/63,0.090370229679819,0.1304914954428422,0,0,11.07230255839822,26.61604802845276,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Junction Assembly (GO:1901890),1/65,0.0931057463211684,0.1320286891529587,0,0,10.72521551724138,25.461869434390834,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Migration (GO:0030335),2/344,0.0936654274866744,0.1320286891529587,0,0,4.099415204678363,9.70752231454173,F7;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of DNA-templated Transcription (GO:0006355),6/2139,0.0943830748548989,0.1320286891529587,0,0,2.090600093764651,4.934638901055797,BARHL1;DDX5;NOTCH1;LHX5;TBX5;ZNF676
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein-Containing Complex Disassembly (GO:0032984),1/66,0.0944705208619502,0.1320286891529587,0,0,10.559681697612731,24.915225160225248,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Type I Interferon Production (GO:0032479),1/66,0.0944705208619502,0.1320286891529587,0,0,10.559681697612731,24.915225160225248,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of miRNA Transcription (GO:1902893),1/66,0.0944705208619502,0.1320286891529587,0,0,10.559681697612731,24.915225160225248,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Neurogenesis (GO:0050767),1/66,0.0944705208619502,0.1320286891529587,0,0,10.559681697612731,24.915225160225248,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Organelle Assembly (GO:0070925),2/346,0.0945877176021197,0.1320286891529587,0,0,4.07516611295681,9.610169391354503,NOTCH1;ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Adhesion (GO:0007162),1/67,0.0958333099563512,0.1332122773252184,0,0,10.399164054336469,24.387547080252187,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ras Protein Signal Transduction (GO:0007265),1/68,0.0971941163755111,0.134545574321472,0,0,10.243437982501286,23.87791592101611,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Skin Development (GO:0043588),1/69,0.098552942914148,0.1353083437550802,0,0,10.092292089249494,23.385469502095955,RIPK4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Autophagosome Organization (GO:1905037),1/69,0.098552942914148,0.1353083437550802,0,0,10.092292089249494,23.385469502095955,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Immune Response (GO:0050777),1/70,0.0999097923540907,0.1366113487290629,0,0,9.945527236381809,22.909398431433704,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Autophagosome Assembly (GO:0000045),1/72,0.1026175710295397,0.1391776773072705,0,0,9.664400194269062,22.00338548313555,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Kidney Development (GO:0001822),1/72,0.1026175710295397,0.1391776773072705,0,0,9.664400194269062,22.00338548313555,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of TOR Signaling (GO:0032008),1/73,0.1039685058127173,0.1398773070171096,0,0,9.529693486590038,21.572055090315494,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cellular Response to Growth Factor Stimulus (GO:0090288),1/73,0.1039685058127173,0.1398773070171096,0,0,9.529693486590038,21.572055090315494,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Sensory Organ Development (GO:0007423),1/74,0.1053174745633215,0.1411254159148508,0,0,9.398677373641949,21.15431674384753,MAB21L1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Hypoxia (GO:0071456),1/77,0.1093526123750557,0.1453695442287446,0,0,9.026315789473683,19.976840295907547,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of BMP Signaling Pathway (GO:0030510),1/77,0.1093526123750557,0.1453695442287446,0,0,9.026315789473683,19.976840295907547,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Population Proliferation (GO:0008285),2/379,0.1101801949801415,0.1458907720092783,0,0,3.712201591511936,8.187773329296586,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Decreased Oxygen Levels (GO:0036294),1/78,0.1106937446588701,0.1459937183492972,0,0,8.908643081056875,19.607816054535498,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Proteolysis Involved in Protein Catabolic Process (GO:0051603),1/80,0.1133701552568414,0.1483554766056323,0,0,8.682234831951114,18.9020683044028,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of TOR Signaling (GO:0032006),1/80,0.1133701552568414,0.1483554766056323,0,0,8.682234831951114,18.9020683044028,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway (GO:0090100),1/84,0.1186996371705696,0.1547252079849837,0,0,8.26215205650187,17.607959996023958,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Innate Immune Response (GO:0045088),1/86,0.1213527522063146,0.1569620540120286,0,0,8.066937119675456,17.0136033150249,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Integrin-Mediated Signaling Pathway (GO:0007229),1/86,0.1213527522063146,0.1569620540120286,0,0,8.066937119675456,17.0136033150249,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Nuclear-Transcribed mRNA Catabolic Process (GO:0000956),1/89,0.1253179535566854,0.1614673632364985,0,0,7.790752351097178,16.18062246106182,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Epithelial to Mesenchymal Transition (GO:0010717),1/91,0.1279518052795566,0.1642293286155229,0,0,7.616858237547893,15.661034464173188,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"Regulation of mRNA Splicing, via Spliceosome (GO:0048024)",1/97,0.135807441882233,0.1729866655153918,0,0,7.1386494252873565,14.2524368267114,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Organelle Organization (GO:0033043),1/97,0.135807441882233,0.1729866655153918,0,0,7.1386494252873565,14.2524368267114,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,mRNA Metabolic Process (GO:0016071),1/101,0.1410064822198498,0.1789286800895821,0,0,6.8517241379310345,13.422181001815328,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of NF-kappaB Transcription Factor Activity (GO:0051092),1/105,0.1461752814085876,0.1847876198938749,0,0,6.586870026525199,12.666213943509506,RIPK4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Catabolic Process (GO:0030163),1/107,0.1487483936763554,0.1866318797062887,0,0,6.461938841899805,12.31321821731818,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cell-Matrix Adhesion (GO:0007160),1/107,0.1487483936763554,0.1866318797062887,0,0,6.461938841899805,12.31321821731818,ITGA8
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of RNA Biosynthetic Process (GO:2001141),2/465,0.1535845505091982,0.1916251673322388,0,0,3.0094106757173718,5.638143076880849,NOTCH1;ZNF676
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Developmental Process (GO:0051093),1/111,0.1538721492906634,0.1916251673322388,0,0,6.225705329153605,11.652236916869368,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Transforming Growth Factor Beta Receptor Superfamily Signaling Pathway (GO:0141091),1/114,0.1576953885966523,0.1956590932588094,0,0,6.059505645407385,11.192452446545069,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Processing (GO:0016485),1/115,0.1589660866796708,0.1957854376385651,0,0,6.00604960677556,11.045511961406842,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Intrinsic Apoptotic Signaling Pathway (GO:0097193),1/115,0.1589660866796708,0.1957854376385651,0,0,6.00604960677556,11.045511961406842,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cytoskeleton Organization (GO:0007010),1/117,0.1615019259286161,0.1981800189966535,0,0,5.901902497027349,10.760574150978892,CAPZB
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Defense Response (GO:0031348),1/121,0.166551449837356,0.2036304222464024,0,0,5.704022988505747,10.224181762604308,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway (GO:0090101),1/122,0.1678092304407957,0.2044221534460603,0,0,5.656597321174123,10.096615989840982,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Anatomical Structure Morphogenesis (GO:0022603),1/127,0.1740706605220296,0.2112814176626084,0,0,5.430760810071155,9.494566361812383,CAPZB
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Epithelial Cell Differentiation (GO:0030855),1/132,0.1802865383685196,0.2172517638613456,0,0,5.222163727296657,8.946651703406395,TAGLN2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Neuron Projection Guidance (GO:0097485),1/132,0.1802865383685196,0.2172517638613456,0,0,5.222163727296657,8.946651703406395,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cellular Process (GO:0048523),2/531,0.1888695696822512,0.22521638534069,0,0,2.6250337564137185,4.375140112119021,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Membraneless Organelle Assembly (GO:0140694),1/139,0.1889128485992056,0.22521638534069,0,0,4.95552223888056,8.258226612129908,EIF1AX
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Motility (GO:2000146),1/139,0.1889128485992056,0.22521638534069,0,0,4.95552223888056,8.258226612129908,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cold-Induced Thermogenesis (GO:0120161),1/148,0.1998749505336224,0.2374401008112182,0,0,4.650011728829463,7.486813486371484,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of RNA Biosynthetic Process (GO:1902680),2/555,0.2019920691171419,0.2386184369572901,0,0,2.5080082665977783,4.0116265477683,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Growth Factor Stimulus (GO:0071363),1/150,0.2022914510324489,0.2386184369572901,0,0,4.587132608192548,7.330447973621347,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Axon Guidance (GO:0007411),1/152,0.2047008959060848,0.2403397138253727,0,0,4.525919159625485,7.179037454618381,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of ERK1 and ERK2 Cascade (GO:0070374),1/153,0.2059029787100954,0.2403397138253727,0,0,4.495916515426497,7.105122556571242,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Adenylate Cyclase-Activating G Protein-Coupled Receptor Signaling Pathway (GO:0007189),1/153,0.2059029787100954,0.2403397138253727,0,0,4.495916515426497,7.105122556571242,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Response to External Stimulus (GO:0032102),1/154,0.2071033050371711,0.2409014138453206,0,0,4.466306062654947,7.032366614617934,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Maturation (GO:0051604),1/158,0.211887095338983,0.2447661273743424,0,0,4.351636283768944,6.752441486021709,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Actin Filament Organization (GO:0007015),1/158,0.211887095338983,0.2447661273743424,0,0,4.351636283768944,6.752441486021709,TAGLN2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Ribosome Biogenesis (GO:0042254),1/161,0.2154566163787052,0.2480342490957603,0,0,4.269396551724138,6.553505373310399,EIF1AX
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"RNA Splicing, via Transesterification Reactions With Bulged Adenosine as Nucleophile (GO:0000377)",1/171,0.227242503419016,0.2607062967307204,0,0,4.016227180527383,5.950994561365476,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of DNA-binding Transcription Factor Activity (GO:0051091),1/174,0.2307447679561731,0.2638208097792422,0,0,3.9459836555710575,5.786560425251395,RIPK4
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Neuron Differentiation (GO:0030182),1/181,0.2388571515483527,0.2721671624785651,0,0,3.791187739463601,5.428562288226419,LHX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Extracellular Matrix Organization (GO:0030198),1/182,0.2400092910579399,0.2725529237437623,0,0,3.770051438369213,5.380156123099872,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cell Migration (GO:0030336),1/184,0.2423085145700881,0.2742342985843903,0,0,3.728471829658941,5.285271048697871,TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Transcription by RNA Polymerase II (GO:0006357),5/2250,0.2437164565209951,0.2748990334496073,0,0,1.579064587973274,2.229244104962883,BARHL1;DDX5;NOTCH1;LHX5;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Small GTPase-mediated Signal Transduction (GO:0007264),1/188,0.2468868064629631,0.2775405374667539,0,0,3.647980822423013,5.102887944281363,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Cytokine Production (GO:0001818),1/191,0.2503029641829888,0.2804397759240845,0,0,3.58983666061706,4.972222586114594,ATG12
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Generation of Neurons (GO:0048699),1/192,0.2514383510525367,0.2807728253419994,0,0,3.570861166275501,4.929778966484762,LHX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Axonogenesis (GO:0007409),1/200,0.2604618012849767,0.2898827356493927,0,0,3.425922717033443,4.608890626901229,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Differentiation (GO:0045595),1/201,0.2615823120745377,0.2901658097515567,0,0,3.4086206896551725,4.57098173760038,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Macromolecule Biosynthetic Process (GO:0010558),1/202,0.2627011816096694,0.2904452007895685,0,0,3.3914908217533024,4.53353494418687,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,DNA-templated Transcription (GO:0006351),1/203,0.2638184122405329,0.2907209476992714,0,0,3.374530556503926,4.496542545859288,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,"mRNA Splicing, via Spliceosome (GO:0000398)",1/211,0.2726975339035593,0.2995202421563684,0,0,3.244663382594417,4.216089747258697,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of ERK1 and ERK2 Cascade (GO:0070372),1/223,0.2858223997380623,0.3129101435040878,0,0,3.067412239826033,3.841579976733741,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,mRNA Processing (GO:0006397),1/226,0.2890676682797404,0.3154321461684464,0,0,3.0260536398467432,3.75561844433175,DDX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cilium Organization (GO:0044782),1/230,0.2933725253431161,0.3180575922004657,0,0,2.97259448878181,3.6453284710191713,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Autophagy (GO:0010506),1/230,0.2933725253431161,0.3180575922004657,0,0,2.97259448878181,3.6453284710191713,ATP6V1G2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Transcription by RNA Polymerase II (GO:0000122),2/732,0.3008913764979034,0.325156810086444,0,0,1.8825831702544031,2.260993597856789,DDX5;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cilium Assembly (GO:0060271),1/247,0.3113887126629925,0.33541870978168,0,0,2.764788337538548,3.225715234702672,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Signal Transduction (GO:0009967),1/256,0.3207460993498676,0.3442061071902333,0,0,2.6659905341446923,3.031512330272311,F7
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Cell Population Proliferation (GO:0042127),2/769,0.3216015270165464,0.3442061071902333,0,0,1.7883218476438816,2.028747401865771,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Plasma Membrane Bounded Cell Projection Assembly (GO:0120031),1/277,0.3421044689165845,0.3649840671562287,0,0,2.4605197401299352,2.6392497383817606,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Transport (GO:0015031),1/308,0.3724512798182698,0.3960989801241917,0,0,2.208581377063911,2.181303281569209,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein-Containing Complex Assembly (GO:0065003),1/323,0.3866450131992305,0.4098926563979184,0,0,2.1040908117369885,1.9994086863151697,COX15
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Intracellular Protein Transport (GO:0006886),1/326,0.3894462801380694,0.4115599490418084,0,0,2.084350132625995,1.9656033366514236,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Supramolecular Fiber Organization (GO:0097435),1/339,0.4014428461264721,0.4229036272087049,0,0,2.0028565598857377,1.827987367139076,TAGLN2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Macromolecule Biosynthetic Process (GO:0010557),1/355,0.4158952871188416,0.4367552388238619,0,0,1.9107734268458991,1.6763631135645822,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of MAPK Cascade (GO:0043410),1/362,0.4221116169387054,0.4418980989827072,0,0,1.8730537778202312,1.6154817330871527,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Gene Expression (GO:0010629),1/364,0.4238759327460618,0.442362733551186,0,0,1.862543934644248,1.5986484250483348,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Localization (GO:0008104),1/371,0.4300101262090725,0.4473707834783829,0,0,1.826654240447344,1.541598491749148,GRPEL2
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Transcription by RNA Polymerase II (GO:0045944),2/983,0.437739338453744,0.4540021002538831,0,0,1.3826270569389836,1.1422319904717186,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Cellular Response to Oxygen-Containing Compound (GO:1901701),1/384,0.4412351129903484,0.4562153174437244,0,0,1.7634824885207527,1.4428415342786935,GNB1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of DNA-templated Transcription (GO:0045892),2/1006,0.4496746493998053,0.4635107924582608,0,0,1.3493170176437108,1.078415934064489,DDX5;NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Gene Expression (GO:0010628),1/436,0.4840357695523361,0.496688172281522,0,0,1.5485533095521204,1.1236248165083518,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Organelle Organization (GO:0006996),1/437,0.4848269621971872,0.496688172281522,0,0,1.5449224928819991,1.118467079097494,CAPZB
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Regulation of Gene Expression (GO:0010468),2/1127,0.5101954657636627,0.5195944549319346,0,0,1.1965079365079363,0.8052036087873525,NOTCH1;ZNF676
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of RNA Biosynthetic Process (GO:1902679),1/470,0.51028828558987,0.5195944549319346,0,0,1.433791632968164,0.9646255420904376,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Negative Regulation of Apoptotic Process (GO:0043066),1/475,0.5140383488093071,0.5218268086397512,0,0,1.4183035064746108,0.9438205747952828,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cell Population Proliferation (GO:0008284),1/484,0.5207186237216591,0.5270112959116489,0,0,1.3912329549510958,0.907842738470724,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of DNA-templated Transcription (GO:0045893),2/1274,0.5780329534080862,0.583256142746111,0,0,1.049977538185085,0.5755183072052755,NOTCH1;TBX5
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Protein Metabolic Process (GO:0019538),1/614,0.607854004522063,0.6115047793239973,0,0,1.0888788884513698,0.5420662871232461,CTSK
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Cellular Process (GO:0048522),1/622,0.6126834369493704,0.6145178184971231,0,0,1.0744072408240324,0.5263595126360825,NOTCH1
+lgg_survival_ensembled_mrna,GO_Biological_Process_2025,Positive Regulation of Intracellular Signal Transduction (GO:1902533),1/652,0.6302869173679313,0.6302869173679313,0,0,1.023306319190635,0.4723378729259604,F7
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Complement and coagulation cascades,2/85,0.0071877384972766,0.1726212512548003,0,0,17.1144578313253,84.46633049181104,F7;F2RL2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,D-Glutamine and D-glutamate metabolism,1/5,0.0074781928285412,0.1726212512548003,0,0,172.1206896551724,842.6622961465415,GLUD1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Rheumatoid arthritis,2/93,0.0085495515929242,0.1726212512548003,0,0,15.603610675039246,74.30246609423192,ATP6V1G2;CTSK
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Vitamin B6 metabolism,1/6,0.008967337727522,0.1726212512548003,0,0,137.68965517241378,649.0919521468393,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Human papillomavirus infection,3/331,0.0131047373895045,0.2018129557983703,0,0,6.653794037940379,28.842743176459503,NOTCH1;ATP6V1G2;ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Oxidative phosphorylation,2/133,0.0169052903850118,0.2169512266076517,0,0,10.81733914940022,44.13613554797711,ATP6V1G2;COX15
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Nitrogen metabolism,1/17,0.0252060750668781,0.2772668257356595,0,0,43.00431034482759,158.28468525367578,GLUD1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Arginine biosynthesis,1/22,0.0325020152689227,0.2847670444261103,0,0,32.756978653530375,112.24025378249362,GLUD1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Proximal tubule bicarbonate reclamation,1/23,0.0339548558617346,0.2847670444261103,0,0,31.266457680250785,105.76577819907342,GLUD1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Collecting duct acid secretion,1/27,0.0397451584744871,0.2847670444261103,0,0,26.450928381962864,85.31131290182489,ATP6V1G2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Phototransduction,1/28,0.0411874839013458,0.2847670444261103,0,0,25.46998722860792,81.2396025067177,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Nicotinate and nicotinamide metabolism,1/35,0.0512252877849629,0.2847670444261103,0,0,20.219066937119678,60.081401552176,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Tyrosine metabolism,1/36,0.0526509413652038,0.2847670444261103,0,0,19.64039408866995,57.82271782479102,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,"Alanine, aspartate and glutamate metabolism",1/37,0.0540745240778647,0.2847670444261103,0,0,19.09386973180077,55.70430487305193,GLUD1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Tryptophan metabolism,1/42,0.0611614760831625,0.2847670444261103,0,0,16.761143818334734,46.83462101550951,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Porphyrin and chlorophyll metabolism,1/43,0.0625726944066545,0.2847670444261103,0,0,16.361247947454842,45.34399265988268,COX15
+lgg_survival_ensembled_mrna,KEGG_2021_Human,"Valine, leucine and isoleucine degradation",1/48,0.0695980839810058,0.2847670444261103,0,0,14.617021276595745,38.95462833164002,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Vibrio cholerae infection,1/50,0.0723939657090184,0.2847670444261103,0,0,14.019000703729768,36.80874147674154,ATP6V1G2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Notch signaling pathway,1/59,0.0848752478256348,0.2847670444261103,0,0,11.838287752675386,29.199998252267804,NOTCH1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Neuroactive ligand-receptor interaction,2/341,0.0922871304492471,0.2847670444261103,0,0,4.136325326590813,9.85624519918134,PRLHR;F2RL2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Retinol metabolism,1/68,0.0971941163755111,0.2847670444261103,0,0,10.243437982501286,23.87791592101611,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,PI3K-Akt signaling pathway,2/354,0.0983037779901793,0.2847670444261103,0,0,3.980925324675325,9.234523889819735,GNB1;ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Epithelial cell signaling in Helicobacter pylori infection,1/70,0.0999097923540907,0.2847670444261103,0,0,9.945527236381809,22.909398431433704,ATP6V1G2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,RIG-I-like receptor signaling pathway,1/70,0.0999097923540907,0.2847670444261103,0,0,9.945527236381809,22.909398431433704,ATG12
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Arrhythmogenic right ventricular cardiomyopathy,1/77,0.1093526123750557,0.2847670444261103,0,0,9.026315789473683,19.976840295907547,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Synaptic vesicle cycle,1/78,0.1106937446588701,0.2847670444261103,0,0,8.908643081056875,19.607816054535498,ATP6V1G2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Antigen processing and presentation,1/78,0.1106937446588701,0.2847670444261103,0,0,8.908643081056875,19.607816054535498,KLRC4
+lgg_survival_ensembled_mrna,KEGG_2021_Human,ECM-receptor interaction,1/88,0.1239981456512226,0.2847670444261103,0,0,7.880697582243361,16.45086689819455,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,GABAergic synapse,1/89,0.1253179535566854,0.2847670444261103,0,0,7.790752351097178,16.18062246106182,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Hypertrophic cardiomyopathy,1/90,0.1266358392018219,0.2847670444261103,0,0,7.702828361100349,15.917430476118057,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Morphine addiction,1/91,0.1279518052795566,0.2847670444261103,0,0,7.616858237547893,15.661034464173188,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Th1 and Th2 cell differentiation,1/92,0.1292658545119819,0.2847670444261103,0,0,7.532777567260326,15.411189911294056,NOTCH1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Dilated cardiomyopathy,1/96,0.1345029365993388,0.2847670444261103,0,0,7.214156079854809,14.472818068487964,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Circadian entrainment,1/97,0.135807441882233,0.2847670444261103,0,0,7.1386494252873565,14.2524368267114,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Toll-like receptor signaling pathway,1/104,0.1448859074147043,0.2847670444261103,0,0,6.651155005021761,12.848759048563156,CTSK
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Drug metabolism,1/108,0.1500321372358647,0.2847670444261103,0,0,6.401224621334193,12.142519852667972,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Serotonergic synapse,1/113,0.1564228347708119,0.2847670444261103,0,0,6.113916256157635,11.34249133434297,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Cholinergic synapse,1/113,0.1564228347708119,0.2847670444261103,0,0,6.113916256157635,11.34249133434297,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Glutamatergic synapse,1/114,0.1576953885966523,0.2847670444261103,0,0,6.059505645407385,11.192452446545069,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Thyroid hormone signaling pathway,1/121,0.166551449837356,0.2847670444261103,0,0,5.704022988505747,10.224181762604308,NOTCH1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Osteoclast differentiation,1/127,0.1740706605220296,0.2847670444261103,0,0,5.430760810071155,9.494566361812383,CTSK
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Lysosome,1/128,0.1753174699880012,0.2847670444261103,0,0,5.387727396144448,9.380878377461652,CTSK
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Relaxin signaling pathway,1/129,0.1765624599692897,0.2847670444261103,0,0,5.345366379310345,9.269296054674214,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,FoxO signaling pathway,1/131,0.1790469915916031,0.2847670444261103,0,0,5.262599469496021,9.052234105349967,ATG12
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Dopaminergic synapse,1/132,0.1802865383685196,0.2847670444261103,0,0,5.222163727296657,8.946651703406395,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Apelin signaling pathway,1/137,0.1864571840617326,0.2847670444261103,0,0,5.028904665314402,8.446315147566118,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Autophagy,1/137,0.1864571840617326,0.2847670444261103,0,0,5.028904665314402,8.446315147566118,ATG12
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Pathways in cancer,2/531,0.1888695696822512,0.2847670444261103,0,0,2.6250337564137185,4.375140112119021,NOTCH1;GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Apoptosis,1/142,0.1925829153930598,0.2847670444261103,0,0,4.849351919784788,7.987990633889733,CTSK
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Signaling pathways regulating pluripotency of stem cells,1/143,0.1938026997849468,0.2847670444261103,0,0,4.814958717824187,7.900936293655021,LHX5
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Breast cancer,1/147,0.1986640481617168,0.2847670444261103,0,0,4.682097307510628,7.566925122118201,NOTCH1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Cell adhesion molecules,1/148,0.1998749505336224,0.2847670444261103,0,0,4.650011728829463,7.486813486371484,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Retrograde endocannabinoid signaling,1/148,0.1998749505336224,0.2847670444261103,0,0,4.650011728829463,7.486813486371484,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Spliceosome,1/150,0.2022914510324489,0.2847670444261103,0,0,4.587132608192548,7.330447973621347,DDX5
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Phagosome,1/152,0.2047008959060848,0.2847670444261103,0,0,4.525919159625485,7.179037454618381,ATP6V1G2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,mTOR signaling pathway,1/154,0.2071033050371711,0.2847670444261103,0,0,4.466306062654947,7.032366614617934,ATP6V1G2
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Necroptosis,1/159,0.2130786765097357,0.2876122320934664,0,0,4.323876036665212,6.685117967665248,GLUD1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,JAK-STAT signaling pathway,1/162,0.2166429800184552,0.2876122320934664,0,0,4.242664382094667,6.4891744075022295,AOX1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,NOD-like receptor signaling pathway,1/181,0.2388571515483527,0.3038757785112699,0,0,3.791187739463601,5.428562288226419,ATG12
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Alcoholism,1/186,0.2446010133996292,0.3038757785112699,0,0,3.6877912395153776,5.192878092590616,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,RNA transport,1/186,0.2446010133996292,0.3038757785112699,0,0,3.6877912395153776,5.192878092590616,EIF1AX
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Transcriptional misregulation in cancer,1/192,0.2514383510525367,0.3038757785112699,0,0,3.570861166275501,4.929778966484762,DDX5
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Chemokine signaling pathway,1/192,0.2514383510525367,0.3038757785112699,0,0,3.570861166275501,4.929778966484762,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Kaposi sarcoma-associated herpesvirus infection,1/193,0.2525720756457308,0.3038757785112699,0,0,3.552083333333333,4.88787490008339,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Focal adhesion,1/201,0.2615823120745377,0.30987443122676,0,0,3.4086206896551725,4.57098173760038,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Proteoglycans in cancer,1/205,0.2660479660472825,0.3103892937218296,0,0,3.341108857336038,4.423890948661195,DDX5
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Human immunodeficiency virus 1 infection,1/212,0.2738001182358673,0.3146658075248028,0,0,3.2291224056218337,4.182866099809307,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Regulation of actin cytoskeleton,1/218,0.280381770826975,0.3174911228481923,0,0,3.1388844748132847,3.9914153456413297,ITGA8
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Human cytomegalovirus infection,1/225,0.2879874992379993,0.3204886341262911,0,0,3.039716748768473,3.783955541889337,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Thermogenesis,1/232,0.2955154938047619,0.3204886341262911,0,0,2.9465591879384982,3.5919558655424773,COX15
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Ras signaling pathway,1/232,0.2955154938047619,0.3204886341262911,0,0,2.9465591879384982,3.5919558655424773,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Shigellosis,1/246,0.3103413436693897,0.3318928258686529,0,0,2.7762139338494016,3.2483992810296334,ATG12
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Endocytosis,1/252,0.3166025361488444,0.3339506203213838,0,0,2.7090259651050967,3.1156727624395613,CAPZB
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Prion disease,1/273,0.3380869067508666,0.351793132700226,0,0,2.497210953346856,2.7081061519140195,NOTCH1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,MicroRNAs in cancer,1/310,0.374361960883141,0.3843449465066915,0,0,2.1940631625934603,2.1557375738800304,NOTCH1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Olfactory transduction,1/440,0.4871935095968268,0.4936039505125745,0,0,1.5341292907077213,1.1031829910121242,GNB1
+lgg_survival_ensembled_mrna,KEGG_2021_Human,Herpes simplex virus 1 infection,1/498,0.5309340583714202,0.5309340583714202,0,0,1.3510719489349892,0.8553872261434945,ZNF676

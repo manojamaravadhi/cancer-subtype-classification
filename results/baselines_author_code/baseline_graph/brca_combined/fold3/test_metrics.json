@@ -1,0 +1,25 @@
+{
+ "cancer": "brca_combined",
+ "omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "train_accuracy_per_omics": [
+  0.8558758314855875,
+  0.9778270509977827,
+  0.9246119733924612
+ ],
+ "selected_omics": [
+  "met",
+  "mrna",
+  "mirna"
+ ],
+ "reported_model": "all the omics",
+ "n_train": 451,
+ "n_test": 113,
+ "accuracy": 0.8407079646017699,
+ "macro_f1": 0.8287918133050877,
+ "weighted_f1": 0.8429490038464899,
+ "training_seconds": 47.079848527908325
+}
